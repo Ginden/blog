@@ -1,0 +1,122 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+body {
+	background-color: #93BC59;
+	background-image: url('images/bg.svg');
+	background-size: 33.333%;
+	padding: 0;
+}
+.content {
+	max-width: 1200px;
+	margin: 0 auto;
+	font-family: "Helvetica", sans-serif;
+	background-color: white;
+	z-index: 6;
+	position: relative;
+}
+
+header {
+	text-align: center;
+	
+}
+
+.projects {
+	width: 100%;
+}
+.projects > div:not(.active) {
+	background: rgba(89,147,188,0.2);
+}
+.accounts {
+	width: 30%;
+	margin: 0 auto;
+}
+
+.tiles > div {
+	min-width: 49%;
+	display: inline-block;
+	transition: all 1s;
+	
+	position: relative;
+}
+
+.tiles > div:not(.active) {
+	cursor: pointer;
+	
+}
+
+.tiles .description {
+	transition: all 1.25s;
+	line-height: 0;
+	font-size:0;
+	width: 50%;
+	margin: 0 auto;
+	color: transparent;
+}
+
+.tiles > div h3 {
+	text-align: center;
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.tiles > .github {
+	background-image: url('images/github.svg');
+	background-size: 100% auto;
+}
+
+.tiles > .npm {
+	background-image: url('images/npm.svg');
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+
+
+.tiles > ._R {
+	background-image: url('images/_R.svg');
+	
+}
+.active {
+	min-width: 100% !important;
+	background-color: rgba(147,188,89,0.5);
+}
+
+.active h3 {
+	
+}
+.active .description {
+	line-height: 1.5em;
+	font-size: 1.5em;
+	color: black;
+}
+
+.icon-right-top {
+	position: absolute;
+	right: 0;
+	top:0;
+	margin: 0;
+}
+.js {
+	min-width: 5%;
+	background-color: #D8D29F;
+	line-height: 2em;
+	text-align: center;
+	background-repeat: no-repeat;
+	
+}
+.js:after {
+	content: 'JS';
+}
+.php {
+	text-align: center;
+	min-width: 5%;
+	max-width: 95px;
+	background-color: #8892BF;
+	max-height: 1em;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	padding: 5px;
+}
+.php:after {
+	content: 'PHP'
+}
+
