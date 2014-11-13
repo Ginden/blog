@@ -1,8 +1,11 @@
 $('.tiles.activable > div').click(function(e) {
     var had = $(this).hasClass('active');
-    $(this).parent().children().removeClass('active');
-    if (!had)
-        $(this).addClass('active');
+    console.log(e);
+    if (e.target.nodeName !== 'A') {
+        $(this).parent().children().removeClass('active');
+        if (!had)
+            $(this).addClass('active');
+    }
     onResize();
 });
 
@@ -26,4 +29,12 @@ function onResize(){
     });
 }
 $(window).resize(onResize);
+
+$('.projects > div').each(function(i,$el) {
+    $el = $($el);
+    $el.append(
+        $('<a class="github-fork" data-calculated-size="square" />')
+            .attr('href', 'https://github.com/'+$el.attr('data-href'))
+   );
+})
 onResize();
