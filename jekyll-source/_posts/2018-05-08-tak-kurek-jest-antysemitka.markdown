@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tak, dr Ewa Kurek JEST antysemitką"
-date:   2018-02-28 00:19:37 +0100
+date:   2018-05-08 00:00:42 +0100
 categories: [antysemityzm, polska, "polityka historyczna"]
 ---
 
