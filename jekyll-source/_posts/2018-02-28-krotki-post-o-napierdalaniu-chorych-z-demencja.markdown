@@ -5,7 +5,7 @@ date:   2018-02-28 00:19:42 +0100
 categories: ["bicie dzieci"]
 ---
 
-Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][2][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem []argumentum ad antiquitatem](https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem) albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
+Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][2][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem [argumentum ad antiquitatem](https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem) albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
 
 Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.
 
