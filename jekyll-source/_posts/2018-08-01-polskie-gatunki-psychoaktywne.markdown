@@ -14,14 +14,20 @@ Pominąłem inhibitory MAO, w tym beta-karboliny.
 * DMT - dimetylotryptamina, psychodelik.
 * 5-MeO-DMT - 5-Metoksy-N,N-dimetylotryptamina, psychodelik.
 * Bufetonina - 5-hydroksy-dimetylotryptamina, psychodelik.
-* Psylocybina - prekursor psylocyny.
+* Psylocybina - w organizmie przekształca się w psylocynę.
 * Psylocyna - psychodelik, główny składnik psychoaktywny grzybów psylocybinowych.
+* THC - główna substancja psychoaktywna marihuany.
+* Tryptaminy - organiczny związek, którego modyfikacje służą jako wiele leków i substancji psychoaktywnych. Często nazwą "tryptamin" określa się wszystkie psychoaktywne pochodne tryptaminy. 
+* Inhibitory MAO - substancje hamujące działanie enzymu monoaminoksydazy.
+* Tolerancja fizyczna - przyjmowanie substancji niedługo po poprzednim przyjęciu wymaga zwiększenia dawki.
 
 ## Salamandra plamista
 
-W niektórych źródłach można znaleźć informacje jakoby wydzielina gruczołów przyusznych salamandry ognistej była psychoaktywna. To nieprawda, to *śmiertelna trucizna*. Opowieści o rzekomych jej właściwościach psychoaktywnych to zmyślenia jednego człowieka, Marjana Ogorevca.
+W niektórych źródłach można znaleźć informacje jakoby wydzielina gruczołów przyusznych salamandry plamistej była psychoaktywna. To nieprawda, to *śmiertelna trucizna*. Opowieści o rzekomych jej właściwościach psychoaktywnych to zmyślenia jednego człowieka, Marjana Ogorevca.
 
 Salamandra plamista znajduje się w Polsce pod ochroną.
+
+**Żródło**:  Kozorog, M. (2003). "Salamander Brandy: 'A Psychedelic Drink' between Media Myth and Practice of Home Alcohol Distillation in Slovenia". Anthropology of East Europe Review. 21 (1): 63–71. 
 
 ## Konopie
 
@@ -37,7 +43,7 @@ Ta bylina z rodziny wierzchlinowatych jest jednym z nielicznych psychoaktywnych 
 * **Stan prawny**: legalna ogólnie, ekstrakcja DMT nielegalna.
 * **Kategoria**: psychodelik.
 * **Potencjał używkowy**: OK.
-* **Praktyczność**: ekstrakcja substancji psychoaktywnych z rośliny wymaga podstawowych zdolności chemicznych.
+* **Praktyczność**: ekstrakcja substancji psychoaktywnych z rośliny wymaga podstawowych zdolności chemicznych. DMT nie jest aktywne przy spożyciu, jeśli nie jest podane wraz z inhibitorem MAO.
 * **Toksyczność**: niezarejestrowana. Gatunek łatwy do pomylenia z trującymi mozgami, zawierającymi graminę.
 * **Zdjęcia**: [Wirtualny atlas roślin](https://atlas.roslin.pl/plant/8451)
 * **Potencjał uzależniający**: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
@@ -56,9 +62,11 @@ Kłącza tataraku zawierają nietypową substancję psychoaktywną, azaron. Jest
 * **Zdjęcia**: [Wirtualny atlas roślin](https://atlas.roslin.pl/plant/6216)
 * **Potencjał uzależniający**: nieznany, ale nie opisano w literaturze osób uzależnionych.
 
+
+
 # Rośliny zawierające tujon
 
-Tujon to monoterpen będący antagonistą receptorów GABA<sub>A</sub> (niestety, literatura nie podaje których z wielu jego wariantów) i antagonistą receptorów serotoniny 5-HT3. Opisywane efekty spożycia w alkoholu obejmują poczucie dziwności rzeczywistośc, spożycie samego piołunu (najpopularniejszego źródła tujonu) sprawia że "wszystko wydaje się surrealne", "rzeczy dziwnie pachną", pojawia się "refleksyjny nastrój", a aktywność fizyczna sprawia większą przyjemność≥
+Tujon to monoterpen będący antagonistą receptorów GABA<sub>A</sub> (niestety, literatura nie podaje których z wielu jego wariantów) i antagonistą receptorów serotoniny 5-HT3. Opisywane efekty spożycia w alkoholu obejmują poczucie dziwności rzeczywistości, spożycie samego piołunu (najpopularniejszego źródła tujonu) sprawia że "wszystko wydaje się surrealne", "rzeczy dziwnie pachną", pojawia się "refleksyjny nastrój", a aktywność fizyczna sprawia większą przyjemność.
 
 Rośliny (wybór popularnych):
 * Tuje (kto by się spodziewał)
@@ -69,18 +77,17 @@ Rośliny (wybór popularnych):
 
 * **Stan prawny**: legalny na własny użytek, ograniczenia w przypadku produkcji alkoholi.
 * **Kategoria**: niejasna.
-* **Potencjał używkowy**: trudny do określenia - w przeszłości absynt był bardzo popularny, jednak obecnie nikt nie używa go w celach psychoaktywnych.
+* **Potencjał używkowy**: trudny do określenia - w przeszłości absynt był bardzo popularny (aż do momentu zakazu produkcji; obecnie zawartość tujonu w absyncie podlega kontroli), jednak obecnie jego użycie w celach psychoaktywnych jest znikome. 
 * **Praktyczność**: ekstrakcja tujonu z roślin zwykle jest trywialna.
 * **Toksyczność**: neurotoksyczny, długotrwałe używanie ma opisane trwałe efekty neurologiczne.
 * **Potencjał uzależniający**: nieznany.
 
 # Alkaloidy tropanowe
 
-Część roślin z rodziny psiankowatych zawiera alkaloidy tropanowe. To między innymi:
-* Bieluń
+Część roślin z rodziny psiankowatych zawiera alkaloidy tropanowe. To antagonisty receptorów muskarynowych.  To między innymi:
+* Bieluń ([wirtualny atlas roślin](https://atlas.roslin.pl/plant/6834))
 * Mandragora
-* Bieluń
-* Pokrzyk wilcza jagoda
+* Pokrzyk wilcza jagoda ([wirtualny atlas roślin](https://atlas.roslin.pl/plant/6440))
 
 Opisywane efekty spożycia, oprócz szerokiego spektrum nieprzyjemnych objawów fizycznych, w tym sercowych, zawierają pełne halucynacje, przeżywanie wspomnień raz po raz, utratę pamięci, świadomy sen.
 
@@ -105,9 +112,11 @@ Opisy przeżyć po spożyciu grzybów są dość podobne do opisów innych serot
 * **Praktyczność**: spożycie grzybów jest łatwe, znalezienie ich bywa trudne dla początkujących grzybiarzy.
 * **Potencjał uzależniający**: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
 
+
+
 # Muchomor czerwony
 
-*Amanita muscaria* to jeden z najpopularniejszych grzybów w Polsce. Jest opisywany jako trujący, słusznie - ze względu na zawartość neurotoksycznego kwasu ibotenowego zjedzenie kilkunastu kapeluszy może skończyć się na łonie Abrahama.
+*Amanita muscaria* to jeden z najpopularniejszych grzybów w Polsce. Jest opisywany jako trujący, słusznie - ze względu na zawartość zabójczego dla neuronów kwasu ibotenowego zjedzenie kilkunastu kapeluszy może skończyć się na łonie Abrahama.
 
 Przed spożyciem należy dokonać dekarboksylacji kwasu ibotenowego do pożądanego halucynogennego muscymolu (też jest trujący, ale w znacznie mniejszym stopniu). Najpopularniejszą metodą jest suszenie kapeluszy na słońcu i długie pieczenie.
 
