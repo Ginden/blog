@@ -3,6 +3,7 @@ layout: post
 title:  "Religia i nauka stoją w sprzeczności"
 date:   2018-05-27 16:19:41 +0100
 categories: [katolicyzm, ateizm, antyteizm]
+comments: true
 ---
 
 Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa _nauka i religia nie stoją w sprzeczności_. Albo _nawet Kościół uznał teorię ewolucji_ [a] albo _ksiądz[1] stworzył teorię Wielkiego Wybuchu_ albo _religia i nauka zajmują się całkiem rozłącznymi dziedzinami_. 

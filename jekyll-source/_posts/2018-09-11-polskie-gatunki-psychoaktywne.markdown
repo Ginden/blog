@@ -3,6 +3,7 @@ layout: post
 title:  "Rośliny i grzyby psychoaktywne po polsku"
 date:   2018-09-11 16:19:41 +0100
 categories: [biologia, narkotyki]
+comments: true
 ---
 
 Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.
