@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Rośliny i grzyby psychoaktywne po polsku"
-date:   2018-05-27 16:19:41 +0100
+date:   2018-09-11 16:19:41 +0100
 categories: [biologia, narkotyki]
 ---
 
 Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.
 
-Pominąłem inhibitory MAO, w tym beta-karboliny.
+Na liście pominąłem _inhibitory MAO_.
 
 ## Szybki słownik
 
@@ -75,7 +75,7 @@ Rośliny (wybór popularnych):
 * Jałowce
 * Wrotycz
 
-* **Stan prawny**: legalny na własny użytek, ograniczenia w przypadku produkcji alkoholi.
+* **Stan prawny**: legalny na własny użytek, ograniczenia w przypadku produkcji alkoholi na sprzedaż.
 * **Kategoria**: niejasna.
 * **Potencjał używkowy**: trudny do określenia - w przeszłości absynt był bardzo popularny (aż do momentu zakazu produkcji; obecnie zawartość tujonu w absyncie podlega kontroli), jednak obecnie jego użycie w celach psychoaktywnych jest znikome. 
 * **Praktyczność**: ekstrakcja tujonu z roślin zwykle jest trywialna.
@@ -95,7 +95,7 @@ Opisywane efekty spożycia, oprócz szerokiego spektrum nieprzyjemnych objawów 
 * **Kategoria**: halucynogen (deliriant).
 * **Potencjał używkowy**: niski. Generowane wizje są zwykle nieprzyjemne i nie słyszałem o nikim, kto chciałby powtarzać doświadczenie wielokrotnie.
 * **Toksyczność**: **śmiertelnie niebezpieczne**. Przedawkowanie może skończyć się nieprzyjemną śmiercią, a stosunek dawki psychoaktywnej do śmiertelnej jest bardzo niski.
-* **Praktyczność**: większość z tych roślin jest bardzo łatwa w przygotowaniu herbaty.
+* **Praktyczność**: większość z tych roślin jest bardzo łatwa w spożyciu.
 * **Potencjał uzależniający**: znikomy.
 
 # Łysiczka lancetowata
@@ -107,8 +107,8 @@ Opisy przeżyć po spożyciu grzybów są dość podobne do opisów innych serot
 
 * **Stan prawny**: raczej nielegalne (formalnie posiadanie grzybów jest legalne, ale nielegalne posiadanie zawartej w nich substancji). Kilka osób dostało wyroki za handel.
 * **Kategoria**: psychodelik.
-* **Potencjał używkowy**: bardzo wysoki. Produkowane doznania są zwykle przyjemne, rzadko występują poważne efekty uboczne.
-* **Toksyczność**: znikoma. Przypadki ciężkich powikłań po spożyciu grzybów psylocybinowych są bardzo rzadkie.
+* **Potencjał używkowy**: bardzo wysoki. Doznania są zwykle przyjemne, rzadko występują poważne efekty uboczne.
+* **Toksyczność**: znikoma. Przypadki ciężkich powikłań po spożyciu grzybów psylocybinowych są ekstremalnie rzadkie.
 * **Praktyczność**: spożycie grzybów jest łatwe, znalezienie ich bywa trudne dla początkujących grzybiarzy.
 * **Potencjał uzależniający**: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
 
@@ -116,7 +116,7 @@ Opisy przeżyć po spożyciu grzybów są dość podobne do opisów innych serot
 
 # Muchomor czerwony
 
-*Amanita muscaria* to jeden z najpopularniejszych grzybów w Polsce. Jest opisywany jako trujący, słusznie - ze względu na zawartość zabójczego dla neuronów kwasu ibotenowego zjedzenie kilkunastu kapeluszy może skończyć się na łonie Abrahama.
+*Amanita muscaria* to jeden z najpopularniejszych grzybów w Polsce. Jest opisywany jako trujący, słusznie - ze względu na zawartość zabójczego dla mózgu kwasu ibotenowego zjedzenie kilkunastu kapeluszy może skończyć się odpoczynkiem na łonie Abrahama.
 
 Przed spożyciem należy dokonać dekarboksylacji kwasu ibotenowego do pożądanego halucynogennego muscymolu (też jest trujący, ale w znacznie mniejszym stopniu). Najpopularniejszą metodą jest suszenie kapeluszy na słońcu i długie pieczenie.
 
