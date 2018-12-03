@@ -27,7 +27,7 @@ const fileList = fileListRaw
 
         const dom = new JSDOM(content);
 
-        
+        await addReferences(dom);
 
         const output = dom.serialize();
 
@@ -36,3 +36,64 @@ const fileList = fileListRaw
         }
     }
 })();
+
+
+async function addReferences(dom) {
+    const document = dom.window.document;
+
+    const paras = [...document.querySelectorAll('p')];
+
+    const referenceParagraphs = new Set();
+
+    for(const p of paras) {
+        const firstChild = p.firstElementChild;
+        if (!firstChild) continue;
+        if (!firstChild.tagName === 'STRONG') continue;
+        if (!firstChild.textContent.match(/\[\d*]/)) continue;
+
+        if (p.textContent.trim().startsWith(firstChild.textContent)) {
+            referenceParagraphs.add(p);
+
+            const newId = `reference-${firstChild.textContent.trim().slice(1,-1)}`;
+            firstChild.setAttribute('id', newId);
+        }
+    }
+
+    for(const p of paras.filter(p => !referenceParagraphs.has(p))) {
+        const nodeIterator = document.createNodeIterator(p, 4 /* text nodes */);
+
+
+        const replacementsList = [];
+        let currentNode;
+
+        while (currentNode = nodeIterator.nextNode()) {
+            const txt = currentNode.textContent;
+            const splits = txt.split(/(\[\d*\])/);
+            if (splits.length === 1) continue;
+
+            const fullSplits = splits.filter(Boolean);
+            const fragmentContent = fullSplits.map(txt => {
+                const m = txt.match(/(\[\d+])/);
+                if (!m) return document.createTextNode(txt);
+                const number = m[0].slice(1,-1);
+                const el = document.createElement('a');
+                el.setAttribute('href', `#reference-${number}`);
+                el.textContent = txt;
+                return el;
+            });
+
+            const fragment = document.createDocumentFragment();
+            for(const el of fragmentContent) fragment.appendChild(el);
+
+            replacementsList.push([currentNode, fragment]);
+        }
+
+        for(const [nodeToReplace, newNodes] of replacementsList) {
+            nodeToReplace.parentNode.replaceChild(newNodes, nodeToReplace);
+        }
+
+
+
+    }
+
+}

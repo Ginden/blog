@@ -80,18 +80,18 @@ A, tak, tytuł jest prowokacyjny - religia **nie musi** stać w sprzeczności z 
 [b] Nie mógł wiedzieć że gada od rzeczy, bo pierwsze sekwencjonowanie DNA udało się około 20 lat później. Można by się jednak spodziewać, że zachowa wstrzemięźliwość w tematach o których nie ma pojęcia.
 
 
-[1] [Georges Lemaître](https://pl.wikipedia.org/wiki/Georges_Lema%C3%AEtre) rzeczywiście był księdzem. Nie znając jego hipotezy, opublikowanej w niszowym piśmie naukowym, Wielki Wybuch wymyślił także Hubble dwa lata później. 
+**[1]** [Georges Lemaître](https://pl.wikipedia.org/wiki/Georges_Lema%C3%AEtre) rzeczywiście był księdzem. Nie znając jego hipotezy, opublikowanej w niszowym piśmie naukowym, Wielki Wybuch wymyślił także Hubble dwa lata później. 
 
-[2] [The Vatican Council Third Session, Chapter 4](http://traditionalcatholic.net/Tradition/Council/Vatican/Third_Session,_Chapter_4.html)
+**[2]** [The Vatican Council Third Session, Chapter 4](http://traditionalcatholic.net/Tradition/Council/Vatican/Third_Session,_Chapter_4.html)
 
-[3] [Catholic Dogma and Teaching on Creation](http://www.biblicalcatholic.com/apologetics/p100.htm). Cytat rzekomo pochodzi z _Acta apostolis sedis, 1 [1909 Pontifical Biblical Commission], pages 567-69, translated in Rome and the Study of Scripture, 7th edition, and cited from Origin of the Human Species by Dennis Bonnette, page 145_
+**[3]** [Catholic Dogma and Teaching on Creation](http://www.biblicalcatholic.com/apologetics/p100.htm). Cytat rzekomo pochodzi z _Acta apostolis sedis, 1 [1909 Pontifical Biblical Commission], pages 567-69, translated in Rome and the Study of Scripture, 7th edition, and cited from Origin of the Human Species by Dennis Bonnette, page 145_
 
-[4] [DE CHARACTERE HISTORICO TRIUM PRIORUM CAPITUM GENESEOS](http://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19090630_genesi_lt.html). Łaciński oryginał [3]
+**[4]** [DE CHARACTERE HISTORICO TRIUM PRIORUM CAPITUM GENESEOS](http://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19090630_genesi_lt.html). Łaciński oryginał [3]
 
-[5] [Oficjalne tłumaczenie Humani Generis na angielski](http://w2.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)
+**[5]** [Oficjalne tłumaczenie Humani Generis na angielski](http://w2.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html)
 
-[6] [Tłumaczenie Humani Generis na polski](https://pelagiusasturiensis.wordpress.com/pius-xii-humani-generis-pl/)
+**[6]** [Tłumaczenie Humani Generis na polski](https://pelagiusasturiensis.wordpress.com/pius-xii-humani-generis-pl/)
 
-[7] [Multiple instances of ancient balancing selection shared between humans and chimpanzees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612375/)
+**[7]** [Multiple instances of ancient balancing selection shared between humans and chimpanzees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612375/)
 
-[8] [Kurkh Monoliths](https://en.wikipedia.org/wiki/Kurkh_Monoliths)
+**[8]** [Kurkh Monoliths](https://en.wikipedia.org/wiki/Kurkh_Monoliths)
