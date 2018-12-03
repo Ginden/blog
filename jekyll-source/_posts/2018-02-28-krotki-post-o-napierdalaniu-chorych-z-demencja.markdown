@@ -20,18 +20,18 @@ A zwolennikom napierdalania dzieci życzę żeby gdy już będą starzy ich dzie
 
 ## Przypisy
 
-[1] [Research on Spanking: It’s Bad for ALL Kids](https://www.psychologytoday.com/blog/moral-landscapes/201309/research-spanking-it-s-bad-all-kids)
+**[1]** [Research on Spanking: It’s Bad for ALL Kids](https://www.psychologytoday.com/blog/moral-landscapes/201309/research-spanking-it-s-bad-all-kids)
 
-[2] _link stracony w trakcie migracji_
+**[2]** _link stracony w trakcie migracji_
 
-[3] [Spanking and Child Development: We Know Enough Now To Stop Hitting Our Children](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768154/)
+**[3]** [Spanking and Child Development: We Know Enough Now To Stop Hitting Our Children](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768154/)
 
-[4] [Spanking and child development across the first decade of life](http://www.ncbi.nlm.nih.gov/pubmed/24144718)
+**[4]** [Spanking and child development across the first decade of life](http://www.ncbi.nlm.nih.gov/pubmed/24144718)
 
-[5] [Spanking in early childhood and later behavior problems: a prospective study of infants and young toddlers.](http://www.ncbi.nlm.nih.gov/pubmed/15121948)
+**[5]** [Spanking in early childhood and later behavior problems: a prospective study of infants and young toddlers.](http://www.ncbi.nlm.nih.gov/pubmed/15121948)
 
-[6] [Spanking, corporal punishment and negative long-term outcomes: a meta-analytic review of longitudinal studies.](http://www.ncbi.nlm.nih.gov/pubmed/23274727)
+**[6]** [Spanking, corporal punishment and negative long-term outcomes: a meta-analytic review of longitudinal studies.](http://www.ncbi.nlm.nih.gov/pubmed/23274727)
 
-[7] [Correlates and Consequences of Spanking and Verbal Punishment for Low-Income White, African American, and Mexican American Toddlers](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987237/)
+**[7]** [Correlates and Consequences of Spanking and Verbal Punishment for Low-Income White, African American, and Mexican American Toddlers](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987237/)
 
-[8] [Disruption of classical conditioning in patients with Alzheimer's disease](https://www.sciencedirect.com/science/article/pii/0197458091900044)
+**[8]** [Disruption of classical conditioning in patients with Alzheimer's disease](https://www.sciencedirect.com/science/article/pii/0197458091900044)
