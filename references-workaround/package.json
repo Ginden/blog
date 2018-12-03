@@ -1,0 +1,15 @@
+{
+  "name": "references-workaround",
+  "version": "1.0.0",
+  "description": "This is simple workaround for my inability to write Ruby plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michał Wadas <michalwadas@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  }
+}

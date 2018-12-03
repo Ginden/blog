@@ -1,0 +1,38 @@
+'use strict';
+
+const {JSDOM} = require('jsdom');
+const fs = require('fs').promises;
+const {spawnSync} = require('child_process');
+
+const [,,outputFolder] = process.argv;
+
+const {
+    stdout: fileListRaw
+} = spawnSync('find', [outputFolder, '-print0'], {encoding: 'utf8'});
+
+const fileList = fileListRaw
+    .split('\0')
+    .filter((filePath) => filePath.endsWith('.html'));
+
+
+(async () => {
+
+    const fileContents = await Promise.all(fileList
+        .map(path => [path, fs.readFile(path, 'utf8')])
+        .map(a => Promise.all(a))
+    );
+
+    for(const [path, content] of fileContents) {
+        console.log(`Reading ${path}`);
+
+        const dom = new JSDOM(content);
+
+        
+
+        const output = dom.serialize();
+
+        if (output !== content) {
+            await fs.writeFile(path, output);
+        }
+    }
+})();
