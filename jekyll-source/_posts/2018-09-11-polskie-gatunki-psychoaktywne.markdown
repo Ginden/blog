@@ -14,19 +14,19 @@ Na liście pominąłem _inhibitory MAO_.
 
 ## Szybki słownik
 
-* DMT - dimetylotryptamina, psychodelik.
-* 5-MeO-DMT - 5-Metoksy-N,N-dimetylotryptamina, psychodelik.
-* Bufetonina - 5-hydroksy-dimetylotryptamina, psychodelik.
-* Psylocybina - w organizmie przekształca się w psylocynę.
-* Psylocyna - psychodelik, główny składnik psychoaktywny grzybów psylocybinowych.
-* THC - główna substancja psychoaktywna marihuany.
-* Tryptaminy - organiczny związek, którego modyfikacje służą jako wiele leków i substancji psychoaktywnych. Często nazwą "tryptamin" określa się wszystkie psychoaktywne pochodne tryptaminy. 
-* Inhibitory MAO - substancje hamujące działanie enzymu monoaminoksydazy.
-* Tolerancja fizyczna - przyjmowanie substancji niedługo po poprzednim przyjęciu wymaga zwiększenia dawki.
+* **DMT** - dimetylotryptamina, psychodelik.
+* **5-MeO-DMT** - 5-Metoksy-N,N-dimetylotryptamina, psychodelik.
+* **Bufetonina** - 5-hydroksy-dimetylotryptamina, psychodelik.
+* **Psylocybina** - w organizmie przekształca się w psylocynę.
+* **Psylocyna** - psychodelik, główny składnik psychoaktywny grzybów psylocybinowych.
+* **THC** - główna substancja psychoaktywna marihuany.
+* **Tryptaminy** - organiczny związek, którego modyfikacje służą jako wiele leków i substancji psychoaktywnych. Często nazwą "tryptamin" określa się wszystkie psychoaktywne pochodne tryptaminy. 
+* **Inhibitory MAO** - substancje hamujące działanie enzymu monoaminoksydazy.
+* **Tolerancja fizyczna** - przyjmowanie substancji niedługo po poprzednim przyjęciu wymaga zwiększenia dawki.
 
 ## Salamandra plamista
 
-W niektórych źródłach można znaleźć informacje jakoby wydzielina gruczołów przyusznych salamandry plamistej była psychoaktywna. To nieprawda, to *śmiertelna trucizna*. Opowieści o rzekomych jej właściwościach psychoaktywnych to zmyślenia jednego człowieka, Marjana Ogorevca.
+W niektórych źródłach można znaleźć informacje jakoby wydzielina gruczołów przyusznych salamandry plamistej była psychoaktywna. To nieprawda, to **śmiertelna trucizna**. Opowieści o rzekomych jej właściwościach psychoaktywnych to zmyślenia jednego człowieka, Marjana Ogorevca.
 
 Salamandra plamista znajduje się w Polsce pod ochroną.
 
@@ -43,15 +43,15 @@ W Polsce naturalnie występują liczne gatunki/podgatunki/odmiany konopii. W zas
 Ta bylina z rodziny wierzchlinowatych jest jednym z nielicznych psychoaktywnych gatunków w Polsce i chyba jedynym zawierającym pochodne dimetylotryptaminy w Polsce, możliwe do ekstrakcji. Efekty są silnie psychodeliczne, odpowiada za nie ta sama substancja co za wywar ayahusca.
 
 
-* **Stan prawny**: legalna ogólnie, ekstrakcja DMT nielegalna.
+* **Stan prawny**: legalna ogólnie, uprawiana, ekstrakcja DMT nielegalna.
 * **Kategoria**: psychodelik.
 * **Potencjał używkowy**: OK.
 * **Praktyczność**: ekstrakcja substancji psychoaktywnych z rośliny wymaga podstawowych zdolności chemicznych. DMT nie jest aktywne przy spożyciu, jeśli nie jest podane wraz z inhibitorem MAO.
 * **Toksyczność**: niezarejestrowana. Gatunek łatwy do pomylenia z trującymi mozgami, zawierającymi graminę.
 * **Zdjęcia**: [Wirtualny atlas roślin](https://atlas.roslin.pl/plant/8451)
-* **Potencjał uzależniający**: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
+* **Potencjał uzależniający**: mały. Wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
 
-Źródło: Smith, T.A. 1977. Review: Tryptamine and Related Compounds in Plants. Phytochemistry 16 171-175. Za: [deoxy.org](https://web.archive.org/web/19970706115948/http://www.deoxy.org/trypfaq.htm#67)
+**Źródło**: Smith, T.A. 1977. Review: Tryptamine and Related Compounds in Plants. Phytochemistry 16 171-175. Za: [deoxy.org](https://web.archive.org/web/19970706115948/http://www.deoxy.org/trypfaq.htm#67)
 
 # Tatarak zwyczajny
 
@@ -114,8 +114,6 @@ Opisy przeżyć po spożyciu grzybów są dość podobne do opisów innych serot
 * **Toksyczność**: znikoma. Przypadki ciężkich powikłań po spożyciu grzybów psylocybinowych są ekstremalnie rzadkie.
 * **Praktyczność**: spożycie grzybów jest łatwe, znalezienie ich bywa trudne dla początkujących grzybiarzy.
 * **Potencjał uzależniający**: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.
-
-
 
 # Muchomor czerwony
 
