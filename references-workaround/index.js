@@ -41,7 +41,7 @@ const fileList = fileListRaw
 async function addReferences(dom) {
     const document = dom.window.document;
 
-    const paras = [...document.querySelectorAll('p')];
+    const paras = [...document.querySelectorAll('p, li')];
 
     const referenceParagraphs = new Set();
 
@@ -59,7 +59,9 @@ async function addReferences(dom) {
         }
     }
 
-    for(const p of paras.filter(p => !referenceParagraphs.has(p))) {
+    let i = 0;
+
+    for(const p of document.querySelectorAll('div.post-content')) {
         const nodeIterator = document.createNodeIterator(p, 4 /* text nodes */);
 
 
@@ -78,6 +80,8 @@ async function addReferences(dom) {
                 const number = m[0].slice(1,-1);
                 const el = document.createElement('a');
                 el.setAttribute('href', `#reference-${number}`);
+                el.setAttribute('id', `referencing-${i++}`);
+                el.setAttribute('class', 'referencing');
                 el.textContent = txt;
                 return el;
             });
