@@ -4,6 +4,8 @@ title:  "Czy katolicyzm jest kompatybilny z anarchokapitalizmem?"
 date:   2018-02-28 00:19:41 +0100
 categories: [katolicyzm, libertarianizm]
 comments: true
+redirect_from:
+  - katolicyzm/libertarianizm/2018/02/28/katolicyzm_a_libertarianizm.html
 ---
 
 Wiele osób twierdzi, że libertarianizm albo nawet anarchokapitalizm jest do pogodzenia z katolicyzmem.

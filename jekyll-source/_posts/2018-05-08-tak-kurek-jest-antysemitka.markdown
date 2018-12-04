@@ -4,6 +4,8 @@ title:  "Tak, dr Ewa Kurek JEST antysemitką"
 date:   2018-05-08 00:00:42 +0100
 categories: [antysemityzm, polska, "polityka historyczna"]
 comments: true
+redirect_from:
+  - antysemityzm/polska/polityka historyczna/2018/05/08/tak-kurek-jest-antysemitka.html
 ---
 
 Opierałem się na następujących źródłach:

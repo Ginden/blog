@@ -4,6 +4,8 @@ title: "Quasi o aborcji"
 date: 2018-02-28 00:19:37 +0100
 categories: [aborcja]
 comments: true
+redirect_from:
+  - aborcja/2018/02/28/quasi-o-aborcji.html
 ---
 
 
