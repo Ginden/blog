@@ -231,7 +231,7 @@ Rozszczepiony zarodek może powtórnie zlać się w jeden embrion. Procedurę ro
 Wspomniana wcześniej hodowla embrionalnych komórek macierzystych można traktować jako takie rojowisko rozszczepianych i fuzjowanych potencjalnych bliźniaczych zarodków. 
 
 ### Fuzji mogą podlegać także różne genetycznie zarodki
-[Fuzji mogą podlegać także różne genetycznie zarodki](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio&amp;part=A2609&amp;rendertype=figure&amp;id=A2671) w konsekwencji tworząc zarodek będący mieszaniną różnych, pochodzących z różnych zygot klonów komórek - tzw. **chimerę**. **[2][11][12][13][14]-15]** 
+[Fuzji mogą podlegać także różne genetycznie zarodki](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio&amp;part=A2609&amp;rendertype=figure&amp;id=A2671) w konsekwencji tworząc zarodek będący mieszaniną różnych, pochodzących z różnych zygot klonów komórek - tzw. **chimerę**. **[2][11][12][13][14][15]** 
 
 Żywotna chimera może powstać także z fuzji normalnego zarodka postzapłodnieniowego z zarodkiem partenogenetycznym. **[14][16]** Jeśli zarodek zostanie trwale skolonizowany przez komórki matki lub nie-identycznego bliźniaka - albo gdy organizm matki zostanie skolonizowany przez komórki zarodka - mówimy wówczas o **mikrochimerze**. **[15][17]** 
 
@@ -371,12 +371,10 @@ Wbrew temu co zwykli twierdzić obrońcy życia, _levongestrel_ - który jest ob
 **[1]** "[Fusion of genetic material in mammals](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio&amp;part=A1412#A1415)." w Gilbert, Scott F. _Developmental Biology, Eighth Edition_. Sinauer Associates Inc., 2006. 
 
 **[2]** Patrz np.: 
-
 * [http://en.wikipedia.org/wiki/Polar_body](http://en.wikipedia.org/wiki/Polar_body) 
 * Golubovsky, M D. “[Postzygotic diploidization of triploids as a source of unusual cases of mosaicism, chimerism and twinning.](http://www.ncbi.nlm.nih.gov/pubmed/12571155)” _Human Reproduction (Oxford, England)_ 18, no. 2 (Luty 2003): 236-242. 
 
 **[3]** Patrz np.: 
-
 * Wang, Xiaobin, Changzhong Chen, Lihua Wang, Dafang Chen, Wenwei Guang, i Jonathan French. “[Conception, early pregnancy loss, and time to clinical pregnancy: a population-based prospective study.](http://www.ncbi.nlm.nih.gov/pubmed/12620443)” _Fertility and Sterility_ 79, no. 3 (Marzec 2003): 577-584. 
 * Wilcox, A J, D D Baird, i C R Weinberg. “[Time of implantation of the conceptus and loss of pregnancy.](http://www.ncbi.nlm.nih.gov/pubmed/10362823)” _The New England Journal of Medicine_ 340, no. 23 (Czerwiec 10, 1999): 1796-1799. 
 
@@ -385,7 +383,6 @@ Wbrew temu co zwykli twierdzić obrońcy życia, _levongestrel_ - który jest ob
 **[5]** Green, Ronald M. “[Can we develop ethically universal embryonic stem-cell lines?](http://www.ncbi.nlm.nih.gov/pubmed/17510667).” _Nature Reviews. Genetics_ 8, no. 6 (Czerwiec 2007): 480-485. doi:10.1038/nrg2066. 
 
 **[6]** Patrz np.: 
-
 * Rougier, N, i Z Werb. “[Minireview: Parthenogenesis in mammals](http://www.ncbi.nlm.nih.gov/pubmed/11468784).” _Molecular Reproduction and Development_ 59, no. 4 (Sierpień 2001): 468-474. doi:10.1002/mrd.1054. 
 * Kono, Tomohiro, Yayoi Obata, Quiong Wu, Katsutoshi Niwa, Yukiko Ono, Yuji Yamamoto, Eun Sung Park, Jeong-Sun Seo, i Hidehiko Ogawa. “[Birth of parthenogenetic mice that can develop to adulthood](http://www.ncbi.nlm.nih.gov/pubmed/15103378).” _Nature_ 428, no. 6985 (Kwiecień 22, 2004): 860-4. doi:10.1038/nature02402. 
 * Lee, Ho-Joon, i Jose Teixeira. “[Parthenogenesis in human oocytes that were collected from resected ovarian tissue and matured in vitro](http://www.ncbi.nlm.nih.gov/pubmed/19249941).” _Stem Cells and Development_ 18, no. 6 (Sierpień 2009): 941-946. doi:10.1089/scd.2009.0004. 
@@ -395,7 +392,6 @@ Wbrew temu co zwykli twierdzić obrońcy życia, _levongestrel_ - który jest ob
 **[8]** Fulka, Josef, Helena Fulka, Justin St John, Cesare Galli, Giovanna Lazzari, Irina Lagutina, Josef Fulka, i Pasqualino Loi. “[Cybrid human embryos--warranting opportunities to augment embryonic stem cell research](http://www.ncbi.nlm.nih.gov/pubmed/18675481).” _Trends in Biotechnology_ 26, no. 9 (Wrzesień 2008): 469-474. doi:10.1016/j.tibtech.2008.06.001. 
 
 **[9]** Patrz np.: 
-
 * Duncan, S A. “[Generation of embryos directly from embryonic stem cells by tetraploid embryo complementation reveals a role for GATA factors in organogenesis](http://www.ncbi.nlm.nih.gov/pubmed/16246163).” _Biochemical Society Transactions_ 33, no. Pt 6 (Grudzień 2005): 1534-1536. doi:10.1042/BST20051534. 
 * Poueymirou, William T, Wojtek Auerbach, David Frendewey, Joseph F Hickey, Jennifer M Escaravage, Lakeisha Esau, Anthony T Doré, et al. “[F0 generation mice fully derived from gene-targeted embryonic stem cells allowing immediate phenotypic analyses](http://www.ncbi.nlm.nih.gov/pubmed/17187059).” _Nature Biotechnology_ 25, no. 1 (Styczeń 2007): 91-99. doi:10.1038/nbt1263. 
 * Huang, Junjiu, Kai Deng, Haojia Wu, Zhong Liu, Zhisheng Chen, Shanbo Cao, Lingjun Zhou, Xiaoying Ye, David L Keefe, i Lin Liu. “[Efficient production of mice from embryonic stem cells injected into four- or eight-cell embryos by piezo micromanipulation](http://www.ncbi.nlm.nih.gov/pubmed/18467666).” _Stem Cells (Dayton, Ohio)_ 26, no. 7 (Lipiec 2008): 1883-1890. doi:10.1634/stemcells.2008-0164. 
@@ -421,43 +417,36 @@ Wbrew temu co zwykli twierdzić obrońcy życia, _levongestrel_ - który jest ob
 **[19]** Souter, Vivienne L, Melissa A Parisi, Dale R Nyholt, Raj P Kapur, Anjali K Henders, Kent E Opheim, Daniel F Gunther, Michael E Mitchell, Ian A Glass, i Grant W Montgomery. “[A case of true hermaphroditism reveals an unusual mechanism of twinning](http://www.ncbi.nlm.nih.gov/pubmed/17165045).” _Human Genetics_ 121, no. 2 (Kwiecień 2007): 179-185. doi:10.1007/s00439-006-0279-x. 
 
 **[20]** Patrz np.: 
-
 * Boklage, Charles E. “[Embryogenesis of chimeras, twins and anterior midline asymmetries](http://www.ncbi.nlm.nih.gov/pubmed/16253966).” _Human Reproduction (Oxford, England)_ 21, no. 3 (Marzec 2006): 579-591. doi:10.1093/humrep/dei370. 
 * Boklage, Charles E. “[Traces of embryogenesis are the same in monozygotic and dizygotic twins: not compatible with double ovulation](http://www.ncbi.nlm.nih.gov/pubmed/19252194).” _Human Reproduction (Oxford, England)_ 24, no. 6 (Czerwiec 2009): 1255-1266. doi:10.1093/humrep/dep030. 
 
 **[21]** Kaufman, M H. “[The embryology of conjoined twins](http://www.ncbi.nlm.nih.gov/pubmed/15278382).” _Child's Nervous System: ChNS: Official Journal of the International Society for Pediatric Neurosurgery_ 20, no. 8-9 (Sierpień 2004): 508-525. doi:10.1007/s00381-004-0985-4. 
 
 **[22]** Patrz np.: 
-
 * Spencer, R. “[Parasitic conjoined twins: external, internal (fetuses in fetu and teratomas), and detached (acardiacs)](http://www.ncbi.nlm.nih.gov/pubmed/11754238).” _Clinical Anatomy (New York, N.Y.)_ 14, no. 6 (Listopad 2001): 428-444. doi:10.1002/ca.1079. 
 * Ratan, Simmi K, Kamal Nain Rattan, Sarita Magu, Shashi Gupta, Rajat Narang, i Brijbala Arora. “[Thoracopagus parasites in two sets of twins: evidence for the fusion theory](http://www.ncbi.nlm.nih.gov/pubmed/18810464).” _Pediatric Surgery International_ 24, no. 11 (Listopad 2008): 1255-1259. doi:10.1007/s00383-008-2248-z. 
 * Tofigh, Arash Mohammadi, Ali Kavyani, S Motahhareh Abdollahi, Gholamhossein Kazemzadeh, i Dariush Nazemi Salman. “[Fetus in fetu: report of a case and literature review](http://www.ncbi.nlm.nih.gov/pubmed/17604707).” _International Journal of Surgery (London, England)_ 6, no. 6 (Grudzień 2008): e94-96. doi:10.1016/j.ijsu.2007.04.010. 
 * Iyer, Krishna V, Kikkeri Vinaya, Jack O Haller, Suresh Maximin, Jose Barrerras, i Francesca Velchek. “[Multiple fetuses in fetu:imaging findings](http://www.ncbi.nlm.nih.gov/pubmed/12497241).” _Pediatric Radiology_ 33, no. 1 (Styczeń 2003): 53-55. doi:10.1007/s00247-002-0736-1. 
 
 **[23]** Patrz np.: 
-
 * Basu, Adhish, S Jagdish, Krishnan R Iyengar, i Debdatta Basu. “[Fetus in fetu or differentiated teratomas?](http://www.ncbi.nlm.nih.gov/pubmed/17183856).” _Indian Journal of Pathology &amp; Microbiology_ 49, no. 4 (Październik 2006): 563-565. 
 * Weiss, Jason R, Jeanette R Burgess, i Keith J Kaplan. “[Fetiform teratoma (homunculus)](http://www.ncbi.nlm.nih.gov/pubmed/17090201).” _Archives of Pathology &amp; Laboratory Medicine_ 130, no. 10 (Październik 2006): 1552-1556. 
 
 **[24]** Lee, Susan J, Henry J Peter Ralston, Eleanor A Drey, John Colin Partridge, i Mark A Rosen. “[Fetal pain: a systematic multidisciplinary review of the evidence](http://www.ncbi.nlm.nih.gov/pubmed/16118385).” _JAMA: The Journal of the American Medical Association_ 294, no. 8 (Sierpień 24, 2005): 947-54. doi:294/8/947. 
 
 **[25]**
-
 * Derbyshire, Stuart W G. “[Can fetuses feel pain?](http://www.ncbi.nlm.nih.gov/pubmed/16613970).” _BMJ (Clinical Research Ed.)_ 332, no. 7546 (Kwiecień 15, 2006): 909-12. doi:332/7546/909. 
 * Derbyshire, Stuart W G. “[Fetal pain: do we know enough to do the right thing?](http://www.ncbi.nlm.nih.gov/pubmed/18772092).” _Reproductive Health Matters_ 16, no. 31 Suppl (Maj 2008): 117-26. doi:S0968-8080(08)31370-6. 
 
 **[26]** Patrz np.: 
-
 * Coghlan, Andy, i Emma Young. “[Why fetuses don't feel pain](http://www.ncbi.nlm.nih.gov/pubmed/16276666).” _New Scientist_ (1971) 187, no. 2515 (2005): 8-9. doi:16276666. 
 * Mellor, David J, Tamara J Diesch, Alistair J Gunn, i Laura Bennet. “[The importance of 'awareness' for understanding fetal pain](http://www.ncbi.nlm.nih.gov/pubmed/16269314).” _Brain Research. Brain Research Reviews_ 49, no. 3 (Listopad 2005): 455-71. doi:S0165-0173(05)00021-4. 
 
 **[27]** Patrz np.: 
-
 * Herschkowitz, N. “[Neurological bases of behavioral development in infancy](http://www.ncbi.nlm.nih.gov/pubmed/11102724).” _Brain &amp; Development_ 22, no. 7 (Październik 2000): 411-416. 
 * Chugani, H T. “[Biological basis of emotions: brain systems and brain development](http://www.ncbi.nlm.nih.gov/pubmed/9794959).” _Pediatrics_ 102, no. 5 Suppl E (Listopad 1998): 1225-1229. 
 
 **[28]** Patrz np.: 
-
 * Baird, David T. “[Emergency contraception: how does it work?](http://www.ncbi.nlm.nih.gov/pubmed/19281662).” _Reproductive Biomedicine Online_ 18 Suppl 1 (2009): 32-36. 
 * Purdy, Laura. “[Is emergency contraception murder?](http://www.ncbi.nlm.nih.gov/pubmed/19281663).” _Reproductive Biomedicine Online_ 18 Suppl 1 (2009): 37-42. 
 

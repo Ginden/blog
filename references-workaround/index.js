@@ -89,6 +89,7 @@ async function addReferences(dom) {
                 const el = document.createElement('a');
                 el.setAttribute('href', `#reference-${number}`);
                 el.setAttribute('id', `referencing-${i++}`);
+                el.setAttribute('data-target', `reference-${number}`);
                 el.setAttribute('class', 'referencing');
                 el.textContent = txt;
                 return el;

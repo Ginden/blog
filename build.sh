@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+wget https://code.jquery.com/jquery-3.3.1.min.js -O "jekyll-source/assets/jquery.min.js";
+
 (cd jekyll-source && jekyll build --destination ../docs);
 
 (xmllint --format docs/feed.xml > docs/pretty-feed.xml) && mv docs/pretty-feed.xml docs/feed.xml;
