@@ -1,7 +1,11 @@
 'use strict';
 
+
 const {JSDOM} = require('jsdom');
 const fs = require('fs').promises;
+if (!fs) {
+    throw new Error('Your node version have to support fs.promises API');
+}
 const {spawnSync} = require('child_process');
 
 const [,,outputFolder] = process.argv;
@@ -35,7 +39,11 @@ const fileList = fileListRaw
             await fs.writeFile(path, output);
         }
     }
-})();
+})().catch(err => {
+    setImmediate(() => {
+        throw err;
+    });
+});
 
 
 async function addReferences(dom) {

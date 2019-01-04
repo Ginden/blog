@@ -4,3 +4,6 @@ _site
 .temp
 
 package-lock.json
+
+# Symlink for http-server to test locally
+blog
