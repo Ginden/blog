@@ -8,7 +8,7 @@ redirect_from:
   - bicie dzieci/2018/02/28/krotki-post-o-napierdalaniu-chorych-z-demencja.html
 ---
 
-Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][2][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem [argumentum ad antiquitatem](https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem) albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
+Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem [argumentum ad antiquitatem](https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem) albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
 
 Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.
 
@@ -23,8 +23,6 @@ A zwolennikom napierdalania dzieci życzę żeby gdy już będą starzy ich dzie
 ## Przypisy
 
 **[1]** [Research on Spanking: It’s Bad for ALL Kids](https://www.psychologytoday.com/blog/moral-landscapes/201309/research-spanking-it-s-bad-all-kids)
-
-**[2]** _link stracony w trakcie migracji_
 
 **[3]** [Spanking and Child Development: We Know Enough Now To Stop Hitting Our Children](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768154/)
 
