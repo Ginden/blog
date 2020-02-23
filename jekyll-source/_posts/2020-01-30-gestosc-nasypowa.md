@@ -21,7 +21,10 @@ date: 2020-01-30 18:16 +0100
 
 
 
-[1] http://www.sugartech.co.za/density/index.php
-[2] http://www.anval.net/downloads/bulk%20density%20chart.pdf
-[3] Pomiar własny
-[4] http://www.zbiorniki-silosy.pl/masy-nasypowe.html
+**[1]** [Density of Sugar Factory Products](http://www.sugartech.co.za/density/index.php)
+
+**[2]** [Anval Bulk Density Chart](http://www.anval.net/downloads/bulk%20density%20chart.pdf)
+
+**[3]** Pomiar własny
+
+**[4]** [Masy nasypowe mgazynownych i transportowanych towarów w rolnictwie i w przemyśle](http://www.zbiorniki-silosy.pl/masy-nasypowe.html)

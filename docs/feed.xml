@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-02-23T23:52:37+01:00</updated>
+  <updated>2020-02-24T00:01:42+01:00</updated>
   <id>https://ginden.github.io//blog/</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -111,10 +111,13 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;[1] http://www.sugartech.co.za/density/index.php
-[2] http://www.anval.net/downloads/bulk%20density%20chart.pdf
-[3] Pomiar własny
-[4] http://www.zbiorniki-silosy.pl/masy-nasypowe.html&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="http://www.sugartech.co.za/density/index.php"&gt;Density of Sugar Factory Products&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href="http://www.anval.net/downloads/bulk%20density%20chart.pdf"&gt;Anval Bulk Density Chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[3]&lt;/strong&gt; Pomiar własny&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[4]&lt;/strong&gt; &lt;a href="http://www.zbiorniki-silosy.pl/masy-nasypowe.html"&gt;Masy nasypowe mgazynownych i transportowanych towarów w rolnictwie i w przemyśle&lt;/a&gt;&lt;/p&gt;</content>
     <author>
       <name/>
     </author>
