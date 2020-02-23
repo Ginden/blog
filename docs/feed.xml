@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-02-24T00:01:42+01:00</updated>
+  <updated>2020-02-24T00:26:18+01:00</updated>
   <id>https://ginden.github.io//blog/</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -49,7 +49,7 @@
       &lt;td&gt;Owies&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt;433g/l&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;1463kcal/l&lt;/td&gt;
       &lt;td&gt;[2]&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -63,7 +63,7 @@
       &lt;td&gt;Żyto&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt;705g/l&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;2122kcal/l&lt;/td&gt;
       &lt;td&gt;[2]&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -121,7 +121,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Składnik Marka Ciężar nasypowy Energia nasypowa Żródło Cukier   705 g/l 2749kcal/l [1] Mąka kukurydziana   673 g/l 2564kcal/l [2] Glukoza   577g/l 2365kcal/l [2] Owies   433g/l   [2] Ryż   721g/l 2573kcal/l [2] Żyto   705g/l   [2] Sól   1378g/l N/A [2] Erytrol ViVio 864g/l   [3] Ksylitol Agnex 870g/l   [3] Makaron świderki Lubella 340g/l 646kcal/l [3] Ziemniaki surowe   700g/l 560kcal/l [4] Kasza   600g/l 2130kcal/l [4]</summary>
+    <summary type="html">Składnik Marka Ciężar nasypowy Energia nasypowa Żródło Cukier   705 g/l 2749kcal/l [1] Mąka kukurydziana   673 g/l 2564kcal/l [2] Glukoza   577g/l 2365kcal/l [2] Owies   433g/l 1463kcal/l [2] Ryż   721g/l 2573kcal/l [2] Żyto   705g/l 2122kcal/l [2] Sól   1378g/l N/A [2] Erytrol ViVio 864g/l   [3] Ksylitol Agnex 870g/l   [3] Makaron świderki Lubella 340g/l 646kcal/l [3] Ziemniaki surowe   700g/l 560kcal/l [4] Kasza   600g/l 2130kcal/l [4]</summary>
   </entry>
   <entry>
     <title type="html">Kolejna pasta o Całunie Turyńskim</title>
