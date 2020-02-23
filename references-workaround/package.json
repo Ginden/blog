@@ -10,6 +10,12 @@
   "author": "Michał Wadas <michalwadas@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^13.0.0"
+    "jsdom": "^13.0.0",
+    "tslib": "^1.11.0",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.1.0",
+    "@types/node": "^12.12.28"
   }
 }

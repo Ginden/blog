@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e;
+
 wget https://code.jquery.com/jquery-3.3.1.min.js -O "jekyll-source/assets/jquery.min.js";
 
 (cd jekyll-source && bundle exec jekyll build --destination ../docs);
@@ -8,7 +10,7 @@ wget https://code.jquery.com/jquery-3.3.1.min.js -O "jekyll-source/assets/jquery
 
 DOCS_DIR="$(realpath docs)"
 
-(cd references-workaround && (node index.js "$DOCS_DIR" || (npm i && node index.js)))
+(cd references-workaround && npx tsc && (node index.js "$DOCS_DIR" || (npm i && node index.js)))
 
 find docs -name '*.html' -exec ./tidy-html-file.sh "{}" \;
 
