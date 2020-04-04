@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-04-04T20:09:26+02:00</updated>
+  <updated>2020-04-04T20:16:02+02:00</updated>
   <id>https://ginden.github.io//blog/</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -14,7 +14,7 @@
     <updated>2020-01-30T18:16:00+01:00</updated>
     <id>https://ginden.github.io//blog/czy-pis-to-prawica</id>
     <content type="html" xml:base="https://ginden.github.io//blog/czy-pis-to-prawica/">&lt;blockquote&gt;
-  &lt;p&gt;_Hurr durr, PiS to nie prawica.&lt;/p&gt;
+  &lt;p&gt;Hurr durr, PiS to nie prawica.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Szkoda, że takie instytucje jak &lt;a href="http://www.bbc.com/news/world-europe-15196795"&gt;BBC&lt;/a&gt; czy &lt;a href="http://www.britannica.com/topic/Law-and-Justice"&gt;Encyklopedia Britannica&lt;/a&gt; o tym nie wiedzą i błędnie określają PiS jako prawicę.&lt;/p&gt;
@@ -30,7 +30,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">_Hurr durr, PiS to nie prawica.</summary>
+    <summary type="html">Hurr durr, PiS to nie prawica.</summary>
   </entry>
   <entry>
     <title type="html">Ciężar nasypowy wybranych produktów kuchennych</title>
