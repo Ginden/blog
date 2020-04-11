@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.
-
+<!--more-->
 Na liście pominąłem _inhibitory MAO_.
 
 ## Szybki słownik

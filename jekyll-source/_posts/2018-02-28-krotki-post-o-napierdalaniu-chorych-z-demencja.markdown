@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem [argumentum ad antiquitatem](https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem) albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
-
+<!--more-->
 Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.
 
 Zwolennik bicia dzieci, zwykle usprawiedliwiający to ich gorszymi zdolnościami intelektualnymi (**czy można bić genialne dzieci**?) i stosunkiem zależności, może mieć za to poważny problem - czy córka może zlać pasem matkę z demencją za złe zachowanie? Znam przypadek osoby która utraciła zdolność do myślenia naprzód na więcej niż kilka godzin po wypadku samochodowym i długiej śpiączce - czy jej siostra powinna ją napierdalać by ją "wychować"? Czy jeśli dorosła osoba niepełnosprawna intelektualnie zachowuje się niezgodnie z zasadami ośrodka opiekuńczego w którym przebywa to może być bita pasem albo dostać _z liścia_ od pracownika? 

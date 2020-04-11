@@ -11,7 +11,7 @@ redirect_from:
 Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa _nauka i religia nie stoją w sprzeczności_. Albo _nawet Kościół uznał teorię ewolucji_ [a] albo _ksiądz[1] stworzył teorię Wielkiego Wybuchu_ albo _religia i nauka zajmują się całkiem rozłącznymi dziedzinami_. 
 
 Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, _idealna_ religia wypowiadająca się **wyłącznie** w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.
-
+<!--more-->
 # "Solenie skryptury"
 
 Dla czytelników niezaznajomionych z _subtelnościami_ katolicyzmu, powiem że **katolicy nie mogą czytać Biblii jak chcą**. O tym które fragmenty są dosłowne, a które metaforą nie decyduje pojedynczy wyznawca, tylko odpowiednie organy kościelne (np. papież lub [Kongregacja Nauki Wiary](https://pl.wikipedia.org/wiki/Kongregacja_Nauki_Wiary)). Dlatego w dalszej części tekstu nie będę obalał antynaukowych bzdur z Biblii (a jest ich pełno), ale te z oficjalnego nauczania Kościoła. 

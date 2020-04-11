@@ -9,7 +9,7 @@ categories: [katolicyzm, "całun turyński"]
 Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł [post z Salonu24](https://web.archive.org/save/https://www.salon24.pl/u/dziennikarstwoobywatelskie/861368,sensacyjne-odkrycie-w-calunie-turynskim) który zawiera ich wręcz niezliczone miriady.
 
 Przeanalizujmy je krok po kroku:
-
+<!--more-->
 > Naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów 
 
 [O tym już pisałem](https://ginden.github.io/blog/o-zlej-metodzie-calunu/).

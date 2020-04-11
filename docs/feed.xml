@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-04-04T21:23:37+02:00</updated>
+  <updated>2020-04-12T01:45:42+02:00</updated>
   <id>https://ginden.github.io//blog/</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -17,9 +17,9 @@
   &lt;p&gt;Hurr durr, PiS to nie prawica.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Szkoda, że takie instytucje jak &lt;a href="http://www.bbc.com/news/world-europe-15196795"&gt;BBC&lt;/a&gt; czy &lt;a href="http://www.britannica.com/topic/Law-and-Justice"&gt;Encyklopedia Britannica&lt;/a&gt; o tym nie wiedzą i błędnie określają PiS jako prawicę.&lt;/p&gt;
-
-&lt;p&gt;Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.economist.com/node/7960110"&gt;The Economist&lt;/a&gt;, &lt;a href="http://www.theguardian.com/world/2015/oct/25/poland-lurches-to-right-with-election-of-law-and-justice-party"&gt;The Guardian&lt;/a&gt;, &lt;a href="http://www.independent.co.uk/news/world/europe/poland-elections-right-wing-law-and-justice-party-gains-most-votes-a6710001.html"&gt;Independent&lt;/a&gt;, &lt;a href="http://www.nytimes.com/2015/10/26/world/europe/poland-parliamentary-elections.html?_r=0"&gt;New York Times&lt;/a&gt;, które zgodnie określają PiS jako partię prawicową.&lt;/p&gt;
+&lt;p&gt;Szkoda, że takie instytucje jak &lt;a href="http://www.bbc.com/news/world-europe-15196795"&gt;BBC&lt;/a&gt; czy &lt;a href="http://www.britannica.com/topic/Law-and-Justice"&gt;Encyklopedia Britannica&lt;/a&gt; o tym nie wiedzą i błędnie określają PiS jako prawicę.
+&lt;!--more--&gt;
+Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.economist.com/node/7960110"&gt;The Economist&lt;/a&gt;, &lt;a href="http://www.theguardian.com/world/2015/oct/25/poland-lurches-to-right-with-election-of-law-and-justice-party"&gt;The Guardian&lt;/a&gt;, &lt;a href="http://www.independent.co.uk/news/world/europe/poland-elections-right-wing-law-and-justice-party-gains-most-votes-a6710001.html"&gt;Independent&lt;/a&gt;, &lt;a href="http://www.nytimes.com/2015/10/26/world/europe/poland-parliamentary-elections.html?_r=0"&gt;New York Times&lt;/a&gt;, które zgodnie określają PiS jako partię prawicową.&lt;/p&gt;
 
 &lt;p&gt;Niestety, propagandzie przedstawiające komitet &lt;strong&gt;Zjednoczonej Prawicy&lt;/strong&gt; jako w jakikolwiek związany z prawicą uległy też polskie media od &lt;a href="http://wyborcza.pl/1,75478,18251834,PiS_socjalno_liberalny__czyli_prawica_wykuwa_program.html"&gt;Gazety Wyborczej&lt;/a&gt;, przez &lt;a href="http://wyborcza.pl/1,75478,18251834,PiS_socjalno_liberalny__czyli_prawica_wykuwa_program.html"&gt;Rzeczpospolitą&lt;/a&gt;, po &lt;a href="http://wpolityce.pl/polityka/269460-prawica-platforma-prezydent-jestesmy-o-krok-od-najwiekszej-zmiany-od-10-lat-i-przywrocenia-wielu-polakom-poczucia-wplywu-na-rzeczywistosc-jak-do-tego-doszlo-podsumowanie-kampanijnego-maratonu"&gt;wpolityce.pl&lt;/a&gt;.&lt;/p&gt;
 
@@ -30,7 +30,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Hurr durr, PiS to nie prawica.</summary>
+    <summary type="html">Hurr durr, PiS to nie prawica. Szkoda, że takie instytucje jak BBC czy Encyklopedia Britannica o tym nie wiedzą i błędnie określają PiS jako prawicę.</summary>
   </entry>
   <entry>
     <title type="html">Ciężar nasypowy wybranych produktów kuchennych</title>
@@ -38,103 +38,21 @@
     <published>2020-01-30T18:16:00+01:00</published>
     <updated>2020-01-30T18:16:00+01:00</updated>
     <id>https://ginden.github.io//blog/gestosc-nasypowa</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/gestosc-nasypowa/">&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Składnik&lt;/th&gt;
-      &lt;th&gt;Marka&lt;/th&gt;
-      &lt;th&gt;Ciężar nasypowy&lt;/th&gt;
-      &lt;th&gt;Energia nasypowa&lt;/th&gt;
-      &lt;th&gt;Żródło&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Cukier&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;705 g/l&lt;/td&gt;
-      &lt;td&gt;2749kcal/l&lt;/td&gt;
-      &lt;td&gt;[1]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mąka kukurydziana&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;673 g/l&lt;/td&gt;
-      &lt;td&gt;2564kcal/l&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Glukoza&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;577g/l&lt;/td&gt;
-      &lt;td&gt;2365kcal/l&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Owies&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;433g/l&lt;/td&gt;
-      &lt;td&gt;1463kcal/l&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ryż&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;721g/l&lt;/td&gt;
-      &lt;td&gt;2573kcal/l&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Żyto&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;705g/l&lt;/td&gt;
-      &lt;td&gt;2122kcal/l&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sól&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;1378g/l&lt;/td&gt;
-      &lt;td&gt;N/A&lt;/td&gt;
-      &lt;td&gt;[2]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Erytrol&lt;/td&gt;
-      &lt;td&gt;ViVio&lt;/td&gt;
-      &lt;td&gt;864g/l&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;[3]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ksylitol&lt;/td&gt;
-      &lt;td&gt;Agnex&lt;/td&gt;
-      &lt;td&gt;870g/l&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;[3]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Makaron świderki&lt;/td&gt;
-      &lt;td&gt;Lubella&lt;/td&gt;
-      &lt;td&gt;340g/l&lt;/td&gt;
-      &lt;td&gt;646kcal/l&lt;/td&gt;
-      &lt;td&gt;[3]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ziemniaki surowe&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;700g/l&lt;/td&gt;
-      &lt;td&gt;560kcal/l&lt;/td&gt;
-      &lt;td&gt;[4]&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kasza&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;600g/l&lt;/td&gt;
-      &lt;td&gt;2130kcal/l&lt;/td&gt;
-      &lt;td&gt;[4]&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+    <content type="html" xml:base="https://ginden.github.io//blog/gestosc-nasypowa/">&lt;!--more--&gt;
+&lt;p&gt;|  Składnik         |  Marka  | Ciężar nasypowy |  Energia nasypowa | Żródło |
+|——————-|———|—————–|——————-|——–|
+| Cukier            |         | 705 g/l         | 2749kcal/l        | [1]    |
+| Mąka kukurydziana |         | 673 g/l         | 2564kcal/l        | [2]    |
+| Glukoza           |         | 577g/l          | 2365kcal/l        | [2]    |
+| Owies             |         | 433g/l          | 1463kcal/l        | [2]    |
+| Ryż               |         | 721g/l          | 2573kcal/l        | [2]    |
+| Żyto              |         | 705g/l          | 2122kcal/l        | [2]    |
+| Sól               |         | 1378g/l         | N/A               | [2]    |
+| Erytrol           | ViVio   | 864g/l          |                   | [3]    |
+| Ksylitol          | Agnex   | 870g/l          |                   | [3]    |
+| Makaron świderki  | Lubella | 340g/l          | 646kcal/l         | [3]    |
+| Ziemniaki surowe  |         | 700g/l          | 560kcal/l         | [4]    |
+| Kasza             |         | 600g/l          | 2130kcal/l        | [4]    |&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="http://www.sugartech.co.za/density/index.php"&gt;Density of Sugar Factory Products&lt;/a&gt;&lt;/p&gt;
 
@@ -146,7 +64,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Składnik Marka Ciężar nasypowy Energia nasypowa Żródło Cukier   705 g/l 2749kcal/l [1] Mąka kukurydziana   673 g/l 2564kcal/l [2] Glukoza   577g/l 2365kcal/l [2] Owies   433g/l 1463kcal/l [2] Ryż   721g/l 2573kcal/l [2] Żyto   705g/l 2122kcal/l [2] Sól   1378g/l N/A [2] Erytrol ViVio 864g/l   [3] Ksylitol Agnex 870g/l   [3] Makaron świderki Lubella 340g/l 646kcal/l [3] Ziemniaki surowe   700g/l 560kcal/l [4] Kasza   600g/l 2130kcal/l [4]</summary>
+    <summary type="html"/>
   </entry>
   <entry>
     <title type="html">Kolejna pasta o Całunie Turyńskim</title>
@@ -156,8 +74,8 @@
     <id>https://ginden.github.io//blog/kolejna-pasta-o-calunie-turynskim</id>
     <content type="html" xml:base="https://ginden.github.io//blog/kolejna-pasta-o-calunie-turynskim/">&lt;p&gt;Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł &lt;a href="https://web.archive.org/save/https://www.salon24.pl/u/dziennikarstwoobywatelskie/861368,sensacyjne-odkrycie-w-calunie-turynskim"&gt;post z Salonu24&lt;/a&gt; który zawiera ich wręcz niezliczone miriady.&lt;/p&gt;
 
-&lt;p&gt;Przeanalizujmy je krok po kroku:&lt;/p&gt;
-
+&lt;p&gt;Przeanalizujmy je krok po kroku:
+&lt;!--more--&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -303,7 +221,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł post z Salonu24 który zawiera ich wręcz niezliczone miriady.</summary>
+    <summary type="html">Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł post z Salonu24 który zawiera ich wręcz niezliczone miriady. Przeanalizujmy je krok po kroku:</summary>
   </entry>
   <entry>
     <title type="html">Przypowieść o wyjątkowo złej metodzie</title>
@@ -315,9 +233,9 @@
 
 &lt;p&gt;Dla czytelnika mającego choć śladowe pojęcie o metodach jakich używa historia, absurdalny jest pomysł &lt;em&gt;liczenia prawdopodobieństwa przeszłości&lt;/em&gt;, nie jest jasne jak miałoby się to odbywać. Zawsze więc uśmiechałem się z politowaniem.&lt;/p&gt;
 
-&lt;p&gt;I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład jak nie należy robić nauki. Jest to praca naukowa &lt;em&gt;Results of a probabilistic model applied to the research carried out on the Turin Shroud&lt;/em&gt;, autorstwa &lt;a href="https://www.researchgate.net/profile/G_Fanti"&gt;Giulio Fantiego&lt;/a&gt;. Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.&lt;/p&gt;
-
-&lt;p&gt;A, publikuje też artykuły naukowe w swojej dziedzinie.&lt;/p&gt;
+&lt;p&gt;I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład jak nie należy robić nauki. Jest to praca naukowa &lt;em&gt;Results of a probabilistic model applied to the research carried out on the Turin Shroud&lt;/em&gt;, autorstwa &lt;a href="https://www.researchgate.net/profile/G_Fanti"&gt;Giulio Fantiego&lt;/a&gt;. Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.
+&lt;!--more--&gt;
+A, publikuje też artykuły naukowe w swojej dziedzinie.&lt;/p&gt;
 
 &lt;h3 id="konflikty-interesów"&gt;Konflikty interesów&lt;/h3&gt;
 
@@ -504,7 +422,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Jak wiedzą niektórzy, w dyskusjach o Całunie Turyńskim pojawia się hasło, że naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów. Czasem tą liczbą jest 200 miliardów.</summary>
+    <summary type="html">Jak wiedzą niektórzy, w dyskusjach o Całunie Turyńskim pojawia się hasło, że naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów. Czasem tą liczbą jest 200 miliardów. Dla czytelnika mającego choć śladowe pojęcie o metodach jakich używa historia, absurdalny jest pomysł liczenia prawdopodobieństwa przeszłości, nie jest jasne jak miałoby się to odbywać. Zawsze więc uśmiechałem się z politowaniem. I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład jak nie należy robić nauki. Jest to praca naukowa Results of a probabilistic model applied to the research carried out on the Turin Shroud, autorstwa Giulio Fantiego. Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.</summary>
   </entry>
   <entry>
     <title type="html">Rośliny i grzyby psychoaktywne po polsku</title>
@@ -512,9 +430,9 @@
     <published>2018-09-11T17:19:41+02:00</published>
     <updated>2018-09-11T17:19:41+02:00</updated>
     <id>https://ginden.github.io//blog/polskie-gatunki-psychoaktywne</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/polskie-gatunki-psychoaktywne/">&lt;p&gt;Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.&lt;/p&gt;
-
-&lt;p&gt;Na liście pominąłem &lt;em&gt;inhibitory MAO&lt;/em&gt;.&lt;/p&gt;
+    <content type="html" xml:base="https://ginden.github.io//blog/polskie-gatunki-psychoaktywne/">&lt;p&gt;Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.
+&lt;!--more--&gt;
+Na liście pominąłem &lt;em&gt;inhibitory MAO&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id="szybki-słownik"&gt;Szybki słownik&lt;/h2&gt;
 
@@ -659,8 +577,8 @@
     <id>https://ginden.github.io//blog/religia-a-nauka</id>
     <content type="html" xml:base="https://ginden.github.io//blog/religia-a-nauka/">&lt;p&gt;Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa &lt;em&gt;nauka i religia nie stoją w sprzeczności&lt;/em&gt;. Albo &lt;em&gt;nawet Kościół uznał teorię ewolucji&lt;/em&gt; [a] albo &lt;em&gt;ksiądz[1] stworzył teorię Wielkiego Wybuchu&lt;/em&gt; albo &lt;em&gt;religia i nauka zajmują się całkiem rozłącznymi dziedzinami&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, &lt;em&gt;idealna&lt;/em&gt; religia wypowiadająca się &lt;strong&gt;wyłącznie&lt;/strong&gt; w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.&lt;/p&gt;
-
+&lt;p&gt;Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, &lt;em&gt;idealna&lt;/em&gt; religia wypowiadająca się &lt;strong&gt;wyłącznie&lt;/strong&gt; w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.
+&lt;!--more--&gt;&lt;/p&gt;
 &lt;h1 id="solenie-skryptury"&gt;“Solenie skryptury”&lt;/h1&gt;
 
 &lt;p&gt;Dla czytelników niezaznajomionych z &lt;em&gt;subtelnościami&lt;/em&gt; katolicyzmu, powiem że &lt;strong&gt;katolicy nie mogą czytać Biblii jak chcą&lt;/strong&gt;. O tym które fragmenty są dosłowne, a które metaforą nie decyduje pojedynczy wyznawca, tylko odpowiednie organy kościelne (np. papież lub &lt;a href="https://pl.wikipedia.org/wiki/Kongregacja_Nauki_Wiary"&gt;Kongregacja Nauki Wiary&lt;/a&gt;). Dlatego w dalszej części tekstu nie będę obalał antynaukowych bzdur z Biblii (a jest ich pełno), ale te z oficjalnego nauczania Kościoła.&lt;/p&gt;
@@ -760,7 +678,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa nauka i religia nie stoją w sprzeczności. Albo nawet Kościół uznał teorię ewolucji [a] albo ksiądz[1] stworzył teorię Wielkiego Wybuchu albo religia i nauka zajmują się całkiem rozłącznymi dziedzinami.</summary>
+    <summary type="html">Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa nauka i religia nie stoją w sprzeczności. Albo nawet Kościół uznał teorię ewolucji [a] albo ksiądz[1] stworzył teorię Wielkiego Wybuchu albo religia i nauka zajmują się całkiem rozłącznymi dziedzinami. Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, idealna religia wypowiadająca się wyłącznie w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.</summary>
   </entry>
   <entry>
     <title type="html">Tak, dr Ewa Kurek JEST antysemitką</title>
@@ -775,7 +693,8 @@
   &lt;li&gt;&lt;a href="http://archive.li/G8Ujy"&gt;Dr Ewa Kurek: nie ma cywilizacji judeochrześcijańskiej! Żydzi mają inny kod kulturowy&lt;/a&gt; [bibula.com]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Antysemickie strony zalinkowane przez &lt;a href="http://archive.is/"&gt;archive.is&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Antysemickie strony zalinkowane przez &lt;a href="http://archive.is/"&gt;archive.is&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Na starożytną żydowską fantazję i tradycję nazywania goszczących ich narodów Hamanami‑antysemitami sto lat temu nałożyły się żądania Żydów polskich, aby odrodzone państwo polskie przyznało im autonomię narodową&lt;/p&gt;
@@ -875,7 +794,7 @@
     <author>
       <name/>
     </author>
-    <summary type="html">Opierałem się na następujących źródłach:</summary>
+    <summary type="html">Opierałem się na następujących źródłach: Nie bierzmy przykładu z Żydów – rozmowa z dr Ewą Kurek [bibula.com] Dr Ewa Kurek: nie ma cywilizacji judeochrześcijańskiej! Żydzi mają inny kod kulturowy [bibula.com] Antysemickie strony zalinkowane przez archive.is.</summary>
   </entry>
   <entry>
     <title type="html">Krótki post o napierdalaniu osób z demencją</title>
@@ -883,9 +802,9 @@
     <published>2018-02-28T00:19:42+01:00</published>
     <updated>2018-02-28T00:19:42+01:00</updated>
     <id>https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja/">&lt;p&gt;Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem &lt;a href="https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem"&gt;argumentum ad antiquitatem&lt;/a&gt; albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).&lt;/p&gt;
-
-&lt;p&gt;Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.&lt;/p&gt;
+    <content type="html" xml:base="https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja/">&lt;p&gt;Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem &lt;a href="https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem"&gt;argumentum ad antiquitatem&lt;/a&gt; albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
+&lt;!--more--&gt;
+Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.&lt;/p&gt;
 
 &lt;p&gt;Zwolennik bicia dzieci, zwykle usprawiedliwiający to ich gorszymi zdolnościami intelektualnymi (&lt;strong&gt;czy można bić genialne dzieci&lt;/strong&gt;?) i stosunkiem zależności, może mieć za to poważny problem - czy córka może zlać pasem matkę z demencją za złe zachowanie? Znam przypadek osoby która utraciła zdolność do myślenia naprzód na więcej niż kilka godzin po wypadku samochodowym i długiej śpiączce - czy jej siostra powinna ją napierdalać by ją “wychować”? Czy jeśli dorosła osoba niepełnosprawna intelektualnie zachowuje się niezgodnie z zasadami ośrodka opiekuńczego w którym przebywa to może być bita pasem albo dostać &lt;em&gt;z liścia&lt;/em&gt; od pracownika?&lt;/p&gt;
 
@@ -926,8 +845,8 @@ Każdy rozsądny człowiek wie, że można ich określić krótkim komentarzem: 
 
 &lt;p&gt;Argumenty rzekomych libertarian sprowadzają się zwykle do ignorowania &lt;em&gt;Społecznej Nauki Kościoła&lt;/em&gt;, która w najbardziej prorynkowej interpretacji jest co najwyżej socjalliberalna, argumentując że nie jest to nauczanie obowiązujące dla katolika. Formalnie nie jest, w praktyce trąci to traktowaniem katolicyzmu jako bufetu z którego można wybrać co się lubi.&lt;/p&gt;
 
-&lt;p&gt;Zbadajmy więc w jaki sposób &lt;strong&gt;OBOWIĄZUJĄCA&lt;/strong&gt; nauka kościoła, podstawy wiary, czyli &lt;strong&gt;Katechizm Kościoła Katolickiego&lt;/strong&gt;, stoi w sprzeczności z wolnością i anarchizmem.&lt;/p&gt;
-
+&lt;p&gt;Zbadajmy więc w jaki sposób &lt;strong&gt;OBOWIĄZUJĄCA&lt;/strong&gt; nauka kościoła, podstawy wiary, czyli &lt;strong&gt;Katechizm Kościoła Katolickiego&lt;/strong&gt;, stoi w sprzeczności z wolnością i anarchizmem.
+&lt;!--more--&gt;&lt;/p&gt;
 &lt;h3 id="kk-optuje-za-państwowym-zakazem-pornografii"&gt;KK optuje za państwowym zakazem pornografii:&lt;/h3&gt;
 &lt;p&gt;KKK 2354&lt;/p&gt;
 &lt;blockquote&gt;
@@ -991,7 +910,7 @@ Tam… gdzie władza państwowa, przekraczając swoje uprawnienia, uciska obywat
     <author>
       <name/>
     </author>
-    <summary type="html">Wiele osób twierdzi, że libertarianizm albo nawet anarchokapitalizm jest do pogodzenia z katolicyzmem. Każdy rozsądny człowiek wie, że można ich określić krótkim komentarzem: xDDDDDDDD</summary>
+    <summary type="html">Wiele osób twierdzi, że libertarianizm albo nawet anarchokapitalizm jest do pogodzenia z katolicyzmem. Każdy rozsądny człowiek wie, że można ich określić krótkim komentarzem: xDDDDDDDD Argumenty rzekomych libertarian sprowadzają się zwykle do ignorowania Społecznej Nauki Kościoła, która w najbardziej prorynkowej interpretacji jest co najwyżej socjalliberalna, argumentując że nie jest to nauczanie obowiązujące dla katolika. Formalnie nie jest, w praktyce trąci to traktowaniem katolicyzmu jako bufetu z którego można wybrać co się lubi. Zbadajmy więc w jaki sposób OBOWIĄZUJĄCA nauka kościoła, podstawy wiary, czyli Katechizm Kościoła Katolickiego, stoi w sprzeczności z wolnością i anarchizmem.</summary>
   </entry>
   <entry>
     <title type="html">Quasi o aborcji</title>
@@ -999,7 +918,8 @@ Tam… gdzie władza państwowa, przekraczając swoje uprawnienia, uciska obywat
     <published>2018-02-28T00:19:37+01:00</published>
     <updated>2018-02-28T00:19:37+01:00</updated>
     <id>https://ginden.github.io//blog/quasi-o-aborcji</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/quasi-o-aborcji/">&lt;h2 id="komentarz"&gt;Komentarz&lt;/h2&gt;
+    <content type="html" xml:base="https://ginden.github.io//blog/quasi-o-aborcji/">&lt;!--more--&gt;
+&lt;h2 id="komentarz"&gt;Komentarz&lt;/h2&gt;
 &lt;p&gt;Ten post nie jest mojego autorstwa, ale nadałem mu formatowanie, uważam go za na tyle wartościowy by go rozpowszechniać.&lt;/p&gt;
 
 &lt;h1 id="wstęp"&gt;WSTĘP&lt;/h1&gt;
@@ -1488,6 +1408,6 @@ Niestety, &lt;a href="http://terlikowski.salon24.pl/118132,prawdy-nie-da-sie-zni
     <author>
       <name/>
     </author>
-    <summary type="html">Komentarz Ten post nie jest mojego autorstwa, ale nadałem mu formatowanie, uważam go za na tyle wartościowy by go rozpowszechniać.</summary>
+    <summary type="html"/>
   </entry>
 </feed>

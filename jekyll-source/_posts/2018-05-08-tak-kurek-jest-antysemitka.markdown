@@ -14,7 +14,7 @@ Opierałem się na następujących źródłach:
 * [Dr Ewa Kurek: nie ma cywilizacji judeochrześcijańskiej! Żydzi mają inny kod kulturowy](http://archive.li/G8Ujy) [bibula.com]
 
 Antysemickie strony zalinkowane przez [archive.is](http://archive.is/).
-
+<!--more-->
 
 > Na starożytną żydowską fantazję i tradycję nazywania goszczących ich narodów Hamanami‑antysemitami sto lat temu nałożyły się żądania Żydów polskich, aby odrodzone państwo polskie przyznało im autonomię narodową
 

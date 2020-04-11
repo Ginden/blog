@@ -8,7 +8,7 @@ redirect_from:
   - aborcja/2018/02/28/quasi-o-aborcji.html
 ---
 
-
+<!--more-->
 ## Komentarz 
 Ten post nie jest mojego autorstwa, ale nadałem mu formatowanie, uważam go za na tyle wartościowy by go rozpowszechniać.
 

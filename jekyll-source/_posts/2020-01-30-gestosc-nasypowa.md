@@ -3,7 +3,7 @@ layout: post
 title: Ciężar nasypowy wybranych produktów kuchennych
 date: 2020-01-30 18:16 +0100
 ---
-
+<!--more-->
 |  Składnik         |  Marka  | Ciężar nasypowy |  Energia nasypowa | Żródło |
 |-------------------|---------|-----------------|-------------------|--------|
 | Cukier            |         | 705 g/l         | 2749kcal/l        | [1]    |

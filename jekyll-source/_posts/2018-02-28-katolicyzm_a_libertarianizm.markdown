@@ -14,7 +14,7 @@ Każdy rozsądny człowiek wie, że można ich określić krótkim komentarzem: 
 Argumenty rzekomych libertarian sprowadzają się zwykle do ignorowania _Społecznej Nauki Kościoła_, która w najbardziej prorynkowej interpretacji jest co najwyżej socjalliberalna, argumentując że nie jest to nauczanie obowiązujące dla katolika. Formalnie nie jest, w praktyce trąci to traktowaniem katolicyzmu jako bufetu z którego można wybrać co się lubi.
 
 Zbadajmy więc w jaki sposób **OBOWIĄZUJĄCA** nauka kościoła, podstawy wiary, czyli **Katechizm Kościoła Katolickiego**, stoi w sprzeczności z wolnością i anarchizmem.
-
+<!--more-->
 ### KK optuje za państwowym zakazem pornografii:
 KKK 2354 
 > Pornografia polega na wyrwaniu aktów płciowych, rzeczywistych lub symulowanych, z intymności partnerów, aby w sposób zamierzony pokazywać je innym. Znieważa ona czystość, ponieważ stanowi wynaturzenie aktu małżeńskiego, wzajemnego intymnego daru małżonków. Narusza poważnie godność tych, którzy jej się oddają (...). Władze cywilne powinny zabronić wytwarzania i rozpowszechniania materiałów pornograficznych.
