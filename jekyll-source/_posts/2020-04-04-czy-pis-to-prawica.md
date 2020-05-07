@@ -2,6 +2,7 @@
 layout: post
 title: Czy Zjednoczona Prawica to prawica?
 date: 2020-04-04 18:16 +0100
+comments: true
 ---
 
   
