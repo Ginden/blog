@@ -1,6 +1,7 @@
-c---
+---
 layout: post
 title: pasta-o-egzorcyzmach
+comments: true
 date: 2020-08-31 01:48 +0200
 ---
 
