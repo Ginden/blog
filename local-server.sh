@@ -11,6 +11,6 @@ if screen -list | grep -q "$SLUG"; then
   screen -S "$SLUG" -X quit;
 fi
 
-screen -S "$SLUG" -d -m http-server -p "$SERVER_PORT" -c-1 .
+(which http-server > /dev/null) && screen -S "$SLUG" -d -m http-server -p "$SERVER_PORT" -c-1 .
 
 echo "http://localhost:$SERVER_PORT/blog/";

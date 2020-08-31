@@ -7,15 +7,24 @@ date: 2020-08-31 01:48 +0200
 
 Treść pasty do kopiuj-wklej:
 
-> 1. **ŻADNE** opętanie nie zostało zbadane i opublikowane jako case study z odpowiednim zapleczem medycznym.
-> 2. **WSZYSTKIE** opisane w literaturze medycznej przypadki opętania okazały się chorobami.
-> 3. Wbrew zapewnieniom katolików, opętania nie są weryfikowane w sposób naukowy - np. z podwójnie ślepą próbą.
-> 4. Są opisane przypadki opętań potwierdzonych przez KK, które okazywały się być nieleczoną schizofrenią.
-> 5. Demografia opętań jest podobna w każdej kulturze w której występują - chorują najczęściej młode religijne kobiety. Jest to sprzeczne z tezami katolickimi o rzekomym kuszeniu tylko wiernych.
-> 6. Opętania występują tylko w kulturach które dopuszczają taką możliwość - np. w kulturach arabskich są popularniejsze niż w nie-arabskich krajach muzułmańskich.
-> 7. leki przeciwpsychotyczne wykazują znaczącą skuteczność w redukowaniu objawów Czekam na teologiczne implikacje tego że antagonizm receptorów D2 i 5-HT2A wyrzuca złego ducha.
-> 8. gdyby demony i złe duchy istniały, to religianci mogliby wsadzić opętaną osobę pod fMRI i pokazać że np. słowa wydobywają się z ust opętanego/opętanej bez udziału mózgu pacjenta - nigdy nawet takiego badania nie próbowali zrobić.
-> 9. Demony i złe duchy wypędzają "skutecznie" także imamowie, popi, księża i inni tacy. Jest to sprzeczne z teologią każdej z tych religii.
+> 1\. **ŻADNE** opętanie nie zostało zbadane i opublikowane jako case study z odpowiednim zapleczem medycznym.
+>
+> 2\. **WSZYSTKIE** opisane w literaturze medycznej przypadki opętania okazały się chorobami.
+>
+> 3\. Wbrew zapewnieniom katolików, opętania nie są weryfikowane w sposób naukowy - np. z podwójnie ślepą próbą.
+>
+> 4\. Są opisane przypadki opętań potwierdzonych przez KK, które okazywały się być nieleczoną schizofrenią.
+>
+> 5\. Demografia opętań jest podobna w każdej kulturze w której występują - chorują najczęściej młode religijne kobiety. Jest to sprzeczne z tezami katolickimi o rzekomym kuszeniu tylko wiernych.
+>
+> 6\. Opętania występują tylko w kulturach które dopuszczają taką możliwość - np. w kulturach arabskich są popularniejsze niż w nie-arabskich krajach muzułmańskich.
+>
+> 7\. leki przeciwpsychotyczne wykazują znaczącą skuteczność w redukowaniu objawów Czekam na teologiczne implikacje tego że antagonizm receptorów D2 i 5-HT2A wyrzuca złego ducha.
+>
+> 8\. gdyby demony i złe duchy istniały, to religianci mogliby wsadzić opętaną osobę pod fMRI i pokazać że np. słowa wydobywają się z ust opętanego/opętanej bez udziału mózgu pacjenta - nigdy nawet takiego badania nie próbowali zrobić.
+>
+> 9\. Demony i złe duchy wypędzają "skutecznie" także imamowie, popi, księża i inni tacy. Jest to sprzeczne z teologią każdej z tych religii.
+>
 > I tak dalej. Hipoteza o nadnaturalnym wpływie nie ma żadnego potwierdzenia w rzeczywistości poza słowami ludźmi PRZEKONANYMI o jej prawdziwości a priori.
 
 <!--more-->
