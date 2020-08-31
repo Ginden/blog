@@ -14,6 +14,6 @@ DOCS_DIR="$(realpath docs)"
 
 find docs -name '*.html' -exec ./tidy-html-file.sh "{}" \;
 
-jq . "docs/redirects.json" > "docs/redirects_pretty.json" && mv "docs/redirects_pretty.json" "docs/redirects.json"
+jq -S . "docs/redirects.json" > "docs/redirects_pretty.json" && mv "docs/redirects_pretty.json" "docs/redirects.json"
 
 ./local-server.sh
