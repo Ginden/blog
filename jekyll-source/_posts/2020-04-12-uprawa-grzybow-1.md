@@ -73,6 +73,7 @@ Oznaczenie ciśnienia znajduje się **najczęściej w instrukcji lub na dnie**. 
 
 Proponuję kupić:
 
+* Szybkowar (**najdroższy element zestawu** - najtańszy, nowy, markowy szybkowar jaki znalazłem to Kinghoff KH-4807 za 216zł)
 * IKEA Samla 130L (50zł)
 * Trzonek do skalpela typu 3 (~7zł)
 * Ostrza do skalpela nr 11 (18zł/100 sztuk)
@@ -82,7 +83,6 @@ Proponuję kupić:
 ** Ekstrakt słodowy jasny w proszku (13zł/0.5kg)
 ** Płatki ziemniaczane (13zł/1kg)
 * Folię spożywczą (9zł/duża rolka)
-* Szybkowar (najdroższy element zestawu - najtańszy, nowy, markowy szybkowar jaki znalazłem to Kinghoff KH-4807 za 216zł)
 * Włóknina poliestrowa 300g/m2 (10zł/dożywotni zapas)
 
 Łącznie **360zł**. 
@@ -95,6 +95,7 @@ Zakładam, że masz lub możesz pożyczyć:
 * Słoiki z pokrywkami do poświęcenia
 
 Pakiet **premium**:
+
 * Ezy bakteriologiczne (3zł/10 sztuk)
 * Biologiczne testy sterylizacji (55zł/10 sztuk)
 * Lepszy szybkowar (ceny do 3000zł za urządzenia do naprawdę masowej sterylizacji)
@@ -110,7 +111,7 @@ Dokładniejsze omówienie tematu substratów i pojemników będzie w przyszłoś
   * Słoma (tania, ale **trudna do użycia w mieszkaniu**): boczniaki oprócz boczniaka królewskiego, _Cyclocybe aegerita_.
   * Włókno kokosowe (uniwersalne, łatwe do użycia, **drogie**): _Psilocibe cubensis_, boczniak ostrygowaty. Uniwersalne, większośc gatunków rośnie.
   * Wióry drewne z drzew liściastych: reishi, shiitake, soplówka jeżowata, boczniak królewski, inne boczniaki, _Psilocibe azurescens_.
-    * Pelet też daje radę, ale jest wolniej kolonizowany.
+    * Pelet drewny też daje radę, ale jest wolniej kolonizowany.
   * Kompost: pieczarki.
 * Pojemnik stosowny do gatunku i chęci:
   * Worki z filtrem do uprawy grzybów (ang. _[mushroom] bags_): praktycznie każdy gatunek, zwłaszcza owocujące poziomo (boczniaki).

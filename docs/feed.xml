@@ -3,10 +3,60 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-08-31T13:27:08+02:00</updated>
+  <updated>2020-09-06T18:05:06+02:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
+  <entry>
+    <title type="html">Uprawa grzybów - budowa SAB</title>
+    <link href="https://ginden.github.io//blog/uprawa-grzybow-2/" rel="alternate" type="text/html" title="Uprawa grzybów - budowa SAB"/>
+    <published>2020-09-06T17:13:00+02:00</published>
+    <updated>2020-09-06T17:13:00+02:00</updated>
+    <id>https://ginden.github.io//blog/uprawa-grzybow-2</id>
+    <content type="html" xml:base="https://ginden.github.io//blog/uprawa-grzybow-2/">&lt;p&gt;&lt;a href="https://ginden.github.io/blog/uprawa-grzybow-1/"&gt;Poprzednia część&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="sab"&gt;SAB&lt;/h2&gt;
+
+&lt;p&gt;Profesjonalne prace sterylne prowadzi się z użyciem komory laminarnej. Przez dobrej jakości filtr HEPA (o oczkach tak małych, że zatrzymują nawet pojedyncze bakterie), potężny wiatrak pompuje powietrze, co odrzuca jakiekolwiek zanieczyszenia spoza pola pracy. Ceny zaczynają się &lt;a href="https://sklep-chemland.pl/pl/urzadzenia-chemland/komory-laminarne/komora-laminarna.html"&gt;od 2500zł na Chemlandzie&lt;/a&gt;. Dość droga zabawa.&lt;/p&gt;
+
+&lt;p&gt;Prawdopodobnie nie masz 2500zł na zbyciu, więc naszym półśrodkiem będzie SAB - still-air box.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Zasada działania SABa jest dość prosta - pozwalamy w pomieszczeniu i w boxie opaść wszelkim bakteriom, kurzowi, zarodnikom pleśni na dno (podłogę czy blat). Takie powietrze jest względnie sterylne. Przez ostrożne ruchy (bo każdy gwałtowny ruch może podnieść pył) unikamy zakażeń przy naszych działaniach.&lt;/p&gt;
+
+&lt;h2 id="wykonanie-sab"&gt;Wykonanie SAB&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="../assets/moj_sab.jpg" alt="Mój still air box" class="img-responsive" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tak wygląda mój SAB (still air box). Jest wykonany z &lt;a href="https://www.ikea.com/pl/pl/p/samla-pudelko-przezroczysty-90102971/"&gt;IKEA SAMLA 130l&lt;/a&gt; (50zł).&lt;/p&gt;
+
+&lt;h3 id="ale-to-za-drogo"&gt;Ale to za drogo…&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.shroomery.org/forums/showflat.php/Number/11688596#11688596"&gt;Najtańszy działający SAB wygląda tak&lt;/a&gt;. Zrobisz go za… 10zł?&lt;/p&gt;
+
+&lt;h2 id="właściwy-rozmiar"&gt;Właściwy rozmiar&lt;/h2&gt;
+
+&lt;p&gt;Użytkownicy forum &lt;a href="https://www.shroomery.org/forums/postlist.php/Board/2"&gt;shroomery.com&lt;/a&gt; polecają rozmiary od 60 litrów w górę.&lt;/p&gt;
+
+&lt;h2 id="wykonanie-otworów-na-ręce"&gt;Wykonanie otworów na ręce&lt;/h2&gt;
+
+&lt;p&gt;Otwory na ręce powinny umożliwiać Ci swobodny dostęp do całego wnętrza SABa. Rozmiar zależy od rozmiaru Twoich rąk. Przy większym SABie powinny Ci wchodzić nawet do łokci, przy mniejszym mogą wystarczyć tylko do nadgarstków.&lt;/p&gt;
+
+&lt;h4 id="palnik-spirytusowy--skalpel"&gt;Palnik spirytusowy + skalpel&lt;/h4&gt;
+
+&lt;p&gt;Ja swój SAB zrobiłem korzystając z palnika spirytusowego, balkonu, trzonka skalpela i ostrzy skalpela. Najpierw narysowałem względnie okrągłe otwory na ręce markerem. Następnie wyszedłem na balkon, i nagrzewając ostrze do czerwoności nad palnikiem spirytusowym ciąłem plastik. Gdybym robił to w domu, puściłbym wentylator tak, żeby opary przypalanego plastiku nie dostawały się do moich płuc (na szczęście na balkonie wiało).&lt;/p&gt;
+
+&lt;h4 id="użycie-otwornicy"&gt;Użycie otwornicy&lt;/h4&gt;
+
+&lt;p&gt;Możesz też po prostu użyć &lt;a href="https://www.google.com/search?q=otwornica+150mm&amp;amp;tbm=isch"&gt;otwornicy&lt;/a&gt;. Moje otwory na ręce mają około 150mm - ceny tak dużych otwornic krążą w okolicach 120zł.&lt;/p&gt;
+
+&lt;p&gt;Znacznie tańszą alternatywą wydaje się &lt;strong&gt;cyrkiel do wycinania otworów&lt;/strong&gt;, dostępny też pod nazwą &lt;em&gt;uniwersalny wycinak otworów&lt;/em&gt;.&lt;/p&gt;</content>
+    <author>
+      <name/>
+    </author>
+    <summary type="html">Poprzednia część. SAB Profesjonalne prace sterylne prowadzi się z użyciem komory laminarnej. Przez dobrej jakości filtr HEPA (o oczkach tak małych, że zatrzymują nawet pojedyncze bakterie), potężny wiatrak pompuje powietrze, co odrzuca jakiekolwiek zanieczyszenia spoza pola pracy. Ceny zaczynają się od 2500zł na Chemlandzie. Dość droga zabawa. Prawdopodobnie nie masz 2500zł na zbyciu, więc naszym półśrodkiem będzie SAB - still-air box.</summary>
+  </entry>
   <entry>
     <title type="html">Pasta o egzorcyzmach</title>
     <link href="https://ginden.github.io//blog/pasta-o-egzorcyzmach/" rel="alternate" type="text/html" title="Pasta o egzorcyzmach"/>
@@ -42,17 +92,13 @@
 &lt;p&gt;A dokładniejsza argumentacja:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;&lt;strong&gt;ŻADNE&lt;/strong&gt; opętanie nie zostało zbadane i opublikowane jako case study z odpowiednim zapleczem medycznym [w domyśle: z wnioskiem, ze jest niewytłumaczalne przez medycynę].&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;1. &lt;strong&gt;ŻADNE&lt;/strong&gt; opętanie nie zostało zbadane i opublikowane jako case study z odpowiednim zapleczem medycznym [w domyśle: z wnioskiem, ze jest niewytłumaczalne przez medycynę].&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Kwerenda Google Scholar z użyciem zapytań takich jak “demonic possession” nie pozwala znaleźć żadnego takiego przypadku.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;&lt;strong&gt;WSZYSTKIE&lt;/strong&gt; opisane w literaturze medycznej przypadki opętania okazały się chorobami.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;2. &lt;strong&gt;WSZYSTKIE&lt;/strong&gt; opisane w literaturze medycznej przypadki opętania okazały się chorobami.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Oczywistym przykładem jest &lt;a href="https://pl.wikipedia.org/wiki/Anneliese_Michel"&gt;zabójstwo Anneliese Michel&lt;/a&gt;. Jednak mimo nowych wytycznych, zaleconych przez Jana Pawła II, które nakazują badania psychiatryczne, nadal okazuje się, że osoby “opętane” są chore, jak w &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062860/"&gt;case study z roku 2011&lt;/a&gt;.&lt;/p&gt;
@@ -60,9 +106,7 @@
 &lt;p&gt;Niemal żaden psychiatra nie publikuje swoich przypadków, więc nic dziwnego, że jest tak mało opisów.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Wbrew zapewnieniom katolików, opętania nie są weryfikowane w sposób naukowy - np. z podwójnie ślepą próbą.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;3. Wbrew zapewnieniom katolików, opętania nie są weryfikowane w sposób naukowy - np. z podwójnie ślepą próbą.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Wspomniane wyżej &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062860/"&gt;case study z roku 2011&lt;/a&gt; jest jasnym tego dowodem. Zapoznanie się z książkami obecnych lub byłych egzorcystów, takich jak Michał Olszewski (praktykujący egzorcysta), Piotr Glas (były egzorcysta), Gabriele Amorth (niepraktykujący ze względu na swój zgon), jasno pokazuje, że weryfikacja to albo wizyta u katolickiego psychiatry albo w ogóle nie istnieje, bo egzorcysta ocenia, czy osoba w ogóle potrzebuje opinii psychiatry.&lt;/p&gt;
@@ -70,32 +114,24 @@
 &lt;p&gt;Jest to postępowanie zgodne z wskazaniami Konferencji Episkopatu Polski, która &lt;a href="https://episkopat.pl/wskazania-dla-kaplanow-pelniacych-posluge-egzorcysty/"&gt;mówi nam&lt;/a&gt;, że egzorcysta &lt;strong&gt;może&lt;/strong&gt; zasięgnąć opinii psychiatry lub psychologa przed egzorcyzmem.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Są opisane przypadki opętań potwierdzonych przez KK, które okazywały się być nieleczoną schizofrenią.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;4. Są opisane przypadki opętań potwierdzonych przez KK, które okazywały się być nieleczoną schizofrenią.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Wspomniane wyżej &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062860/"&gt;case study z roku 2011&lt;/a&gt; jest jasnym tego dowodem, podobnie jak zabójstwo Anneliese Michel.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Demografia opętań jest podobna w każdej kulturze w której występują - chorują najczęściej młode religijne kobiety. Jest to sprzeczne z tezami katolickimi o rzekomym kuszeniu tylko wiernych.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;5. Demografia opętań jest podobna w każdej kulturze w której występują - chorują najczęściej młode religijne kobiety. Jest to sprzeczne z tezami katolickimi o rzekomym kuszeniu tylko wiernych.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Nie potrafię znaleźć ponownie źródeł, na podstawie których to pisałem, ale rozjaśnię drugą część - nie ma żadnego powodu teologicznego, by młode kobiety z silnie religijną rodziną były jakimś specjalnym celem diabła. Dlaczego nie młodzi mężczyźni? Dlaczego nie starsze samotne wierzące kobiety? Dlaczego właśnie demografia z tak dużą podatnościa na sugestie?&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Opętania występują tylko w kulturach które dopuszczają taką możliwość - np. w kulturach arabskich są popularniejsze niż w nie-arabskich krajach muzułmańskich.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;6. Opętania występują tylko w kulturach które dopuszczają taką możliwość - np. w kulturach arabskich są popularniejsze niż w nie-arabskich krajach muzułmańskich.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Najprostszy dowód - w Indonezji, największym kraju muzułmańskim, trudno znaleźć opętanych. Tymczasem tylko w Europie, imamowie, przytłaczająco z krajów arabskich, wypędzają dżiny z ciała wiernych tysiącami. Podobnie, wśród zielonoświątkowców, w Europie, pojawia się znacznie więcej “opętań” niż wśród katolików, którzy uważają je za względnie rzadkie zjawisko.&lt;/p&gt;
 
-&lt;p&gt;Z kolei wśród luteran, którzy tradycyjnie uznają “klasyczne” objawy opętania za objawy chorobwe, skupiając się na mówieniu językami i znajomości wiedzy niemożliwej do poznania, a instrukcje zawierają &lt;strong&gt;obowiązek&lt;/strong&gt; konsultacji lekarskiej, opętań jest zaskakująco mało.&lt;/p&gt;
-
-&lt;p&gt;u&lt;/p&gt;</content>
+&lt;p&gt;Z kolei wśród luteran, którzy tradycyjnie uznają “klasyczne” objawy opętania za objawy chorobwe, skupiając się na mówieniu językami i znajomości wiedzy niemożliwej do poznania, a instrukcje zawierają &lt;strong&gt;obowiązek&lt;/strong&gt; konsultacji lekarskiej, opętań jest zaskakująco mało.&lt;/p&gt;</content>
     <author>
       <name/>
     </author>
@@ -180,6 +216,7 @@
 &lt;p&gt;Proponuję kupić:&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Szybkowar (&lt;strong&gt;najdroższy element zestawu&lt;/strong&gt; - najtańszy, nowy, markowy szybkowar jaki znalazłem to Kinghoff KH-4807 za 216zł)&lt;/li&gt;
   &lt;li&gt;IKEA Samla 130L (50zł)&lt;/li&gt;
   &lt;li&gt;Trzonek do skalpela typu 3 (~7zł)&lt;/li&gt;
   &lt;li&gt;Ostrza do skalpela nr 11 (18zł/100 sztuk)&lt;/li&gt;
@@ -189,7 +226,6 @@
 ** Ekstrakt słodowy jasny w proszku (13zł/0.5kg)
 ** Płatki ziemniaczane (13zł/1kg)&lt;/li&gt;
   &lt;li&gt;Folię spożywczą (9zł/duża rolka)&lt;/li&gt;
-  &lt;li&gt;Szybkowar (najdroższy element zestawu - najtańszy, nowy, markowy szybkowar jaki znalazłem to Kinghoff KH-4807 za 216zł)&lt;/li&gt;
   &lt;li&gt;Włóknina poliestrowa 300g/m2 (10zł/dożywotni zapas)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -205,6 +241,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Pakiet &lt;strong&gt;premium&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Ezy bakteriologiczne (3zł/10 sztuk)&lt;/li&gt;
   &lt;li&gt;Biologiczne testy sterylizacji (55zł/10 sztuk)&lt;/li&gt;
@@ -225,7 +262,7 @@
       &lt;li&gt;Włókno kokosowe (uniwersalne, łatwe do użycia, &lt;strong&gt;drogie&lt;/strong&gt;): &lt;em&gt;Psilocibe cubensis&lt;/em&gt;, boczniak ostrygowaty. Uniwersalne, większośc gatunków rośnie.&lt;/li&gt;
       &lt;li&gt;Wióry drewne z drzew liściastych: reishi, shiitake, soplówka jeżowata, boczniak królewski, inne boczniaki, &lt;em&gt;Psilocibe azurescens&lt;/em&gt;.
         &lt;ul&gt;
-          &lt;li&gt;Pelet też daje radę, ale jest wolniej kolonizowany.&lt;/li&gt;
+          &lt;li&gt;Pelet drewny też daje radę, ale jest wolniej kolonizowany.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Kompost: pieczarki.&lt;/li&gt;
@@ -1056,44 +1093,5 @@ Na liście pominąłem &lt;em&gt;inhibitory MAO&lt;/em&gt;.&lt;/p&gt;
     <category term="polska"/>
     <category term="polityka historyczna"/>
     <summary type="html">Opierałem się na następujących źródłach: Nie bierzmy przykładu z Żydów – rozmowa z dr Ewą Kurek [bibula.com] Dr Ewa Kurek: nie ma cywilizacji judeochrześcijańskiej! Żydzi mają inny kod kulturowy [bibula.com] Antysemickie strony zalinkowane przez archive.is.</summary>
-  </entry>
-  <entry>
-    <title type="html">Krótki post o napierdalaniu osób z demencją</title>
-    <link href="https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja/" rel="alternate" type="text/html" title="Krótki post o napierdalaniu osób z demencją"/>
-    <published>2018-02-28T00:19:42+01:00</published>
-    <updated>2018-02-28T00:19:42+01:00</updated>
-    <id>https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/krotki-post-o-napierdalaniu-chorych-z-demencja/">&lt;p&gt;Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem &lt;a href="https://pl.wikipedia.org/wiki/Argumentum_ad_traditionem"&gt;argumentum ad antiquitatem&lt;/a&gt; albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).
-&lt;!--more--&gt;
-Ciekawym kontargumentem dla ich tez jest bicie osób chorych z różnego rodzaju zaburzeniami upośledzającymi prawidłową pracę mózgu, od demencji poprzez zaburzenia rozwojowe i genetyczne do wtórnego pogorszenia funkcji kognitywnych związanego z fizycznym uszkodzeniem mózgu. W normalnych ludziach wzbudza to słuszną niechęć.&lt;/p&gt;
-
-&lt;p&gt;Zwolennik bicia dzieci, zwykle usprawiedliwiający to ich gorszymi zdolnościami intelektualnymi (&lt;strong&gt;czy można bić genialne dzieci&lt;/strong&gt;?) i stosunkiem zależności, może mieć za to poważny problem - czy córka może zlać pasem matkę z demencją za złe zachowanie? Znam przypadek osoby która utraciła zdolność do myślenia naprzód na więcej niż kilka godzin po wypadku samochodowym i długiej śpiączce - czy jej siostra powinna ją napierdalać by ją “wychować”? Czy jeśli dorosła osoba niepełnosprawna intelektualnie zachowuje się niezgodnie z zasadami ośrodka opiekuńczego w którym przebywa to może być bita pasem albo dostać &lt;em&gt;z liścia&lt;/em&gt; od pracownika?&lt;/p&gt;
-
-&lt;p&gt;Ktoś mógłby odpowiedzieć „hola, hola, przecież dzieci się wychowuje by w przyszłości zachowywały się lepiej, a osoby niepełnosprawne intelektualnie nie wyjdą z tego stanu”. Oczywiście, ta argumentacja ma pewne odniesienie do babci z demencją związaną z postępującą chorobą neurodegeneracyjną (nie każda demencja jest z taką związana), jednak &lt;strong&gt;nie każda choroba uniemożliwia jakiekolwiek uczenie&lt;/strong&gt;. Zwłaszcza że poza chorymi na chorobę Alzheimera, która trwale upośledza powstawanie nowych wspomnień (aczkolwiek we wczesnych fazach choroby ich powstawanie nadal jest możliwe, tylko pogorszone[8], co sugerowałoby konieczność częstszego i mocniejszego bicia), nadal możliwe jest powstawanie nowych wspomnień i w konsekwencji - warunkowanie zachowania.&lt;/p&gt;
-
-&lt;p&gt;Co gorsza, istnieje przypadek smutniejszy - dzieci niepełnosprawne umysłowo. Jeśli założymy że bicie dziecka zdrowego jest w porządku, a niepełnosprawnych intelektualnie dorosłych już nie - to co z niepełnosprawnymi umysłowo dziećmi? Kiedy rodzice powinni je przestać bić, jeśli zatrzymało się w rozwoju intelektualnym?&lt;/p&gt;
-
-&lt;p&gt;A zwolennikom napierdalania dzieci życzę żeby gdy już będą starzy ich dzieci nie doprowadziły ich argumentów do logicznego końca.&lt;/p&gt;
-
-&lt;h2 id="przypisy"&gt;Przypisy&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="https://www.psychologytoday.com/blog/moral-landscapes/201309/research-spanking-it-s-bad-all-kids"&gt;Research on Spanking: It’s Bad for ALL Kids&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768154/"&gt;Spanking and Child Development: We Know Enough Now To Stop Hitting Our Children&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[4]&lt;/strong&gt; &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/24144718"&gt;Spanking and child development across the first decade of life&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[5]&lt;/strong&gt; &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/15121948"&gt;Spanking in early childhood and later behavior problems: a prospective study of infants and young toddlers.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[6]&lt;/strong&gt; &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/23274727"&gt;Spanking, corporal punishment and negative long-term outcomes: a meta-analytic review of longitudinal studies.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[7]&lt;/strong&gt; &lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987237/"&gt;Correlates and Consequences of Spanking and Verbal Punishment for Low-Income White, African American, and Mexican American Toddlers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[8]&lt;/strong&gt; &lt;a href="https://www.sciencedirect.com/science/article/pii/0197458091900044"&gt;Disruption of classical conditioning in patients with Alzheimer’s disease&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name/>
-    </author>
-    <category term="bicie dzieci"/>
-    <summary type="html">Mimo że dane naukowe nie potwierdzają hipotez, jakoby napierdalanie dzieci, nawet w łagodnej postaci dawania im klapsów pomagało w procesie wychowawczym [1][3][4][5][6][7], to jest to ciągle broniona przez wielu metoda wychowania najczęściej broniona z użyciem argumentum ad antiquitatem albo dowodu anegdotycznego („mnie napierdalali i wyrosłem na przyzwoitego człowieka”; aczkolwiek ani osób posługujących się argumentami anegdotycznymi do obalania twierdzeń statystycznych ani zwolenników bicia ludzi którzy nie mogą się bronić sam nie nazwałbym „przyzwoitymi”).</summary>
   </entry>
 </feed>
