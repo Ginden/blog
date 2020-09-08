@@ -3,6 +3,7 @@ layout: post
 title: Uprawa grzybów - niezbędny sprzęt
 comments: true
 date: 2020-05-08 00:01 +0200
+categories: [grzyby, "uprawa grzybów"]
 ---
 
 Wiele osób pyta mnie "o co w ogóle chodzi z uprawą grzybów"? Otóż grzyby można uprawiać. Najważniejsze ekonomicznie są pieczarki i boczniaki, bardzo łatwe w uprawie gatunki, dlatego możecie znaleźć je na półce w sklepie cały rok.  Po więcej szczegółów dotyczących teorii zapraszam do swojego [artykułu na Wikipedii](https://pl.wikipedia.org/wiki/Uprawa_grzyb%C3%B3w).

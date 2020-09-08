@@ -3,6 +3,8 @@ layout: post
 title: Pasta o egzorcyzmach
 comments: true
 date: 2020-08-31 01:48 +0200
+categories: [katolicyzm, "egzorcyzmy"]
+
 ---
 
 Treść pasty do kopiuj-wklej:
