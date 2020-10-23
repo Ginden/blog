@@ -8,3 +8,41 @@
     color: #888;
 }
 
+blockquote {
+    padding-left: 2.5em;
+    min-height: 2.5em;
+    border: none;
+    background-image: url("./quote.svg");
+    background-repeat: no-repeat;
+    background-size: 2em;
+}
+
+.site-header {
+    border-top: 5px solid #4915e3;
+}
+
+hr.post-separator {
+    border: none;
+    height: 5px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.175), rgba(0, 0, 0, 0.05)) 100%;
+}
+
+a.link-with-icon {
+    padding-left: 1.3em;
+    background-repeat: no-repeat;
+    background-size: 1em 1em;
+    background-position-x: 0.15em;
+
+}
+
+a.pubmed-link {
+    background-image: url("./external-icons/pubmed.png");
+}
+
+a.wikipedia-link {
+    background-image: url("./external-icons/wikipedia.png");
+}
+
+a.archive-org-link {
+    background-image: url("./external-icons/web-archive-org.svg");
+}

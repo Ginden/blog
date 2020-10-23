@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const common_1 = require("./common");
+const common_1 = require("../common");
 /**
  * Adds references to dom tree
  * @param dom

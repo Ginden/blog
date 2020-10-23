@@ -10,7 +10,7 @@ Jak wiedzą niektórzy, w dyskusjach o Całunie Turyńskim pojawia się hasło, 
 
 Dla czytelnika mającego choć śladowe pojęcie o metodach jakich używa historia, absurdalny jest pomysł _liczenia prawdopodobieństwa przeszłości_, nie jest jasne jak miałoby się to odbywać. Zawsze więc uśmiechałem się z politowaniem.
 
-I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład jak nie należy robić nauki. Jest to praca naukowa _Results of a probabilistic model applied to the research carried out on the Turin Shroud_, autorstwa [Giulio Fantiego](https://www.researchgate.net/profile/G_Fanti). Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.
+I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład **jak nie należy robić nauki**. Jest to praca naukowa _Results of a probabilistic model applied to the research carried out on the Turin Shroud_, autorstwa [Giulio Fantiego](https://www.researchgate.net/profile/G_Fanti). Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.
 <!--more-->
 A, publikuje też artykuły naukowe w swojej dziedzinie.
 
@@ -165,6 +165,6 @@ Jeśli zastosujemy część elementów modelu do koszulki pobrudzonej krwią nas
 
 ## Paweł z Tarsu na dziś:
 
-> Ale jeżeli przez moje kłamstwo2 prawda Boża tym więcej się uwydatnia ku Jego chwale, jakim prawem jeszcze i ja mam być sądzony jako grzesznik? I czyż to znaczy, iż mamy czynić zło, aby stąd wynikło dobro? - jak nas niektórzy oczerniają i jak nam zarzucają, że tak mówimy. Takich czeka sprawiedliwa kara. 
+> Ale jeżeli przez moje kłamstwo prawda Boża tym więcej się uwydatnia ku Jego chwale, jakim prawem jeszcze i ja mam być sądzony jako grzesznik? I czyż to znaczy, iż mamy czynić zło, aby stąd wynikło dobro? - jak nas niektórzy oczerniają i jak nam zarzucają, że tak mówimy. Takich czeka sprawiedliwa kara. 
 
 [Rz 3:7-8](http://biblia.deon.pl/rozdzial.php?id=272).

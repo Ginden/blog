@@ -1,5 +1,5 @@
 import { JSDOM } from "jsdom";
-import { letters } from './common';
+import { letters } from '../common';
 
 /**
  * Adds references to dom tree

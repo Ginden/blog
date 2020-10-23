@@ -1,8 +1,9 @@
 'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });
 const jsdom_1 = require("jsdom");
-const add_references_1 = require("./add-references");
-const add_headers_1 = require("./add-headers");
+const add_references_1 = require("./transformators/add-references");
+const add_headers_1 = require("./transformators/add-headers");
+const add_domain_classes_1 = require("./transformators/add-domain-classes");
 const fs = require('fs').promises;
 if (!fs) {
     throw new Error('Your node version have to support fs.promises API');
@@ -22,6 +23,7 @@ const fileList = fileListRaw
         const dom = new jsdom_1.JSDOM(content);
         await add_references_1.addReferences(dom);
         await add_headers_1.addHeaderLinks(dom);
+        await add_domain_classes_1.addDomainClasses(dom);
         const output = dom.serialize();
         if (output !== content) {
             await fs.writeFile(path, output);

@@ -1,8 +1,9 @@
 'use strict';
 
 import { JSDOM } from "jsdom";
-import { addReferences } from './add-references';
-import { addHeaderLinks } from './add-headers';
+import { addReferences } from './transformators/add-references';
+import { addHeaderLinks } from './transformators/add-headers';
+import { addDomainClasses } from './transformators/add-domain-classes';
 
 const fs = require('fs').promises;
 if (!fs) {
@@ -37,6 +38,7 @@ const fileList = (<string>fileListRaw)
 
     await addReferences(dom);
     await addHeaderLinks(dom);
+    await addDomainClasses(dom);
 
     const output = dom.serialize();
 
