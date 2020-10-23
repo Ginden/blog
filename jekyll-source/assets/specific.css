@@ -1,0 +1,10 @@
+.post-header > a.hash-header-link {
+    display: none;
+    color: #888;
+}
+
+.post-header:hover > a.hash-header-link {
+    display: inline;
+    color: #888;
+}
+

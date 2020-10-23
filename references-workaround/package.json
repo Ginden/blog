@@ -10,7 +10,9 @@
   "author": "Michał Wadas <michalwadas@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@types/slug": "^0.9.1",
     "jsdom": "^13.0.0",
+    "slug": "^4.0.1",
     "tslib": "^1.11.0",
     "typescript": "^3.7.5"
   },
