@@ -1,3 +1,9 @@
+---
+layout: page
+title: Licencje
+permalink: /licenses/
+---
+
 # Licencje plików
 
 Staram się by wszystkie pliki tutaj użyte były użyte za zgodą autora. Zwykle są jako podpis pod obrazkiem, ale części nie da się tak podpisać.

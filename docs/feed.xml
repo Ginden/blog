@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-10-23T21:46:13+02:00</updated>
+  <updated>2020-10-25T00:00:45+02:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -373,20 +373,104 @@ Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.ec
     <updated>2020-01-30T18:16:00+01:00</updated>
     <id>https://ginden.github.io//blog/gestosc-nasypowa</id>
     <content type="html" xml:base="https://ginden.github.io//blog/gestosc-nasypowa/">&lt;!--more--&gt;
-&lt;p&gt;|  Składnik         |  Marka  | Ciężar nasypowy |  Energia nasypowa | Żródło |
-|——————-|———|—————–|——————-|——–|
-| Cukier            |         | 705 g/l         | 2749kcal/l        | [1]    |
-| Mąka kukurydziana |         | 673 g/l         | 2564kcal/l        | [2]    |
-| Glukoza           |         | 577g/l          | 2365kcal/l        | [2]    |
-| Owies             |         | 433g/l          | 1463kcal/l        | [2]    |
-| Ryż               |         | 721g/l          | 2573kcal/l        | [2]    |
-| Żyto              |         | 705g/l          | 2122kcal/l        | [2]    |
-| Sól               |         | 1378g/l         | N/A               | [2]    |
-| Erytrol           | ViVio   | 864g/l          |                   | [3]    |
-| Ksylitol          | Agnex   | 870g/l          |                   | [3]    |
-| Makaron świderki  | Lubella | 340g/l          | 646kcal/l         | [3]    |
-| Ziemniaki surowe  |         | 700g/l          | 560kcal/l         | [4]    |
-| Kasza             |         | 600g/l          | 2130kcal/l        | [4]    |&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Składnik&lt;/th&gt;
+      &lt;th&gt;Marka&lt;/th&gt;
+      &lt;th&gt;Ciężar nasypowy&lt;/th&gt;
+      &lt;th&gt;Energia nasypowa&lt;/th&gt;
+      &lt;th&gt;Żródło&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cukier&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;705 g/l&lt;/td&gt;
+      &lt;td&gt;2749kcal/l&lt;/td&gt;
+      &lt;td&gt;[1]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mąka kukurydziana&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;673 g/l&lt;/td&gt;
+      &lt;td&gt;2564kcal/l&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glukoza&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;577g/l&lt;/td&gt;
+      &lt;td&gt;2365kcal/l&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Owies&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;433g/l&lt;/td&gt;
+      &lt;td&gt;1463kcal/l&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ryż&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;721g/l&lt;/td&gt;
+      &lt;td&gt;2573kcal/l&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Żyto&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;705g/l&lt;/td&gt;
+      &lt;td&gt;2122kcal/l&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sól&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;1378g/l&lt;/td&gt;
+      &lt;td&gt;N/A&lt;/td&gt;
+      &lt;td&gt;[2]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Erytrol&lt;/td&gt;
+      &lt;td&gt;ViVio&lt;/td&gt;
+      &lt;td&gt;864g/l&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[3]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ksylitol&lt;/td&gt;
+      &lt;td&gt;Agnex&lt;/td&gt;
+      &lt;td&gt;870g/l&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[3]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Makaron świderki&lt;/td&gt;
+      &lt;td&gt;Lubella&lt;/td&gt;
+      &lt;td&gt;340g/l&lt;/td&gt;
+      &lt;td&gt;646kcal/l&lt;/td&gt;
+      &lt;td&gt;[3]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ziemniaki surowe&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;700g/l&lt;/td&gt;
+      &lt;td&gt;560kcal/l&lt;/td&gt;
+      &lt;td&gt;[4]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kasza&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;600g/l&lt;/td&gt;
+      &lt;td&gt;2130kcal/l&lt;/td&gt;
+      &lt;td&gt;[4]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="http://www.sugartech.co.za/density/index.php"&gt;Density of Sugar Factory Products&lt;/a&gt;&lt;/p&gt;
 
