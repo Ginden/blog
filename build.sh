@@ -12,7 +12,7 @@ inkscape --export-background='#DDDDDD' -w 128 -h 128 jekyll-source/assets/favico
 
 DOCS_DIR="$(realpath docs)"
 
-(cd references-workaround && npx tsc && (node index.js "$DOCS_DIR" || (npm i && node index.js)))
+(cd references-workaround && npm run build && (node index.js "$DOCS_DIR" || (npm i && node index.js)))
 
 find docs -name '*.html' -exec ./tidy-html-file.sh "{}" \;
 

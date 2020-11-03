@@ -4,6 +4,8 @@
   "description": "This is simple workaround for my inability to write Ruby plugins",
   "main": "index.js",
   "scripts": {
+    "build:ts": "tsc",
+    "prettier": "prettier -c .prettierrc.js --write 'transformators/*' '*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -18,6 +20,7 @@
   },
   "devDependencies": {
     "@types/jsdom": "^16.1.0",
-    "@types/node": "^12.12.28"
+    "@types/node": "^12.12.28",
+    "prettier": "^2.1.2"
   }
 }

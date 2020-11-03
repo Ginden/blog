@@ -25,5 +25,5 @@ Jeśli treści na blogu wyjątkowo Ci się spodobały, możesz dokonać donacji 
 ### Monero
 
 ![QR Code Monero](../assets/monero_qr_code.png){:class="img-responsive"}
-
+olls
 `monero:89JThe9J9jf1r1FVRpVCP11jqWT5ZJBqcRsBQPmnKmu4dHtoyxnLX1VT9Fuvm3q32HQG2UhkUDk48LFxotAng4WxPGAYaRG`
