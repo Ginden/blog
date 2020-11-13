@@ -3,6 +3,7 @@ layout: post
 title: Czy naukowcy nie umieją statystyki?
 date: 2020-11-13 19:37 +0100
 comments: true
+categories: ['nauka', 'metodologia']
 ---
 
 Mózgi _Homo sapiens_ nie lubią statystyki. Cyferki, wzory - to wszystko nie przemawia dobrze dobrze do umysłu, który jest na podstawowym poziomie narzędziem przetrwania i przekazania genów dalej.

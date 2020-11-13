@@ -3,7 +3,7 @@ layout: post
 title: Przypowieść o wyjątkowo złej metodzie
 date: 2019-02-26 20:57 +0100
 comments: true
-categories: ['całun turyński', 'nauka', 'pseudonauka', 'kult cargo', 'pious fraud']
+categories: ['całun turyński', 'nauka', 'pseudonauka', 'kult cargo', 'pious fraud', 'metodologia']
 ---
 
 Jak wiedzą niektórzy, w dyskusjach o Całunie Turyńskim pojawia się hasło, że <q>naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów</q>. Czasem tą liczbą jest 200 miliardów.
