@@ -7,7 +7,7 @@ const domainFragmentClassMap: Record<string, string> = {
     'ncbi.nlm.nih.gov': 'pubmed',
 };
 
-const popularDomains: Record<string, number> = {};
+export const popularDomains: Record<string, number> = {};
 
 export async function addDomainClasses(dom: JSDOM): Promise<void> {
     const document = dom.window.document;

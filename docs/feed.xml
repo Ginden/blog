@@ -3,10 +3,58 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-10-25T00:00:45+02:00</updated>
+  <updated>2020-11-13T19:41:17+01:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
+  <entry>
+    <title type="html">Czy naukowcy nie umieją statystyki?</title>
+    <link href="https://ginden.github.io//blog/czy-naukowcy-nie-umieja-nauki/" rel="alternate" type="text/html" title="Czy naukowcy nie umieją statystyki?"/>
+    <published>2020-11-13T19:37:00+01:00</published>
+    <updated>2020-11-13T19:37:00+01:00</updated>
+    <id>https://ginden.github.io//blog/czy-naukowcy-nie-umieja-nauki</id>
+    <content type="html" xml:base="https://ginden.github.io//blog/czy-naukowcy-nie-umieja-nauki/">&lt;p&gt;Mózgi &lt;em&gt;Homo sapiens&lt;/em&gt; nie lubią statystyki. Cyferki, wzory - to wszystko nie przemawia dobrze dobrze do umysłu, który jest na podstawowym poziomie narzędziem przetrwania i przekazania genów dalej.
+Na szczęście większości z nas to nie przeszkadza - dokładne liczenie prawdopodobieństw ma raczej mały wpływ na moje życie.&lt;/p&gt;
+
+&lt;p&gt;Niestety, naukowcy i lekarze są ludźmi. I nie wydaje się to za dobrze działać na naukę.&lt;/p&gt;
+
+&lt;p&gt;W badaniu 70 wykładowców psychologii[1], mieli oni stwierdzić, które z 6 zdań na temat &lt;a href="https://pl.wikipedia.org/wiki/Warto%C5%9B%C4%87_p"&gt;wartości p&lt;/a&gt; są prawdziwe. Wszystkie były falszywe, ale średnio 2.5 zostało uznane za prawdziwe, a 97% popełniło przynajmniej 1 błąd. Co gorsza, badanie zostało zreplikowane z podobnymi wynikami[2].&lt;/p&gt;
+
+&lt;p&gt;Można powiedzieć - „hola, hola, poważny naukowiec zatrudni zawodowego statystyka, by zajął się obliczeniami”.&lt;/p&gt;
+
+&lt;p&gt;Haller, Heiko i Krauss pokazali[3], tym samym zestawem 6 fałszywych zdań, że wykładowcy statystyki też błędnie je interpretują - 80% z nich popełniło przynajmniej jeden błąd (w porównaniu do 97% wykładowców psychologii i 100% studentów).  Z kolei Lecoutre i Poitevineuau pokazali[4], że dotyczy też zawodowych statystyków pracujących dla firm farmaceutycznych.&lt;/p&gt;
+
+&lt;p&gt;Rezydenci ginekologii z odpowiadaniem na pytania prawda/fałsz o hipotezę zerową radzą sobie &lt;strong&gt;gorzej niż rzut monetą&lt;/strong&gt; [5]. W tym samym badaniu było też takie zadanie:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;10 na 1000 kobiet ma nowotwór piersi. Z tych dziesięciu kobiet, 9 ma pozytywny wynik mammogramu. Spośród 990 kobiet bez nowotworu, 89 ma pozytywny wynik testu. Jeśli kobieta ma pozytywny wynik testu, jaka jest szansa, że ma nowotwór piersi? Wybierz najbliższą prawdzie odpowiedź.
+a) Szanse, że ta kobieta ma nowotwór piersi to około 90% 
+b) Szanse, że ta kobieta ma nowotwór piersi to około 81% 
+c) Z 10 kobiet z pozytywnym mammogramem 9 ma nowotwór piersi 
+d) Z 10 kobiet z pozytywnym mammogramem jedna ma nowotwór piersi 
+e) Szanse, że ta kobieta ma nowotwór piersi to około 1%&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Z tym zadaniem poradziło sobie tylko &lt;strong&gt;26%&lt;/strong&gt; rezydentów. Rzut kostką dałby 20%.&lt;/p&gt;
+
+&lt;p&gt;Ciekawostka: mężczyźni oceniali swoją znajomość statystyki na lepszą niż kobiety, ale odpowiadali tak samo źle.&lt;/p&gt;
+
+&lt;p&gt;Znowu - można powiedzieć, że „chwila, przecież mamy peer-review. Nawet jeśli naukowiec zrobi błędy w badaniu, ktoś je zauważy w procesie recenzji”.&lt;/p&gt;
+
+&lt;p&gt;Hoekstra[6] w ponad połowie zbadanych artykułów z &lt;em&gt;Psychonomic Bulletin &amp;amp; Review&lt;/em&gt; odkrył, że wynik bez istotności statystycznej był interpretowany jako brak efektu, a w 20% &lt;code class="highlighter-rouge"&gt;p &amp;lt; 0.05&lt;/code&gt; było traktowane jako pewność istnienia efektu. Co gorsza, w badaniu też Rinka Hoekstry z 2014, wykładowcy poradzili sobie gorzej z z interpretowaniem niż studenci[7].&lt;/p&gt;
+
+&lt;p&gt;[1] Oakes 1986;
+[2] Falk, Greenbaum 1995
+[3] Haller, Heiko &amp;amp; Krauss, Stefan. (2002). &lt;a href="https://www.researchgate.net/publication/27262211_Misinterpretations_of_Significance_A_Problem_Students_Share_with_Their_Teachers"&gt;Misinterpretations of Significance: A Problem Students Share with Their Teachers?&lt;/a&gt;
+[4] &lt;a href="https://link.springer.com/book/10.1007/978-3-662-44046-9"&gt;The Significance Test Controversy Revisited&lt;/a&gt;
+[5] Anderson BL, Williams S, Schulkin J. &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3693693/"&gt;Statistical literacy of obstetrics-gynecology residents&lt;/a&gt;. J Grad Med Educ. 2013 Jun;5(2):272-5. doi: 10.4300/JGME-D-12-00161.1. PMID: 24404272; PMCID: PMC3693693.
+[6] Hoekstra R, Finch S, Kiers HA, Johnson A. &lt;a href="https://link.springer.com/article/10.3758/BF03213921"&gt;Probability as certainty: dichotomous thinking and the misuse of p values&lt;/a&gt;. Psychon Bull Rev. 2006 Dec;13(6):1033-7. doi: 10.3758/bf03213921. PMID: 17484431.
+[7] Hoekstra R, Morey RD, Rouder JN, Wagenmakers EJ. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/24420726/"&gt;Robust misinterpretation of confidence intervals&lt;/a&gt;. Psychon Bull Rev. 2014 Oct;21(5):1157-64. doi: 10.3758/s13423-013-0572-3. PMID: 24420726.&lt;/p&gt;</content>
+    <author>
+      <name/>
+    </author>
+    <summary type="html">Mózgi Homo sapiens nie lubią statystyki. Cyferki, wzory - to wszystko nie przemawia dobrze dobrze do umysłu, który jest na podstawowym poziomie narzędziem przetrwania i przekazania genów dalej. Na szczęście większości z nas to nie przeszkadza - dokładne liczenie prawdopodobieństw ma raczej mały wpływ na moje życie. Niestety, naukowcy i lekarze są ludźmi. I nie wydaje się to za dobrze działać na naukę. W badaniu 70 wykładowców psychologii[1], mieli oni stwierdzić, które z 6 zdań na temat wartości p są prawdziwe. Wszystkie były falszywe, ale średnio 2.5 zostało uznane za prawdziwe, a 97% popełniło przynajmniej 1 błąd. Co gorsza, badanie zostało zreplikowane z podobnymi wynikami[2]. Można powiedzieć - „hola, hola, poważny naukowiec zatrudni zawodowego statystyka, by zajął się obliczeniami”. Haller, Heiko i Krauss pokazali[3], tym samym zestawem 6 fałszywych zdań, że wykładowcy statystyki też błędnie je interpretują - 80% z nich popełniło przynajmniej jeden błąd (w porównaniu do 97% wykładowców psychologii i 100% studentów). Z kolei Lecoutre i Poitevineuau pokazali[4], że dotyczy też zawodowych statystyków pracujących dla firm farmaceutycznych. Rezydenci ginekologii z odpowiadaniem na pytania prawda/fałsz o hipotezę zerową radzą sobie gorzej niż rzut monetą [5]. W tym samym badaniu było też takie zadanie: 10 na 1000 kobiet ma nowotwór piersi. Z tych dziesięciu kobiet, 9 ma pozytywny wynik mammogramu. Spośród 990 kobiet bez nowotworu, 89 ma pozytywny wynik testu. Jeśli kobieta ma pozytywny wynik testu, jaka jest szansa, że ma nowotwór piersi? Wybierz najbliższą prawdzie odpowiedź. a) Szanse, że ta kobieta ma nowotwór piersi to około 90% b) Szanse, że ta kobieta ma nowotwór piersi to około 81% c) Z 10 kobiet z pozytywnym mammogramem 9 ma nowotwór piersi d) Z 10 kobiet z pozytywnym mammogramem jedna ma nowotwór piersi e) Szanse, że ta kobieta ma nowotwór piersi to około 1% Z tym zadaniem poradziło sobie tylko 26% rezydentów. Rzut kostką dałby 20%. Ciekawostka: mężczyźni oceniali swoją znajomość statystyki na lepszą niż kobiety, ale odpowiadali tak samo źle. Znowu - można powiedzieć, że „chwila, przecież mamy peer-review. Nawet jeśli naukowiec zrobi błędy w badaniu, ktoś je zauważy w procesie recenzji”. Hoekstra[6] w ponad połowie zbadanych artykułów z Psychonomic Bulletin &amp;amp; Review odkrył, że wynik bez istotności statystycznej był interpretowany jako brak efektu, a w 20% p &amp;lt; 0.05 było traktowane jako pewność istnienia efektu. Co gorsza, w badaniu też Rinka Hoekstry z 2014, wykładowcy poradzili sobie gorzej z z interpretowaniem niż studenci[7]. [1] Oakes 1986; [2] Falk, Greenbaum 1995 [3] Haller, Heiko &amp;amp; Krauss, Stefan. (2002). Misinterpretations of Significance: A Problem Students Share with Their Teachers? [4] The Significance Test Controversy Revisited [5] Anderson BL, Williams S, Schulkin J. Statistical literacy of obstetrics-gynecology residents. J Grad Med Educ. 2013 Jun;5(2):272-5. doi: 10.4300/JGME-D-12-00161.1. PMID: 24404272; PMCID: PMC3693693. [6] Hoekstra R, Finch S, Kiers HA, Johnson A. Probability as certainty: dichotomous thinking and the misuse of p values. Psychon Bull Rev. 2006 Dec;13(6):1033-7. doi: 10.3758/bf03213921. PMID: 17484431. [7] Hoekstra R, Morey RD, Rouder JN, Wagenmakers EJ. Robust misinterpretation of confidence intervals. Psychon Bull Rev. 2014 Oct;21(5):1157-64. doi: 10.3758/s13423-013-0572-3. PMID: 24420726.</summary>
+  </entry>
   <entry>
     <title type="html">Uwagi dotyczące odpowiedzi na propozycje ustaw o niedyskryminacji osób katolickich</title>
     <link href="https://ginden.github.io//blog/uwagi-dotyczace-odpowiedzi-na-propozycje-ustaw-o-niedyskryminacji-osob-katolickich/" rel="alternate" type="text/html" title="Uwagi dotyczące odpowiedzi na propozycje ustaw o niedyskryminacji osób katolickich"/>
@@ -995,119 +1043,5 @@ Na liście pominąłem &lt;em&gt;inhibitory MAO&lt;/em&gt;.&lt;/p&gt;
     <category term="biologia"/>
     <category term="narkotyki"/>
     <summary type="html">Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.</summary>
-  </entry>
-  <entry>
-    <title type="html">Religia i nauka stoją w sprzeczności</title>
-    <link href="https://ginden.github.io//blog/religia-a-nauka/" rel="alternate" type="text/html" title="Religia i nauka stoją w sprzeczności"/>
-    <published>2018-05-27T17:19:41+02:00</published>
-    <updated>2018-05-27T17:19:41+02:00</updated>
-    <id>https://ginden.github.io//blog/religia-a-nauka</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/religia-a-nauka/">&lt;p&gt;Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa &lt;em&gt;nauka i religia nie stoją w sprzeczności&lt;/em&gt;. Albo &lt;em&gt;nawet Kościół uznał teorię ewolucji&lt;/em&gt; [a] albo &lt;em&gt;ksiądz[1] stworzył teorię Wielkiego Wybuchu&lt;/em&gt; albo &lt;em&gt;religia i nauka zajmują się całkiem rozłącznymi dziedzinami&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, &lt;em&gt;idealna&lt;/em&gt; religia wypowiadająca się &lt;strong&gt;wyłącznie&lt;/strong&gt; w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;h1 id="solenie-skryptury"&gt;“Solenie skryptury”&lt;/h1&gt;
-
-&lt;p&gt;Dla czytelników niezaznajomionych z &lt;em&gt;subtelnościami&lt;/em&gt; katolicyzmu, powiem że &lt;strong&gt;katolicy nie mogą czytać Biblii jak chcą&lt;/strong&gt;. O tym które fragmenty są dosłowne, a które metaforą nie decyduje pojedynczy wyznawca, tylko odpowiednie organy kościelne (np. papież lub &lt;a href="https://pl.wikipedia.org/wiki/Kongregacja_Nauki_Wiary"&gt;Kongregacja Nauki Wiary&lt;/a&gt;). Dlatego w dalszej części tekstu nie będę obalał antynaukowych bzdur z Biblii (a jest ich pełno), ale te z oficjalnego nauczania Kościoła.&lt;/p&gt;
-
-&lt;h1 id="konflikt-wiary-i-nauki"&gt;Konflikt wiary i nauki&lt;/h1&gt;
-
-&lt;p&gt;Cytując fragment ustaleń I Soboru Watykańskiego [1]:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Hence all faithful &lt;strong&gt;Christians are forbidden to defend as the legitimate conclusions of science those opinions which are known to be contrary to the doctrine of faith&lt;/strong&gt;, particularly if they have been condemned by the church; and furthermore they are absolutely bound to hold them to be errors which wear the deceptive appearance of truth. &lt;strong&gt;Not only can faith and reason never be at odds with one another&lt;/strong&gt; but they mutually support each other, for on the one hand right reason established the foundations of the faith and, illuminated by its light, develops the science of divine things; on the other hand, &lt;strong&gt;faith delivers reason from errors&lt;/strong&gt; and protects it and furnishes it with knowledge of many kinds.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Wyraźnie jest zwrócona uwaga że nauka nie jest w stanie stać w sprzeczności z wiarą katolicką. Oznacza to odrzucenie genetyki i ewolucji, ale o tym w następnym fragmencie.&lt;/p&gt;
-
-&lt;h1 id="teoria-ewolucji-i-początek-człowieka"&gt;Teoria ewolucji i początek człowieka&lt;/h1&gt;
-
-&lt;p&gt;Zaczynając od tezy której będę dowodził - &lt;strong&gt;Kościół formalnie uznał teorię ewolucji, ale nie rozumie jej implikacji&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Przez wielu wieków Kościół nie wypowiadał się konkretnie w sprawie kreacji świata - “ewolucyjne” poglądy prezentował m. in. Augustyn. Sytuacja zmieniła się po wydaniu słynnego dzieła Darwina, “o powstawaniu gatunków”. Niepokój wzbudziła nie sama teoria ewolucji jako wyjaśnienie bioróżnorodności, ale heretycka wręcz myśl że &lt;strong&gt;człowiek może pochodzić od zwierząt&lt;/strong&gt;. Jakich rzeczy nie może więc negować katolik (wg Papieskiej Komisji Biblijnej, stanowisko z 1909 roku[3][4])?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;the creation of all things which was accomplished by God at the beginning of time; &lt;strong&gt;the special creation of man&lt;/strong&gt;; the &lt;strong&gt;formation of the first woman from man&lt;/strong&gt;; the unity of the human race; the &lt;strong&gt;original happiness of our first parents in a state of justice, integrity, and immortality&lt;/strong&gt;; the divine command laid upon man to prove his obedience; the transgression of that divine command at the instigation of the &lt;strong&gt;devil under the form of a serpent&lt;/strong&gt;; the fall of our first parents from their primitive state of innocence; and the promise of a future Redeemer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;41 lat później o sprawie ewolucji wypowiedział się papież Pius XII w encyklice &lt;a href="https://pl.wikipedia.org/wiki/Humani_generis"&gt;Humani generis&lt;/a&gt;. Wypowiada się on tam dość ostrożnie o ewolucji, sugerując że nie jest godna zaufania, ale może być prawdziwa. Jednak akapit dalej odlatuje kompletnie[b]. Cytując [5][6]:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;When, however, there is question of another conjectural opinion, namely &lt;strong&gt;polygenism&lt;/strong&gt;, the children of the Church by no means enjoy such liberty &lt;em&gt;[debatowania o sprawie]&lt;/em&gt;. For the &lt;strong&gt;faithful cannot embrace that opinion which maintains that either after Adam there existed on this earth true men who did not take their origin through natural generation from him as from the first parent of all, or that Adam represents a certain number of first parents&lt;/strong&gt;. Now it is in no way apparent how such an opinion can be reconciled with that which the sources of revealed truth and the documents of the Teaching Authority of the Church propose with regard to &lt;strong&gt;original sin, which proceeds from a sin actually committed by an individual Adam and which, through generation, is passed on to all and is in everyone as his own&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jak widzimy, katolik musi uznać że cała ludzkość pochodzi wyłącznie od &lt;strong&gt;jednej&lt;/strong&gt; pary. Jest po prostu bzdurą, sprzeczną z całą naszą wiedzą na temat genetyki populacyjnej.&lt;/p&gt;
-
-&lt;p&gt;Problemem jest to że ludzie dzielą przynajmniej 125 wariantów DNA z szympansami[7], co wyklucza pochodzenie od dwóch rodziców. Co więcej, tempo mutacji u ludzi i szympansów są zgodne z teoretycznymi rozważaniami - co stoi w sprzeczności z hipotezą dwoch rodziców. Istnieją cztery możliwe wyjaśnienia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Katolicki dogmat jest bujdą.&lt;/li&gt;
-  &lt;li&gt;Adam i Ewa byli przodkami także szympansów, z czego wynika konieczność nawracania szympansów.&lt;/li&gt;
-  &lt;li&gt;Bóg fałszuje genetykę populacyjną by odwieść ludzi od chrześcijaństwa.&lt;/li&gt;
-  &lt;li&gt;Potomkowie Adama i Ewy krzyżowali się ze zwierzętami, ale taka wizja jest co najmniej koszmarna - ludzie-osoby współżyjący z ludźmi-zwierzętami, którzy to ludzie-zwierzęta są inteligentni, świadomi (samoświadomość pojawiła się w linii ewolucyjnej homidów wcześniej niż rozeszły się nasze drogi z innymi wielkimi małpami), ale to &lt;strong&gt;ludzie pozbawieni duszy&lt;/strong&gt; i szans na zbawienie.
-    &lt;ul&gt;
-      &lt;li&gt;Bonusowo - czy można udowodnić że wszyscy ludzie pochodzą od Adama i Ewy? Czy np. nie mogłaby się odłączyć pewna grupa ludzi którzy nie pochodzą od nich, przez co nie wszyscy czytelnicy tych słów mieliby duszę?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ja wybieram opcję pierwszą.&lt;/p&gt;
-
-&lt;h1 id="wielki-wybuch"&gt;Wielki Wybuch&lt;/h1&gt;
-
-&lt;p&gt;Tak, katolicy obecnie nie mają nic do Wielkiego Wybuchu, wiemy.&lt;/p&gt;
-
-&lt;h1 id="sprzeczność-z-wiedzą-historyczną"&gt;Sprzeczność z wiedzą historyczną&lt;/h1&gt;
-
-&lt;h2 id="exodus"&gt;Exodus&lt;/h2&gt;
-&lt;p&gt;Cytując Katechizm Kościoła Katolickiego:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;1081 Błogosławieństwa Boże ukazują się w zdumiewających i zbawczych wydarzeniach, takich jak narodzenie Izaaka, wyprowadzenie z Egiptu (Pascha i Wyjście), dar Ziemi Obiecanej
-1093 (…) pamięć o wydarzeniach zbawczych i znaczących faktach, które znalazły swoje wypełnienie w misterium Chrystusa (Obietnica i Przymierze, Wyjście i Pascha, Królestwo i Świątynia, Wygnanie i Powrót).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jak widać, Exodus jest tutaj opisany jako “wydarzenie zbawcze” i “znaczący fakt”.&lt;/p&gt;
-
-&lt;p&gt;Dość poważnym problemem jest tutaj fakt że Exodusu nie było, to wymyślona historia. Nie istnieją dowody na to że rzesza Izraelitów była w Egipcie, nie istnieją dowody na plagi egipskie, na pustyni Synaj nie znaleziono żadnych dowodów na olbrzymią migrację (znaleziono za to ślady pasterzy z okresów znacznie wcześniejszych i znacznie późniejszych!). Jerycho w momencie rzekomego zdobycia było opuszczone od 800 lat i zostało ponownie zasiedlone przynajmniej 200 lat później.&lt;/p&gt;
-
-&lt;p&gt;Co więcej, tereny na których Izraelici rzekomo zbudowali swoje państwo znajdowały się w tym okresie w granicach Egiptu - “wyjście z Egiptu” stawałoby się po prostu migracją z jednej części Egiptu do innej. Afrykańska część Egiptu w tym okresie nie utraciła olbrzymiej części populacji (co wiązałoby się z olbrzymią biedą tam, widoczną w zapisach archeologicznych).&lt;/p&gt;
-
-&lt;p&gt;Tak samo nie istniało potężne, opisane w Biblii Królestwo Izraela i Judy - zapisy archeologiczne wskazują że Żydzi nie byli większością na tych terenach. Królestwo Izraela nie było też specjalnie potężne - w bitwie pod Karkar musieli zjednoczyć się z kilkunastoma innymi plemionami przeciw Asyrii, wystawili też mniej niż 20% wojsk[8].&lt;/p&gt;
-
-&lt;h1 id="nauka-nie-może-zaprzeczyć-wierze"&gt;Nauka nie może zaprzeczyć wierze&lt;/h1&gt;
-
-&lt;p&gt;To argument dość łatwy do obalenia eksperymentem myślowym - istnieje cała seria &lt;em&gt;hipotetycznych&lt;/em&gt; znalezisk które mogłyby obalić podstawy wiary. Powiedzmy, że znajdujemy grób Jezusa, opisany ładnie, z rzymskim aktem zgonu, datą, przewiną, imionami rodziców i ciałem ukrzyżowanego. Czy nie obalałoby to zmartwychwstania? Bardziej fantastycznym pomysłem byłaby podróż szybsza niż światło by obserwować przez teleskop ziemię sprzed 2000 lat.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nauka może więc zaprzeczyć wierze&lt;/strong&gt;, ale dotychczas nie znalazła odpowiednio twardych dowodów. Istnieje bardzo dużo naukowych przesłanek by uznać że wydarzenia biblijne zostały w dużej mierze zmyślone. Rzekome cuda, migracje, państwa - wszystkie powinny się odbić szerokim echem, być zapisane w kronikach, w inskrypcjach na kamieniach - ale historia o nich milczy.&lt;/p&gt;
-
-&lt;p&gt;Dygresja: tutaj mamy bardzo uprzywilejowane traktowanie religii. Opowieści o Imperium Lechitów są traktowane jako pseudohistoryczna bzdura, podczas gdy wydarzenia biblijne równie ugruntowane w materiale archeologicznym i historycznym, często traktuje się na zasadzie “mogło się wydarzyć, nie mamy dowodów że tak nie było”.&lt;/p&gt;
-
-&lt;p&gt;A, tak, tytuł jest prowokacyjny - religia &lt;strong&gt;nie musi&lt;/strong&gt; stać w sprzeczności z nauką (z tego co wiem, buddyzm nie stoi), ale większość religii abrahamowych &lt;strong&gt;stoi&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;[a] To naprawdę miło z jego strony że nie neguje faktów, wow, co za osiągnięcie.&lt;/p&gt;
-
-&lt;p&gt;[b] Nie mógł wiedzieć że gada od rzeczy, bo pierwsze sekwencjonowanie DNA udało się około 20 lat później. Można by się jednak spodziewać, że zachowa wstrzemięźliwość w tematach o których nie ma pojęcia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="https://pl.wikipedia.org/wiki/Georges_Lema%C3%AEtre"&gt;Georges Lemaître&lt;/a&gt; rzeczywiście był księdzem. Nie znając jego hipotezy, opublikowanej w niszowym piśmie naukowym, Wielki Wybuch wymyślił także Hubble dwa lata później.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href="http://traditionalcatholic.net/Tradition/Council/Vatican/Third_Session,_Chapter_4.html"&gt;The Vatican Council Third Session, Chapter 4&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href="http://www.biblicalcatholic.com/apologetics/p100.htm"&gt;Catholic Dogma and Teaching on Creation&lt;/a&gt;. Cytat rzekomo pochodzi z &lt;em&gt;Acta apostolis sedis, 1 [1909 Pontifical Biblical Commission], pages 567-69, translated in Rome and the Study of Scripture, 7th edition, and cited from Origin of the Human Species by Dennis Bonnette, page 145&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[4]&lt;/strong&gt; &lt;a href="http://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19090630_genesi_lt.html"&gt;DE CHARACTERE HISTORICO TRIUM PRIORUM CAPITUM GENESEOS&lt;/a&gt;. Łaciński oryginał [3]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[5]&lt;/strong&gt; &lt;a href="http://w2.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html"&gt;Oficjalne tłumaczenie Humani Generis na angielski&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[6]&lt;/strong&gt; &lt;a href="https://pelagiusasturiensis.wordpress.com/pius-xii-humani-generis-pl/"&gt;Tłumaczenie Humani Generis na polski&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[7]&lt;/strong&gt; &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612375/"&gt;Multiple instances of ancient balancing selection shared between humans and chimpanzees&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[8]&lt;/strong&gt; &lt;a href="https://en.wikipedia.org/wiki/Kurkh_Monoliths"&gt;Kurkh Monoliths&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name/>
-    </author>
-    <category term="katolicyzm"/>
-    <category term="ateizm"/>
-    <category term="antyteizm"/>
-    <summary type="html">Jeśli zdarzyło Ci się dyskutować z apologetą katolicyzmu, na pewno padły słowa nauka i religia nie stoją w sprzeczności. Albo nawet Kościół uznał teorię ewolucji [a] albo ksiądz[1] stworzył teorię Wielkiego Wybuchu albo religia i nauka zajmują się całkiem rozłącznymi dziedzinami. Problemem, jak to często bywa w dyskusjach z religiantami, jest mieszanie idei z rzeczywistością. Niewątpliwie, idealna religia wypowiadająca się wyłącznie w sprawach moralności i wiary nie mogłaby zostać obalona naukowo, bo stawia tylko tezy wartościujące, których nauka nie jest w stanie obalić. Katolicyzm nie jest jednak religijnym odpowiednikiem sferycznego konia poruszającego się w próżni, ale w swoim nauczaniu formułuje tezy biologiczne i historyczne.</summary>
   </entry>
 </feed>

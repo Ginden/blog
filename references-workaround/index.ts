@@ -3,7 +3,7 @@
 import { JSDOM } from 'jsdom';
 import { addReferences } from './transformators/add-references';
 import { addHeaderLinks } from './transformators/add-headers';
-import { addDomainClasses } from './transformators/add-domain-classes';
+import { addDomainClasses, popularDomains } from './transformators/add-domain-classes';
 
 const fs = require('fs').promises;
 if (!fs) {
@@ -43,6 +43,8 @@ const fileList = (<string>fileListRaw)
             await fs.writeFile(path, output);
         }
     }
+
+    console.error(popularDomains);
 })().catch((err) => {
     setImmediate(() => {
         throw err;

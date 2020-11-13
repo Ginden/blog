@@ -4,7 +4,7 @@ set -e;
 
 wget https://code.jquery.com/jquery-3.3.1.min.js -O "jekyll-source/assets/jquery.min.js";
 
-inkscape --export-background='#DDDDDD' -w 128 -h 128 jekyll-source/assets/favicon.svg --export-filename jekyll-source/assets/favicon.png || true;
+(inkscape --export-background='#DDDDDD' -w 128 -h 128 jekyll-source/assets/favicon.svg --export-filename jekyll-source/assets/favicon.png || true);
 
 (cd jekyll-source && bundle exec jekyll build --destination ../docs);
 
@@ -12,10 +12,10 @@ inkscape --export-background='#DDDDDD' -w 128 -h 128 jekyll-source/assets/favico
 
 DOCS_DIR="$(realpath docs)"
 
-(cd references-workaround && npm run build && (node index.js "$DOCS_DIR" || (npm i && node index.js)))
+(cd references-workaround && npm run build && (node index.js "$DOCS_DIR" || (npm i && node index.js)));
 
-find docs -name '*.html' -exec ./tidy-html-file.sh "{}" \;
+find docs -name '*.html' -print0 | xargs -P 8 -n1 -0 ./tidy-html-file.sh;
 
-jq -S . "docs/redirects.json" > "docs/redirects_pretty.json" && mv "docs/redirects_pretty.json" "docs/redirects.json"
+(jq -S . "docs/redirects.json" > "docs/redirects_pretty.json" && mv "docs/redirects_pretty.json" "docs/redirects.json");
 
 ./local-server.sh

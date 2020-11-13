@@ -60,5 +60,6 @@ a.archive-org-link {
     width: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0), #d4bff9, rgba(0, 0, 0, 0));
     height: 12em;
+    pointer-events: none;
 }
 
