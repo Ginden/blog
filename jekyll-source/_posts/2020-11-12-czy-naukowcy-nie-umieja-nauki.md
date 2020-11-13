@@ -38,6 +38,7 @@ Znowu - można powiedzieć, że „chwila, przecież mamy peer-review. Nawet je�
 
 Hoekstra[6] w ponad połowie zbadanych artykułów z _Psychonomic Bulletin & Review_ odkrył, że wynik bez istotności statystycznej był interpretowany jako brak efektu, a w 20% `p < 0.05` było traktowane jako pewność istnienia efektu. Co gorsza, w badaniu też Rinka Hoekstry z 2014, wykładowcy poradzili sobie gorzej z z interpretowaniem niż studenci[7].
 
+### Przypisy
 
 [1] Oakes 1986;
 

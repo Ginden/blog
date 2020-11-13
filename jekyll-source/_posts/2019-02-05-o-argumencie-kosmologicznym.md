@@ -73,7 +73,7 @@ Najłatwiej wszystkie problemy z argumentem kosmologicznym zauważyć przez sfor
 4. Wynika z tego (indukcyjnie) że cały graf jest grafem acyklicznym skierowanym.
 5. [Wynika z tego](https://pl.wikipedia.org/wiki/B%C5%82%C4%85d_formalny) że ten graf ma tylko jeden korzeń.
 
-
+### Przypisy
 
 **[1]** Wymyślił go muzułmański teolog, [Abu Hamid Muhammad ibn Muhammad at-Tusi-asz-Szafi](https://pl.wikipedia.org/wiki/Al-Ghazali). Współcześni chrześcijańscy apologeci zmieniają końcowy wniosek na Trójcę.
 **[2]** [Rozumowanie indukcyjne](https://pl.wikipedia.org/wiki/Rozumowanie_indukcyjne)

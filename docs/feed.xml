@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-11-13T19:43:38+01:00</updated>
+  <updated>2020-11-13T19:46:59+01:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -46,6 +46,8 @@ Na szczęście większości z nas to nie przeszkadza - dokładne liczenie prawdo
 &lt;p&gt;Znowu - można powiedzieć, że „chwila, przecież mamy peer-review. Nawet jeśli naukowiec zrobi błędy w badaniu, ktoś je zauważy w procesie recenzji”.&lt;/p&gt;
 
 &lt;p&gt;Hoekstra[6] w ponad połowie zbadanych artykułów z &lt;em&gt;Psychonomic Bulletin &amp;amp; Review&lt;/em&gt; odkrył, że wynik bez istotności statystycznej był interpretowany jako brak efektu, a w 20% &lt;code class="highlighter-rouge"&gt;p &amp;lt; 0.05&lt;/code&gt; było traktowane jako pewność istnienia efektu. Co gorsza, w badaniu też Rinka Hoekstry z 2014, wykładowcy poradzili sobie gorzej z z interpretowaniem niż studenci[7].&lt;/p&gt;
+
+&lt;h3 id="przypisy"&gt;Przypisy&lt;/h3&gt;
 
 &lt;p&gt;[1] Oakes 1986;&lt;/p&gt;
 
@@ -531,6 +533,8 @@ Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.ec
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;h3 id="przypisy"&gt;Przypisy&lt;/h3&gt;
+
 &lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href="http://www.sugartech.co.za/density/index.php"&gt;Density of Sugar Factory Products&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href="http://www.anval.net/downloads/bulk%20density%20chart.pdf"&gt;Anval Bulk Density Chart&lt;/a&gt;&lt;/p&gt;
@@ -692,6 +696,8 @@ Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.ec
 &lt;/blockquote&gt;
 
 &lt;p&gt;Prawdziwość: &lt;em&gt;kłamstwo&lt;/em&gt;. Nie ma żadnego dowodu że tak powstał, jeden profesor mechaniki stwierdził, że on nie widzi innego sposobu.&lt;/p&gt;
+
+&lt;h3 id="przypisy"&gt;Przypisy&lt;/h3&gt;
 
 &lt;p&gt;[1] J. J. Lorre, D. J. Lynn, “Digital enhancement of images of the Shroud of Turin”, in: Proceedings of the 1977 United States Conference of research on the Shroud of Turin, Albuquerque 1977, Holy Shroud Guild, New York 1977
 [2] &lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/26434580"&gt;Uncovering the sources of DNA found on the Turin Shroud&lt;/a&gt;.&lt;/p&gt;</content>

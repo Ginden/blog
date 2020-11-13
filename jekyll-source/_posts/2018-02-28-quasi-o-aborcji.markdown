@@ -370,7 +370,7 @@ Wbrew temu co zwykli twierdzić obrońcy życia, _levongestrel_ - który jest ob
 
 „Syndrom postaborcyjny” to najprawdopodobniej tylko propagandowy mit. WHO (na swej liści chorób ICD) ani APA (na swej liście chorób DSM) nie uwzględniają takiej jednostki chorobowej, a dostępna literatura medyczna wskazuje, że nie ma mocnych dowodów wiążących przyczynowo samą aborcję z późniejszymi powikłaniami psychicznymi. **[29]** 
 
-## Przypisy
+### Przypisy
 
 **[1]** "[Fusion of genetic material in mammals](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio&amp;part=A1412#A1415)." w Gilbert, Scott F. _Developmental Biology, Eighth Edition_. Sinauer Associates Inc., 2006. 
 

@@ -82,6 +82,8 @@ A, tak, tytuł jest prowokacyjny - religia **nie musi** stać w sprzeczności z 
 [b] Nie mógł wiedzieć że gada od rzeczy, bo pierwsze sekwencjonowanie DNA udało się około 20 lat później. Można by się jednak spodziewać, że zachowa wstrzemięźliwość w tematach o których nie ma pojęcia.
 
 
+### Przypisy
+
 **[1]** [Georges Lemaître](https://pl.wikipedia.org/wiki/Georges_Lema%C3%AEtre) rzeczywiście był księdzem. Nie znając jego hipotezy, opublikowanej w niszowym piśmie naukowym, Wielki Wybuch wymyślił także Hubble dwa lata później. 
 
 **[2]** [The Vatican Council Third Session, Chapter 4](http://traditionalcatholic.net/Tradition/Council/Vatican/Third_Session,_Chapter_4.html)

@@ -104,5 +104,7 @@ Czemu Piłat miałby cokolwiek ukrywać? Przypomnijmy: Piłat był krwawym i zni
 
 Prawdziwość: *kłamstwo*. Nie ma żadnego dowodu że tak powstał, jeden profesor mechaniki stwierdził, że on nie widzi innego sposobu.
 
+### Przypisy
+
 [1] J. J. Lorre, D. J. Lynn, "Digital enhancement of images of the Shroud of Turin", in: Proceedings of the 1977 United States Conference of research on the Shroud of Turin, Albuquerque 1977, Holy Shroud Guild, New York 1977
 [2] [Uncovering the sources of DNA found on the Turin Shroud](https://www.ncbi.nlm.nih.gov/pubmed/26434580). 
