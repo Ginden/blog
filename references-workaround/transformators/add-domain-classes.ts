@@ -14,12 +14,7 @@ export const popularDomains: Record<string, number> = {};
 export async function addDomainClasses(dom: JSDOM): Promise<void> {
     const document = dom.window.document;
 
-    const postContent = document.querySelector('.post-content');
-    if (!postContent) {
-        return;
-    }
-
-    const anchorElements = postContent.querySelectorAll('a');
+    const anchorElements = document.querySelectorAll('a');
     for (const link of anchorElements) {
         if (!link.href.startsWith('http')) {
             continue;

@@ -14,12 +14,12 @@ function sortAny<T = any>(obj: T): T {
         return (obj as any).map(sortAny);
     }
     if (typeof obj === 'object') {
-      return chain(obj as any)
-        .toPairs()
-        .sortBy('0')
-        .map(([k, v]) => [k, sortAny(v)])
-        .fromPairs()
-        .value() as any;
+        return chain(obj as any)
+            .toPairs()
+            .sortBy('0')
+            .map(([k, v]) => [k, sortAny(v)])
+            .fromPairs()
+            .value() as any;
     }
 
     throw new Error(String(obj));
