@@ -32,7 +32,6 @@ a.link-with-icon {
     background-repeat: no-repeat;
     background-size: 1em 1em;
     background-position-x: 0.15em;
-
 }
 
 a.pubmed-link {
@@ -45,6 +44,14 @@ a.wikipedia-link {
 
 a.archive-org-link {
     background-image: url("./external-icons/web-archive-org.svg");
+}
+
+a.facebook-link {
+    background-image: url("./external-icons/facebok.png");
+}
+
+a.doi-link {
+    background-image: url("./external-icons/doi.svg");
 }
 
 .banner-container {
@@ -63,3 +70,7 @@ a.archive-org-link {
     pointer-events: none;
 }
 
+.referencing {
+    vertical-align: super;
+    font-size: .75em;
+}

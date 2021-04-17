@@ -3,7 +3,12 @@
 import { JSDOM } from 'jsdom';
 import { addReferences } from './transformators/add-references';
 import { addHeaderLinks } from './transformators/add-headers';
-import { addDomainClasses, popularDomains } from './transformators/add-domain-classes';
+import {
+    addDomainClasses,
+    popularDomains,
+} from './transformators/add-domain-classes';
+import { chain } from 'lodash';
+import { sortLdJson } from './transformators/sort-ld-json';
 
 const fs = require('fs').promises;
 if (!fs) {
@@ -36,6 +41,7 @@ const fileList = (<string>fileListRaw)
         await addReferences(dom);
         await addHeaderLinks(dom);
         await addDomainClasses(dom);
+        await sortLdJson(dom);
 
         const output = dom.serialize();
 
@@ -44,7 +50,15 @@ const fileList = (<string>fileListRaw)
         }
     }
 
-    console.error(popularDomains);
+    const popularDomainsSorted = chain(popularDomains)
+        .toPairs()
+        .sortBy('1')
+        .reverse()
+        .slice(0, 20)
+        .reverse()
+        .fromPairs()
+        .value();
+    console.error(popularDomainsSorted);
 })().catch((err) => {
     setImmediate(() => {
         throw err;

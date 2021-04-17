@@ -5,6 +5,8 @@ const domainFragmentClassMap: Record<string, string> = {
     'wikipedia.org': 'wikipedia',
     'web.archive.org': 'archive-org',
     'ncbi.nlm.nih.gov': 'pubmed',
+    'facebook.com': 'facebook',
+    'doi.org': 'doi',
 };
 
 export const popularDomains: Record<string, number> = {};
@@ -29,6 +31,9 @@ export async function addDomainClasses(dom: JSDOM): Promise<void> {
             domainFragmentClassMap,
         )) {
             if (url.host.includes(domain)) {
+                if (domain !== link.hostname) {
+                    popularDomains[domain] = (popularDomains[domain] ?? 0) + 1;
+                }
                 link.classList.add(`${className}-link`);
                 link.classList.add('link-with-icon');
                 break;

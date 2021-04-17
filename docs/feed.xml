@@ -3,10 +3,247 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2020-11-13T19:46:59+01:00</updated>
+  <updated>2021-04-17T18:04:29+02:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
+  <entry>
+    <title type="html">Neoliberalny Lewak o regulacjach mieszkaniowych</title>
+    <link href="https://ginden.github.io//blog/neoliberalny-lewak-o-regulacjach-mieszkaniowych/" rel="alternate" type="text/html" title="Neoliberalny Lewak o regulacjach mieszkaniowych"/>
+    <published>2021-04-17T16:18:00+02:00</published>
+    <updated>2021-04-17T16:18:00+02:00</updated>
+    <id>https://ginden.github.io//blog/neoliberalny-lewak-o-regulacjach-mieszkaniowych</id>
+    <content type="html" xml:base="https://ginden.github.io//blog/neoliberalny-lewak-o-regulacjach-mieszkaniowych/">&lt;p&gt;Cześć, mój znajomy, &lt;a href="https://facebook.com/NeoliberalnyLewak"&gt;Neoliberalny Lewak&lt;/a&gt; (zachęcam do polajkowania strony), napisał kiedyś tekst o cenach mieszkań.&lt;/p&gt;
+
+&lt;p&gt;Ostatnio sporo było dyskusji o rynku mieszkaniowym i jego problemach, przyczynach tych problemów i propozycjach ich rozwiązania. Jako, że większość „argumentów” używanych w tych dyskusjach to durne ideologiczne slogany i nudne już jebanie po landlordach, więc w celu podniesienia poziomu postanowiłem dorzucić coś od siebie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TLDR&lt;/strong&gt;: Wysokie ceny mieszkań są obecnie problemem w wielu państwach i miastach świata. Spowodowane są przez wiele różnych czynników, w których prym wiodą: rygorystyczne plany zagospodarowania przestrzennego, które ograniczają wysoką zabudowę wielorodzinną i działają na korzyść obecnych mieszkańców kosztem ludzi, którzy chcieliby się do miasta przeprowadzić, regulacje rynku mieszkaniowego tj. rent control lub rygorystyczne prawo ochrony lokatorów oraz polityka państwa promująca zakup mieszkania ponad jego wynajem. Ponadto taki rodzaj polityki niesie ze sobą daleko idące konsekwencje ponad wysokie ceny mieszkań i wynajmu tj. bardzo duży wzrost nierówności, znaczące ograniczenie wzrostu gospodarczego i mobilności społecznej, urban sprawl i poważne koszty środowiskowe. Rozwiązaniami na ten problem mogą być: deregulacja rynku mieszkaniowego i budowlanego, realizacja planów przestrzennych promujących gęstą zabudowę, podatek od nieulepszonej wartości gruntu oraz mieszkalnictwo socjalne oraz komunalne.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id="charakterystyka-rynku-mieszkaniowego"&gt;Charakterystyka rynku mieszkaniowego&lt;/h3&gt;
+
+&lt;p&gt;Rynek mieszkaniowy jest składową rynku nieruchomości, który obejmuje transakcje tj. kupno i sprzedaż oraz najmem infrastruktury budowlanej służącej do zamieszkania. Jak każdy sektor gospodarki podatny jest na działanie podstawowych sił ekonomicznych: popytu i podaży. Przy wysokim popycie ceny mieszkań rosną, przy wysokiej podaży ceny spadają. Jednak by odpowiednio móc zastosować model popytu i podaży, należy uwzględnić pewne unikatowe cechy tego sektora.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Różnice pomiędzy nieruchomościami, a innymi dobrami&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nieruchomości są dobrem trwałym, który może stać przez dekady lub nawet stulecia, a ziemia na której stoi jest praktycznie niezniszczalna. Wskutek tego podaż składa się w większości ze stojących już budynków i w mniejszości z nowych inwestycji budowlanych. Ceny determinowane są zatem przez tempo destrukcji i renowacji obecnych nieruchomości oraz wpływu nowych przedsięwzięć.&lt;/p&gt;
+
+&lt;p&gt;Rynek nieruchomości cechuje się również heterogenicznością, ponieważ każdy element jest unikatowy pod względem lokalizacji, konstrukcji, projektu i sposobu finansowania. Wysoki koszt i długotrwały proces budowy sprawia również, że zmiany w tych zakresach przychodzą powoli. Powoduje to problemy z wyceną, zwiększa &lt;em&gt;search costs&lt;/em&gt;, tworzy asymetrię informacji oraz zmniejsza zastępowalność.&lt;/p&gt;
+
+&lt;p&gt;Kolejną unikatową cechą tego rynku są wysokie koszty transakcyjne obejmujące: search costs, koszty przeprowadzki, prowizje pośredników, opłaty prawne i podatki, opłaty rejestracyjne i inne. Łącznie koszty transakcyjne mogą wynosić w zależności od kraju od 2 do 20 procent wartości transakcji[2].&lt;/p&gt;
+
+&lt;p&gt;Nieruchomości są również immobilne, co skutkuje brakiem fizycznego rynku i koniecznością przemieszczania się ludzi w celu dokonania zakupu. Sprawia to, że lokalizacja staje się kluczowym czynnikiem przy dokonywaniu transakcji, co sugeruje potencjał efektów zewnętrznych właściwych dla danej lokalizacji.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Podaż i popyt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Głównym czynnikiem wpływającym na popyt na mieszkania jest demografia, ale istotną rolę odgrywają również dochód, cena mieszkania, koszt i dostępność kredytu, preferencje konsumentów i inwestorów oraz cena wszelkich substytutów dla mieszkań. Dochodowa elastyczność popytu dla Ameryki Północnej wynosi od 0.5 do 0.9[3], natomiast przy uwzględnieniu dochodu permanentnego się nieco zwiększa[4]. Cenową elastyczność popytu dla Ameryki Północnej szacuje się z kolei na -0.7[5] lub na -0.9[6].&lt;/p&gt;
+
+&lt;p&gt;Na podaż mieszkań wpływ koszt i dostępność ziemi, siły roboczej, nakładów tj. materiały budowlane i energia elektryczna, cena istniejących zasobów mieszkaniowych oraz technologii. Dla typowego domu jednorodzinnego na przedmieściach Ameryki Północnej przybliżone wartości procentowe kosztów wynoszą: koszty nabycia, 10%; koszty ulepszenia terenu, 11%; koszty pracy 26%; koszty materiałów, 31%; koszty finansowe, 3%; koszty administracyjne, 15%; koszty marketingu - 4%. Dla mieszkań wielorodzinnych te wartości wynoszą: koszty nabycia, 7%; koszty ulepszenia terenu, 8%; koszty pracy, 27%; koszty materiałów, 33%; koszty finansowe, 3%; koszty administracyjne, 17%; koszty marketingu 5%. Wymogi dotyczące podziału publicznego mogą zwiększyć koszty o 3% w zależności od jurysdykcji. Różnice w przepisach budowlanych odpowiadają za około 2% wahań w kosztach. Jednak koszty podziału i przepisów budowlanych zwykle zwiększają wartość rynkową budynków co najmniej o kwotę ich nakładów kosztowych.&lt;/p&gt;
+
+&lt;p&gt;Elastyczność cenowa podaży w długim okresie jest dość wysoka i szacuje się na 8.2[7], ale w krótkim okresie podaż jest bardzo nieelastyczna cenowo. Zależy ona od elastyczności substytucji i ograniczeń podaży. Istnieje znaczna substytucyjność, zarówno między ziemią a materiałami, jak i między pracą a materiałami. W lokalizacjach o wysokiej wartości deweloperzy mogą zazwyczaj budować wielokondygnacyjne budynki, aby zmniejszyć wielkość użytkowanego drogiego gruntu. Ponieważ koszty pracy wzrosły od lat 50. XX wieku, zastosowano nowe materiały i kapitałochłonne techniki w celu zmniejszenia ilości wykorzystywanej siły roboczej. Jednak ograniczenia podaży mogą znacząco wpłynąć na zastępowalność. Brak wykwalifikowanej siły roboczej oraz wymagania związków zawodowych mogą ograniczać substytucję kapitału na siłę roboczą. Dostępność gruntów może również ograniczać substytucyjność, jeśli obszar przeznaczony na budowę jest ściśle wyznaczony i ograniczony. Ograniczenia w postaci planów zagospodarowania przestrzennego również będą zmniejszać możliwość substytucji.&lt;/p&gt;
+
+&lt;h3 id="problemy-rynku-mieszkaniowego"&gt;Problemy rynku mieszkaniowego&lt;/h3&gt;
+
+&lt;p&gt;Wiele państw na świecie zmaga się obecnie z wysokimi kosztami mieszkaniowymi. W 2017 roku w USA prawie połowa najemców wydawała ponad 30 procent na czynsz [8], mieszcząc się tym samym w definicji bycia „cost-burdened” wg Department of Housing and Urban Development (HUD). Problem kosztów mieszkaniowych nie dotyka tylko osób biednych, ale dotyczy również klasy średniej, szczególnie w obszarach miejskich z silnymi rynkami pracy. A z miejscem zamieszkania wiążą się poważne konsekwencje. Badania pokazują że dzieci dorastające w społecznościach oferujących duże możliwości osiągają lepsze wyniki ekonomiczne jako dorośli [9]. W miastach i dzielnicach z silnymi rynkami pracy oraz dobrymi szkołami - dokładnie tam, gdzie jest największe zapotrzebowanie - nie buduje się wystarczająco dużo nowych mieszkań, przyczyniając się do pogorszenia dostępności [10][11]. Ponieważ mieszkania w pobliżu miejsc pracy i centrów tranzytowych są tak drogie osoby o niskich i średnich dochodach są wypychani do tańszych mieszkań na obrzeżach metropolii, wymagających spędzać więcej czasu i pieniędzy na dojazdach[12].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sprawa polska&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Polska również zmaga się z wieloma problemami na rynku nieruchomości. W 2018 roku w Polsce liczba mieszkań na 1000 mieszkańców wynosiła ledwie 376 i była jedną z najniższych w UE i całym OECD – średnia unijna wynosiła 490 [14]. W 2019 roku 43,9 proc. osób w wieku 25-34 lat mieszkało z rodzicami, przy średniej unijnej wynoszącej 28,2 procent[15]. Przyczyną tego stanu rzeczy jest m.in.: duży odsetek mieszkań własnościowych i słabo rozwinięty rynek mieszkań na wynajem, do którego przyczynia się polityka państwa promująca kupowanie mieszkań i utrudniająca wynajmującym najem mieszkań [16]. Biorąc pod uwagę wszystkie uwarunkowania po stronie popytowej i po stronie podażowej określono ostatecznie, że obecnie brakuje w Polsce około dwa miliony sto tysięcy mieszkań[17].&lt;/p&gt;
+
+&lt;p&gt;Po wykonaniu odpowiednich obliczeń okazuje się, że typowy mieszkaniec krajowych metropolii za jedno wynagrodzenie netto mógł kupić w 2016 r. następującą powierzchnię lokalu: Warszawa - 0,56 m2, Kraków - 0,59 m2, Łódź - 0,79 m2, Wrocław - 0,61 m2, Poznań - 0,68 m2, Gdańsk - 0,67 m2. Nawet w „taniej” Łodzi relacja pomiędzy poziomem płac i cenami metrażu jest daleka od 1,0 m2, możliwego do zakupu za średnią pensję. Właśnie taki poziom dostępności cenowej mieszkań uważa się za zadowalający. Po porównaniu przeciętnego wynagrodzenia netto w sektorze przedsiębiorstw i średniego czynszu za wynajem mieszkania okazuje się, że w metropoliach koszt najmu pochłania następującą część pensji: Warszawa - 38%, Kraków - 38%, Łódź - 31%, Wrocław - 42%, Poznań - 31%, Gdańsk - 36% [17]. Wspomniane wyniki wyglądają jeszcze gorzej, gdy weźmiemy pod uwagę fakt, że czynsze uwzględnione w obliczeniach stanowią tylko wynagrodzenie dla właściciela mieszkania i nie obejmują kosztów eksploatacji lokalu (m.in. rachunków za media).&lt;/p&gt;
+
+&lt;h3 id="przyczyny-problemów"&gt;Przyczyny problemów&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;NIMBY i restrykcyjne plany zagospodarowania przestrzennego (zoning)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;W USA planowanie przestrzenne i podział na strefy rozpoczął się na początku XX wieku w Nowym Jorku i Los Angeles. Następnie w 1924 roku komitet utworzony przez ówczesnego sekretarza handlu Herberta Hoovera stworzył Standard State Zoning Enabling Act (SZEA), które umożliwiało innym samorządom tworzenie podobnych planów. SZEA upoważniło gminy do tworzenia stref dzielnicowych oraz do uregulowania gęstości zaludnienia i odpowiedniego wykorzystania struktur w każdej dzielnicy. Stany powszechnie przyjęły prawa podobne do SZEA, a miasta i przedmieścia powszechnie przyjęły podział na strefy.&lt;/p&gt;
+
+&lt;p&gt;W swojej książce „&lt;em&gt;Zoning Rules&lt;/em&gt;” ekonomista William A. Fischel za przyczynę popularności tego typu planów przestrzennych obwinia powstanie i rozpowszechnienie autobusów i ciężarówek. Przed wynalezienia ciężarówki, przemysł ciężki zlokalizowany był w pobliżu śródmiejskich stacji kolejowych, bo tramwaje nie mogły przewozić dużych ilości ładunku. Między rokiem 1905 a 1920, liczba zarejestrowanych ciężarówek w Stanach Zjednoczonych podwajała się każdego roku. W rezultacie przedsiębiorstwa przemysłowe mogły łatwiej przenieść się poza centrum miasta. Ponieważ właściciele domów uważali, że przemysł ciężki dewaluuje wartość ich nieruchomości, zażądali podziału na strefy w celu wykluczenia takich przedsiębiorstw ze swoich okolic. Wkrótce potem autobusy zaczęły uzupełniać i zastępować tramwaje w podmiejskich dzielnicach. Zanim nastąpił wzrost liczby autobusów, mieszkania były zwykle zlokalizowane w pobliżu linii tramwajowych, aby wykorzystywać korzyści, jakie dawały połączenia tramwajowe potencjalnym najemcom. Pojawienie się autobusów oznaczało, że firmy tranzytowe mogły dojechać nimi wszędzie tam, gdzie byłyby wybudowane mieszkania, co z kolei oznaczało, że można było budować wielorodzinne apartamentowce w miejscach zdominowanych wcześniej przez jednorodzinne domy. Ponieważ właściciele domów postrzegali apartamentowce jako zamieszkałe przez osoby o niskich dochodach i biednych, a zatem jako niepożądane, popierali podział na strefy, aby ograniczyć ich budowę w swojej okolicy. Innymi słowy, podział na strefy nie powstał jako odgórny pomysł intelektualistów lub rządów stanowych, ale jako oddolne naciski właścicieli domów powodowane syndromem &lt;em&gt;Not In My Back Yard&lt;/em&gt; (NIMBY). Od samego początku podział na strefy ograniczał podaż mieszkań, a tym samym podnosił czynsze i ceny mieszkań[19].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nierówności społeczne&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Badania ekonomiczne sugerują, że restrykcyjne plany przestrzenne mają bardzo negatywne efekty gospodarcze i znacząco wpływają na obniżenie poziomu dobrobytu. Duże analizy danych ze Stanów Zjednoczonych oszacowały, że plany te w miastach takich jak Nowy Jork czy San Francisco obniżyły wzrost gospodarczy tego kraju o kilka procent[20], a w długim terminie nawet o 36 procent[10]. Podobne wyniki uzyskano też w Wielkiej Brytanii[21]. Takie straty przerastają wszelkie sensowne szacunki lokalnych kosztów zewnętrznych inwestycji [22]. Główne kanały przez jakie restrykcyjne planowanie miast ogranicza efektywność i wzrost gospodarczy to ograniczenie mobilności geograficznej pracy[10][23].&lt;/p&gt;
+
+&lt;p&gt;Restrykcyjne plany przestrzenne odpowiadają również za dużą część wzrostu nierówności majątkowych w XX wieku, co w odpowiedzi do książki Piketty’ego wykazał Matthew Rognlie [24][25]. Wiele badań wykazuje też ich istotny wpływ na wyższe ceny mieszkań, wynajmu i kosztów budowy [26][27][28] oraz eksurbanizację (&lt;em&gt;urban sprawl&lt;/em&gt;), co powoduje większy ruch samochodowy, korki i zanieczyszczenia środowiska [29][30].&lt;/p&gt;
+
+&lt;p&gt;Zagospodarowanie przestrzenne uniemożliwia rodzinom o niższych dochodach możliwość przeprowadzki i ogranicza dostęp do zasobów znajdujących się w bogatszych dzielnicach. Oznacza to brak dostępu do lepiej finansowanych szkół i lepszych możliwości zatrudnienia[31] Zamiast tego rodziny o niższych dochodach są skoncentrowane na tym samym obszarze. Przykładowo, po utworzeniu strefy brzegowej w celu uregulowania budowy w pobliżu wybrzeża Kalifornii, dochody gospodarstw domowych rosły szybciej na obszarach spisu ludności wewnątrz strefy niż poza nią [32]. Miasta, które wprowadziły więcej środków regulacji wzrostu w latach 1979-1988, miały wyższe dochody w 1990 roku, biorąc pod uwagę dochody z 1980 roku [33] Prowadzi to do cykli ubóstwa, które widać po tym, jak ubóstwo stało się bardziej skoncentrowane. Między 2000 a 2013 rokiem odsetek biednych mieszkających w dzielnicach o wysokim ubóstwie wzrósł z 10,3% do 14,4%, co oznacza skok z 7,2 miliona Amerykanów do 13,8 miliona [34].&lt;/p&gt;
+
+&lt;p&gt;Obecnie w wielu miastach plany zagospodarowania przestrzennego mocno ograniczają zabudowę mieszkalną. W USA wiele miast ma większość terenu przeznaczonego na zabudowę mieszkalną zagospodarowane pod zabudowę jednorodzinną (single-family zoning) – Minneapolis (70%), Los Angeles (75%), Portland (77%), Seattle (81%), Arlington (89%), San Jose (94%) [35]. W Polsce również duża część terenów miejskich przeznaczona jest pod zabudowę jednorodzinną – &lt;strong&gt;w Warszawie z terenów przeznaczonych pod zabudowę mieszkaniową zabudowa jednorodzinna stanowi 62 proc. [36], a we Wrocławiu 63 proc. [37]&lt;/strong&gt;. Miasta i państwa z mniej restrykcyjnymi planami zagospodarowania przestrzennego doświadczają znacznie mniejszych wzrostów cen nieruchomości i wynajmu, np.: Houston (choć niestety ma kilka wyjątkowo szkodliwych regulacji jak minima parkingowe)[38][39][40].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Regulacje rynku mieszkaniowego i budowlanego&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Poza regulacjami, które zostają objęte w ramach wyżej wymienionych planów zagospodarowania przestrzennego tj.: minima parkingowe, maksymalna wysokość budynków, minimalna odległość od innego budynku, procent powierzchni zielonej na działce, minimalny rozmiar mieszkania, maksymalna liczba mieszkań w budynku, maksymalna liczba pięter itd., rynek mieszkaniowy ma nałożone jeszcze dodatkowe regulacje. Kilka z nich ma wyjątkowo szkodliwe skutki dla podaży mieszkań, a przez to ich cen i dostępności.&lt;/p&gt;
+
+&lt;p&gt;Pierwszym z nich jest kontrola czynszów (&lt;em&gt;rent control&lt;/em&gt;), który często jest wymieniany i stosowany jako rzekome rozwiązanie problemu wysokich cen wynajmu. Problem z takimi regulacjami jest taki, że tworzą one sztuczny sufit cenowy, w efekcie doprowadzając do niedoborów mieszkań na rynku przez zniechęcanie do nowych inwestycji. Istnieje powszechny konsensus wśród ekonomistów co do skutków polityki kontroli czynszów – ogranicza ona jakość i podaż mieszkań [41] [42]. W przeglądzie literatury ekonomicznej z 2009 r. obejmującym badania teoretyczne i empiryczne dotyczące wielu aspektów problemu rent control, w tym dostępności mieszkań, ich utrzymania i jakości, stawek czynszu, kosztów politycznych i administracyjnych oraz redystrybucji, zarówno dla pierwszego, jak i drugiego pokolenia Blair Jenkins odkryła, że „ekonomiści osiągnęli rzadki konsensus: kontrola czynszu stwarza o wiele więcej problemów niż rozwiązuje” [43] Z tymi stwierdzeniami zgadzają się też bardziej lewicowi ekonomiści, np. Paul Krugman [44].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Badania o rent control&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Na temat rent control przeprowadzono również masę badań, które dają nam wgląd w to w jaki sposób wpływa na rynek mieszkaniowy. Chociaż kontrola czynszu wydaje się pomagać obecnym najemcom na krótką metę, w dłuższej perspektywie zmniejsza dostępność mieszkań, napędza gentryfikację i wywołuje negatywne skutki uboczne w okolicy [45]. Polityka taka może prowadzić do m.in.:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dysalokacji mieszkań - gdy najemca zamieszka w mieszkaniu objętym rent control, może nie zdecydować się na przeprowadzkę w przyszłości, nawet jeśli jego sytuacja mieszkaniowa wymaga zmiany [46][47][48]. W konsekwencji może to prowadzić do tego, że single lub dwójka partnerów mogą zajmować większe mieszkania, których nie potrzebują, a rodziny z dziećmi zajmować mieszkania znacznie mniejsze, pomimo potrzeby większej przestrzeni.&lt;/li&gt;
+  &lt;li&gt;konsumpcja nadmiernej ilości mieszkań [49][50]&lt;/li&gt;
+  &lt;li&gt;pogorszenie jakości mieszkań, bo właścicielom nie opłaca się w nie inwestować i odpowiednio o nie dbać [51][52]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;W 1994 roku mieszkańcy San Francisco przegłosowali ustawę, która rozszerzyła obowiązujące w mieście przepisy dotyczące kontroli czynszów o małe wielorodzinne mieszkania z czterema lub mniej lokalami, zbudowane przed 1980 rokiem (co stanowiło około 30% mieszkań na wynajem w tym czasie) . Badanie z 2019 r. wykazało, że rent control w San Francisco ograniczył w krótkim okresie przenoszenie najemców z lokali z regulowanym czynszem, ale spowodowały, że właściciele usunęli z rynku wynajmu 30% lokali objętych kontrolą czynszu (poprzez konwersję na mieszkania o innym przeznaczeniu lub ich sprzedaży), co doprowadziło do 15 procentowego spadku całkowitej liczby wynajmowanych mieszkań w mieście i 7% wzrostu czynszów w całym mieście[53].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Badania o ochronie lokatorów&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Inną regulacją, którą objęty jest rynek nieruchomości, a ma wpływ na zwiększenie cen wynajmu oraz rozwoju całego rynku mieszkań na wynajem to nadmierna ochrona lokatorów. Trudność eksmitowania niepłacących lub niszczących mieszkanie lokatorów, podnosi ryzyko właścicieli, co przekłada się na wyższe ceny najmu lub wyższe depozyty [54][55][56]. W rezultacie, w najbardziej atrakcyjnych miejscach, czyli tych o najwyższej produktywności pracy i w konsekwencji najwyższych zarobkach, czynsze wynajmowanych mieszkań są często wyższe niż raty kredytów hipotecznych [57]. Dzieje się tak dlatego, że czynsze muszą być wystarczająco wysokie, żeby kompensować ryzyko właścicieli mieszkań. W rezultacie powstaje silny bodziec w kierunku zakupu mieszkań zamiast wynajmu[54].&lt;/p&gt;
+
+&lt;p&gt;Regulacje eksmisji lokatorów w Polsce są najbardziej restrykcyjne wśród wszystkich państw OECD dla których dostępne są dane. W Polsce zabroniona jest eksmisja, bez przyznania lokalu socjalnego, kobiet w ciąży, dzieci, niepełnosprawnych i ubezwłasnowolnionych, obłożnie chorych, emerytów i rencistów spełniających kryteria pomocy społecznej, osób o statusie bezrobotnego i innych osób określonych przez radę gminy. Polska zakazuje eksmisji w określonej porze roku jako jeden z 5 krajów na 24 kraje, eksmisji gospodarstw domowych z dziećmi jako jeden z 4 na 24 kraje, i eksmisji gospodarstw z osobami niepełnosprawnymi jako jeden z 2 na 24 kraje. W Chile, Finlandii i Niemczech sądom pozostawiono możliwość zablokowania eksmisji w szczególnych okolicznościach, jednak jest to zależne od decyzji sądu, podczas gdy w Polsce zakaz eksmisji całych grup osób nie pozostawia sądom pola do interpretacji i lepszego dostosowania orzeczenia do okoliczności[16].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Szkodliwa polityka mieszkaniowa państwa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;W Polsce polityka mieszkaniowa mocno promuje zakup mieszkania ponad jego wynajem. Polska ma słabo rozwinięty rynek mieszkań na wynajem – jedynie 4,5% Polaków wynajmuje mieszkania po cenach rynkowych. Nie odbiegamy pod tym względem jednak od pozostałych państw regionu – mediana w regionie to 4,3%. W gospodarkach UE-15 niemal 5-krotnie większy odsetek osób wynajmuje mieszkania– mediana 19,8%. Ważną przyczyną tego stanu rzeczy jest brak prywatnego rynku wynajmu w Polsce i krajach naszego regionu przed 1989 rokiem. W toku transformacji duża część państwowych mieszkań była prywatyzowana, co podniosło odsetek osób posiadających swój lokal na własność, a jak dotąd polityka państwa poprzez takie programy jak „Mieszkanie dla Młodych” oraz wspomniane wyżej restrykcyjne prawo ochrony lokatorów wspierała w Polsce zakup mieszkań, podnosząc jego atrakcyjność względem wynajmu[16].&lt;/p&gt;
+
+&lt;p&gt;Bariery migracji wewnętrznych, takie jak brak rozwiniętego rynku mieszkań na wynajem, mogą pogłębiać nierówności społeczne i dawać bodźce części osób do emigracji za granicę. Polacy, podobnie jak mieszkańcy innych pokomunistycznych państw członkowskich UE i Europy Południowej, rzadko zmieniają miejsce zamieszkania. Współcześnie, kiedy produktywność pracy i w efekcie płace są silnie powiązane z miejscem zamieszkania wewnątrz kraju[10], migracje wewnętrzne są kluczowe dla równych szans obywateli. Jeżeli zarobki w Warszawie są znacznie wyższe niż w reszcie kraju, to polityka publiczna powinna działać w kierunku ułatwiania migracji do Warszawy. Jeżeli takie migracje są trudne, to rosną nierówności dochodowe[58] i wiele osób może wybrać emigrację za granicę.&lt;/p&gt;
+
+&lt;p&gt;Większy odsetek własności nieruchomości w stosunku do wynajmu jednocześnie ogranicza mobilność pracowników i utrudnia zakładanie rodziny. Osoby posiadające dom na własność, są mniej skłonne do szukania pracy poza miejscem zamieszkania. W USA w latach 1985-2011 większy odsetek domów na własność w danym regionie był skorelowany z wyższą stopą bezrobocia i mniejszą mobilnością na rynku pracy [59]. Poza tym mieszkanie trudniej jest kupić niż wynająć, szczególnie młodym osobom, co w efekcie oznacza, że nie mając dostępu do rozwiniętego rynku mieszkań na wynajem młodzi ludzie dłużej mieszkają z rodzicami, później zakładając własną rodzinę. Niektóre badania sugerują nawet, że z tego powodu kraje rozwinięte o rozwiązaniach mieszkaniowych opartych na własności zamiast wynajmie, charakteryzują się niższą dzietnością[60].&lt;/p&gt;
+
+&lt;h3 id="rozwiązania"&gt;Rozwiązania&lt;/h3&gt;
+
+&lt;p&gt;Wszystkie problemy, które wymieniłem &lt;strong&gt;nie mają jednego prostego rozwiązania&lt;/strong&gt;, ale istnieje co najmniej kilka postulatów, które wydają się móc zdecydowanie polepszyć sytuację. Należą do nich:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;deregulacja rynku budowlanego i mieszkaniowego&lt;/li&gt;
+  &lt;li&gt;realizacja planów przestrzennych, które promują zagęszczenie zaludnienia, a na pewno odejście od planów, które większość przestrzeni poświęcają pod zabudowę jednorodzinną&lt;/li&gt;
+  &lt;li&gt;podatek od nieulepszonej wartości gruntów (Land Value Tax – LVT) – propozycja, która często jest popierana przez wielu ekonomistów z różnych opcji (popierali ją choćby Stiglitz i Friedman). W przeciwieństwie do zwykłego podatku od nieruchomości, pobierany jest tylko od wartości ziemi, a nie inwestycji na niej realizowanych, co daje silny bodziec do efektywnego wykorzystywania terenów. Ten podatek nigdy na szeroką skalę nie był wprowadzony, ale z ograniczonych danych jakie mamy z miejsc, gdzie taki podatek choćby częściowo funkcjonował możemy stwierdzić, iż może przyczynić się do zwiększenia efektywności użytkowanych terenów i ograniczyć pewne negatywne zjawiska tj. urban sprawl[61] Istnieje jednak poważny problem, jakim jest odpowiednia wycena wartości gruntu nieuwzględniająca ulepszeń na niej dokonanych.&lt;/li&gt;
+  &lt;li&gt;mieszkalnictwo socjalne i komunalne (choć w mojej opinii najpierw lepiej zderegulować rynek mieszkaniowy i budowlany, a potem ewentualnie realizować takie programy)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="bibliografia"&gt;Bibliografia&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; https://en.wikipedia.org/wiki/Real_estate_economics&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; https://www.globalpropertyguide.com/investment-analysis/Housing-transaction-costs-in-the-OECD&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[3]&lt;/strong&gt; De Leeuw, Frank, and Nkanta F. Ekanem. “The Supply of Rental Housing.” The American Economic Review, vol. 61, no. 5, 1971, pp. 806–817. JSTOR, www.jstor.org/stable/1813143. Accessed 17 Apr. 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[4]&lt;/strong&gt; https://www.nber.org/books/kain75-1 (Kain, Quigley 1975)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[5]&lt;/strong&gt; Polinsky, A. Mitchell, and David T. Ellwood. “An Empirical Reconciliation of Micro and Grouped Estimates of the Demand for Housing.” The Review of Economics and Statistics, vol. 61, no. 2, 1979, pp. 199–205. JSTOR, www.jstor.org/stable/1924587. Accessed 17 Apr. 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[6]&lt;/strong&gt; Maisel, Sherman J., James B. Burnham, and John S. Austin. “The Demand for Housing: A Comment.” The Review of Economics and Statistics 53, no. 4 (1971): 410-13. Accessed April 17, 2021. doi:10.2307/1928748.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[7]&lt;/strong&gt; &lt;a href="https://www.sciencedirect.com/book/9780409829402/housing-economics"&gt;Housing Economics, George Falls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[8]&lt;/strong&gt; &lt;a href="https://www.jchs.harvard.edu/state-nations-housing-2019"&gt;The State of the Nation’s Housing 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[9]&lt;/strong&gt; Chetty R, Hendren N, Katz LF. &lt;a href="https://opportunityinsights.org/wp-content/uploads/2018/03/mto_paper.pdf"&gt;The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment&lt;/a&gt;. Am Econ Rev. 2016 Apr;106(4):855-902. doi: 10.1257/aer.20150572. PMID: 29546974.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[10]&lt;/strong&gt; Hsieh, Chang-Tai, and Enrico Moretti. 2019. “&lt;a href="https://www.aeaweb.org/articles?id=10.1257%2Fmac.20170388"&gt;Housing Constraints and Spatial Misallocation&lt;/a&gt;” American Economic Journal: Macroeconomics, 11 (2): 1-39. DOI: 10.1257/mac.20170388&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[11]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/research/is-californias-apartment-market-broken/"&gt;Is California’s Apartment Market Broken?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[12]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/blog/up-front/2019/05/08/housing-trade-offs-affordability-not-the-only-stressor-for-the-middle-class/"&gt;Housing trade-offs: Affordability not the only stressor for the middle class&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[13]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/policy2020/bigideas/to-improve-housing-affordability-we-need-better-alignment-of-zoning-taxes-and-subsidies/"&gt;To improve housing affordability, we need better alignment of zoning, taxes, and subsidies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[14]&lt;/strong&gt; &lt;a href="https://www.oecd.org/els/family/HM1-1-Housing-stock-and-construction.pdf"&gt;HM1.1 HOUSING STOCK AND CONSTRUCTION&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[15]&lt;/strong&gt; &lt;a href="https://ec.europa.eu/eurostat/en/web/products-datasets/-/ILC_LVPS08"&gt;Share of young adults aged 18-34 living with their parents by age and sex&lt;/a&gt; - EU-SILC survey&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[16]&lt;/strong&gt; &lt;a href="https://for.org.pl/pl/a/5432,analiza-11/2017-umowa-najmu-instytucjonalnego-ulatwi-polakom-wynajem-mieszkan"&gt;Analiza 11/2017: Umowa najmu instytucjonalnego ułatwi Polakom wynajem mieszkań&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[17]&lt;/strong&gt; &lt;a href="https://heritagere.pl/wp-content/uploads/2018/12/HRE-TT-RAPORT-ILE-MIESZKA%C5%83-BRAKUJE.pdf"&gt;Ile mieszkań brakuje w Polsce?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[18]&lt;/strong&gt; &lt;a href="https://en.wikipedia.org/wiki/NIMBY"&gt;NIMBY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[19]&lt;/strong&gt;  Michael Lewyn. “&lt;a href="http://works.bepress.com/lewyn/118/"&gt;The Roots of Expensive Zoning&lt;/a&gt;” Real Estate Law Journal Vol. 45 Iss. 2 (2016)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[20]&lt;/strong&gt; &lt;a href="https://doi.org/10.1016/j.jmoneco.2017.11.001"&gt;Tarnishing the golden and empire states: Land-use restrictions and the U.S. economic slowdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[21]&lt;/strong&gt;  Gerard H. Dericks &amp;amp; Hans R. A. Koster, 2018. “The billion pound drop: the blitz and agglomeration economies in London,” CEP Discussion Papers dp1542, Centre for Economic Performance, LSE.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[22]&lt;/strong&gt; Glaeser, Edward, and Joseph Gyourko. 2018. “&lt;a href="https://www.aeaweb.org/articles?id=10.1257%2Fjep.32.1.3"&gt;The Economic Implications of Housing Supply&lt;/a&gt;.” Journal of Economic Perspectives, 32 (1): 3-30. DOI: 10.1257/jep.32.1.3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[23]&lt;/strong&gt; David Schleicher, &lt;a href="https://digitalcommons.law.yale.edu/ylj/vol122/iss7/1"&gt;City Unplanning&lt;/a&gt;, 122 Yale L.J. (2013).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[24]&lt;/strong&gt; &lt;a href="https://www.economist.com/free-exchange/2015/03/25/nimbys-in-the-twenty-first-century"&gt;NIMBYs in the twenty-first century&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[25]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf"&gt;Deciphering the Fall and Rise in the Net Capital Share: Accumulation or Scarcity?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[26]&lt;/strong&gt; &lt;a href="https://obamawhitehouse.archives.gov/sites/default/files/page/files/20151120_barriers_shared_growth_land_use_regulation_and_economic_rents.pdf"&gt;Barriers to Shared Growth: The Case of Land Use Regulation and Economic Rents&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[27]&lt;/strong&gt; Glaeser, E., Gyourko, J., &amp;amp; Saks, R. (2003). Why is Manhattan So Expensive? Regulation and the Rise in House Prices. National Bureau of Economic Research. https://doi.org/10.3386/w10124&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[28]&lt;/strong&gt; Glaeser, E., &amp;amp; Gyourko, J. (2002). The Impact of Zoning on Housing Affordability. National Bureau of Economic Research. https://doi.org/10.3386/w8835&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[29]&lt;/strong&gt; Cinyabuguma, M., &amp;amp; McConnell, V. (2013). URBAN GROWTH EXTERNALITIES AND NEIGHBORHOOD INCENTIVES: ANOTHER CAUSE OF URBAN SPRAWL?*. Journal of Regional Science, 53(2), 332–348. https://doi.org/10.1111/jors.12008&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[30]&lt;/strong&gt; Jones, C., &amp;amp; Kammen, D. M. (2014). Spatial Distribution of U.S. Household Carbon Footprints Reveals Suburbanization Undermines Greenhouse Gas Benefits of Urban Population Density. Environmental Science &amp;amp; Technology, 48(2), 895–902. https://doi.org/10.1021/es4034364&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[31]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/research/housing-costs-zoning-and-access-to-high-scoring-schools/"&gt;Housing Costs, Zoning, and Access to High-Scoring Schools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[32]&lt;/strong&gt;  Kahn, Matthew E. and Vaughn, Ryan and Zasloff, Jonathan, The Housing Market Effects of Discrete Land Use Regulations: Evidence from the California Coastal Boundary Zone (February 8, 2011). Journal of Housing Economics, Vol. 19, pp. 269-279, December 2010, UCLA School of Law Research Paper No. 11-04, Available at SSRN: https://ssrn.com/abstract=1758096&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[33]&lt;/strong&gt; Levine, N. (1999). The Effects of Local Growth Controls on Regional Housing Production and Population Redistribution in California. Urban Studies, 36(12), 2047–2068. https://doi.org/10.1080/0042098992539&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[34]&lt;/strong&gt; Paul Jargowsky, &lt;a href="https://tcf.org/content/report/architecture-of-segregation/"&gt;Architecture of Segregation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[35]&lt;/strong&gt; &lt;a href="https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.html"&gt;Cities Start to Question an American Ideal: A House With a Yard on Every Lot&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[36]&lt;/strong&gt; &lt;a href="https://architektura.um.warszawa.pl/sites/default/files/files/PP_studium_polski_lekki.pdf"&gt;POLITYKA PRZESTRZENNA MIASTA STOŁECZNEGO WARSZAWY&lt;/a&gt; (2007)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[37]&lt;/strong&gt; &lt;a href="https://geoportal.wroclaw.pl/studium/"&gt;Studium Uwarunkowań i Kierunków Zagospodarowania Przestrzennego&lt;/a&gt; (Wrocław, 2018)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[38]&lt;/strong&gt; &lt;a href="https://www.marketurbanism.com/2016/06/02/houston-beautiful-yet-partial-embrace-of-market-urbanism/"&gt;Houston’s Beautiful (Yet Partial) Embrace of Market Urbanism&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[39]&lt;/strong&gt; &lt;a href="https://www.ft.com/content/023562e2-54a6-11e6-befd-2fc0c26b3c60"&gt;Why Tokyo is the land of rising home construction but not prices&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[40]&lt;/strong&gt; &lt;a href="https://urbankchoze.blogspot.com/2014/04/japanese-zoning.html?"&gt;Japanese zoning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[41]&lt;/strong&gt; &lt;a href="https://www.igmchicago.org/surveys/rent-control/"&gt;Rent Control&lt;/a&gt; (ankieta)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[42]&lt;/strong&gt;  Alston, Richard M &amp;amp; Kearl, J R &amp;amp; Vaughan, Michael B, 1992. “&lt;a href="https://www.weber.edu/wsuimages/AcademicAffairs/ProvostItems/global.pdf"&gt;Is There a Consensus among Economists in the 1990’s?,&lt;/a&gt;” American Economic Review, American Economic Association, vol. 82(2), pages 203-209, May.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[43]&lt;/strong&gt; Blair Jenkins, 2009. “&lt;a href="https://www.researchgate.net/publication/46530739_Rent_Control_Do_Economists_Agree"&gt;Rent Control: Do Economists Agree?&lt;/a&gt;,” Econ Journal Watch, Econ Journal Watch, vol. 6(1), pages 73-112, January.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[44]&lt;/strong&gt; Krugman, 2000, &lt;a href="https://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html"&gt;Reckonings; A Rent Affair&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[45]&lt;/strong&gt; &lt;a href="https://www.brookings.edu/research/what-does-economic-evidence-tell-us-about-the-effects-of-rent-control/"&gt;What does economic evidence tell us about the effects of rent control?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[46]&lt;/strong&gt; Suen, Wing. “Rationing and Rent Dissipation in the Presence of Heterogeneous Individuals.” Journal of Political Economy, vol. 97, no. 6, 1989, pp. 1384–1394. JSTOR, www.jstor.org/stable/1833244. Accessed 17 Apr. 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[47]&lt;/strong&gt; Glaeser, E. L., &amp;amp; Luttmer, E. F. P. (2003). &lt;a href="https://doi.org/10.1257/000282803769206188"&gt;The Misallocation of Housing Under Rent Control&lt;/a&gt;. American Economic Review, 93(4), 1027–1046.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[48]&lt;/strong&gt;  Bulow, Jeremy I. and Klemperer, Paul, Regulated Prices, Rent-Seeking, and Consumer Surplus (February 27, 2012). Journal of Political Economy, 2012, Available at SSRN: https://ssrn.com/abstract=2011903&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[49]&lt;/strong&gt; Olsen, E. O. (1972). &lt;a href="https://doi.org/10.1086/259959"&gt;An Econometric Analysis of Rent Control&lt;/a&gt;. Journal of Political Economy, 80(6), 1081–1100.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[50]&lt;/strong&gt; Gyourko, J., &amp;amp; Linneman, P. (1989). &lt;a href="https://doi.org/10.1016/0094-1190(89)90027-2"&gt;Equity and efficiency aspects of rent control: An empirical study of New York City&lt;/a&gt;. Journal of Urban Economics, 26(1), 54–74.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[51]&lt;/strong&gt; Anthony Downs, &lt;a href="https://books.google.pl/books/about/Residential_Rent_Controls.html"&gt;Residential Rent Controls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[52]&lt;/strong&gt; Sims, D. P. (2007). Out of control: What can we learn from the end of Massachusetts rent control? Journal of Urban Economics, 61(1), 129–151. https://doi.org/10.1016/j.jue.2006.06.004&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[53]&lt;/strong&gt;  Diamond, R., McQuade, T., &amp;amp; Qian, F. (2019). &lt;a href="https://doi.org/10.1257/aer.20181289"&gt;The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco&lt;/a&gt;. American Economic Review, 109(9), 3365–3394.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[54]&lt;/strong&gt;  Augustyniak, Hanna and Laszek, Jacek and Olszewski, Krzysztof and Waszczuk, Joanna, &lt;a href="http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-cd6b0d38-eca9-4225-90f3-73136cc6af7c"&gt;To Rent or to Buy – Analysis of Housing Tenure Choice Determined by Housing Policy&lt;/a&gt; (December 2, 2013). National Bank of Poland Working Paper No. 164&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[55]&lt;/strong&gt; NBP, &lt;a href="https://www.nbp.pl/publikacje/rynek_nieruchomosci/raport_2012.pdf"&gt;Raport o sytuacji na rynku nieruchomości mieszkaniowych i komercyjnych w Polsce w 2012 r.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[56]&lt;/strong&gt;  Gromnicka, Ewa and Zysk, Przemyslaw, &lt;a href="http://dx.doi.org/10.2139/ssrn.910223"&gt;Polish Tenancy Law and the Principles of European Contract Law&lt;/a&gt; (December 2003).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[57]&lt;/strong&gt; NBP, &lt;a href="https://www.nbp.pl/publikacje/rynek_nieruchomosci/raport_2014.pdf"&gt;Raport o sytuacji na rynku nieruchomości mieszkaniowych i komercyjnych w Polsce w 2014 r.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[58]&lt;/strong&gt; Ganong, P., &amp;amp; Shoag, D. (2017). &lt;a href="https://doi.org/10.3386/w23609"&gt;Why Has Regional Income Convergence in the U.S. Declined&lt;/a&gt;? National Bureau of Economic Research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[59]&lt;/strong&gt; Blanchflower, D. G., &amp;amp; Oswald, A. J. (2013). &lt;a href="https://doi.org/10.2139/ssrn.2261951"&gt;Does High Home-Ownership Impair the Labor Market&lt;/a&gt;? SSRN Electronic Journal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[60]&lt;/strong&gt; Mulder, C. H., &amp;amp; Billari, F. C. (2010). &lt;a href="https://doi.org/10.1080/02673031003711469"&gt;Homeownership Regimes and Low Fertility&lt;/a&gt;. Housing Studies, 25(4), 527–541.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[61]&lt;/strong&gt; Banzhaf, H. S., &amp;amp; Lavery, N. (2010). &lt;a href="https://doi.org/10.1016/j.jue.2009.08.005"&gt;Can the land tax help curb urban sprawl? Evidence from growth patterns in Pennsylvania&lt;/a&gt;. Journal of Urban Economics, 67(2), 169–179.&lt;/p&gt;</content>
+    <author>
+      <name/>
+    </author>
+    <category term="cudze"/>
+    <category term="ekonomia"/>
+    <summary type="html">Cześć, mój znajomy, Neoliberalny Lewak (zachęcam do polajkowania strony), napisał kiedyś tekst o cenach mieszkań. Ostatnio sporo było dyskusji o rynku mieszkaniowym i jego problemach, przyczynach tych problemów i propozycjach ich rozwiązania. Jako, że większość „argumentów” używanych w tych dyskusjach to durne ideologiczne slogany i nudne już jebanie po landlordach, więc w celu podniesienia poziomu postanowiłem dorzucić coś od siebie. TLDR: Wysokie ceny mieszkań są obecnie problemem w wielu państwach i miastach świata. Spowodowane są przez wiele różnych czynników, w których prym wiodą: rygorystyczne plany zagospodarowania przestrzennego, które ograniczają wysoką zabudowę wielorodzinną i działają na korzyść obecnych mieszkańców kosztem ludzi, którzy chcieliby się do miasta przeprowadzić, regulacje rynku mieszkaniowego tj. rent control lub rygorystyczne prawo ochrony lokatorów oraz polityka państwa promująca zakup mieszkania ponad jego wynajem. Ponadto taki rodzaj polityki niesie ze sobą daleko idące konsekwencje ponad wysokie ceny mieszkań i wynajmu tj. bardzo duży wzrost nierówności, znaczące ograniczenie wzrostu gospodarczego i mobilności społecznej, urban sprawl i poważne koszty środowiskowe. Rozwiązaniami na ten problem mogą być: deregulacja rynku mieszkaniowego i budowlanego, realizacja planów przestrzennych promujących gęstą zabudowę, podatek od nieulepszonej wartości gruntu oraz mieszkalnictwo socjalne oraz komunalne.</summary>
+  </entry>
   <entry>
     <title type="html">Czy naukowcy nie umieją statystyki?</title>
     <link href="https://ginden.github.io//blog/czy-naukowcy-nie-umieja-nauki/" rel="alternate" type="text/html" title="Czy naukowcy nie umieją statystyki?"/>
@@ -914,152 +1151,5 @@ A, publikuje też artykuły naukowe w swojej dziedzinie.&lt;/p&gt;
     <category term="pious fraud"/>
     <category term="metodologia"/>
     <summary type="html">Jak wiedzą niektórzy, w dyskusjach o Całunie Turyńskim pojawia się hasło, że naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów. Czasem tą liczbą jest 200 miliardów. Dla czytelnika mającego choć śladowe pojęcie o metodach jakich używa historia, absurdalny jest pomysł liczenia prawdopodobieństwa przeszłości, nie jest jasne jak miałoby się to odbywać. Zawsze więc uśmiechałem się z politowaniem. I to był błąd, bo przegapiłem jedno z najlepszych źródeł lol contentu, doskonały przykład jak nie należy robić nauki. Jest to praca naukowa Results of a probabilistic model applied to the research carried out on the Turin Shroud, autorstwa Giulio Fantiego. Giulio Fanti to znany polimat, którego oddaniu wierze katolickiej dorównuje tylko jego wszechstronna wiedza. W ramach swoich badań nad CT, mimo wykształcenia w zakresie inżynierii przemysłowej, publikuje także artykuły z zakresu optyki, historii tkanin, fizyki wysokich energii, stężenia pośmiertnego, medycyny sądowej, procesów stochastycznych, trzęsień ziemi, udziela wywiadów, pisze książki.</summary>
-  </entry>
-  <entry>
-    <title type="html">Rośliny i grzyby psychoaktywne po polsku</title>
-    <link href="https://ginden.github.io//blog/polskie-gatunki-psychoaktywne/" rel="alternate" type="text/html" title="Rośliny i grzyby psychoaktywne po polsku"/>
-    <published>2018-09-11T17:19:41+02:00</published>
-    <updated>2018-09-11T17:19:41+02:00</updated>
-    <id>https://ginden.github.io//blog/polskie-gatunki-psychoaktywne</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/polskie-gatunki-psychoaktywne/">&lt;p&gt;Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.
-&lt;!--more--&gt;
-Na liście pominąłem &lt;em&gt;inhibitory MAO&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id="szybki-słownik"&gt;Szybki słownik&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;DMT&lt;/strong&gt; - dimetylotryptamina, psychodelik.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;5-MeO-DMT&lt;/strong&gt; - 5-Metoksy-N,N-dimetylotryptamina, psychodelik.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bufetonina&lt;/strong&gt; - 5-hydroksy-dimetylotryptamina, psychodelik.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Psylocybina&lt;/strong&gt; - w organizmie przekształca się w psylocynę.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Psylocyna&lt;/strong&gt; - psychodelik, główny składnik psychoaktywny grzybów psylocybinowych.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;THC&lt;/strong&gt; - główna substancja psychoaktywna marihuany.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tryptaminy&lt;/strong&gt; - organiczny związek, którego modyfikacje służą jako wiele leków i substancji psychoaktywnych. Często nazwą “tryptamin” określa się wszystkie psychoaktywne pochodne tryptaminy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inhibitory MAO&lt;/strong&gt; - substancje hamujące działanie enzymu monoaminoksydazy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tolerancja fizyczna&lt;/strong&gt; - przyjmowanie substancji niedługo po poprzednim przyjęciu wymaga zwiększenia dawki.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="salamandra-plamista"&gt;Salamandra plamista&lt;/h2&gt;
-
-&lt;p&gt;W niektórych źródłach można znaleźć informacje jakoby wydzielina gruczołów przyusznych salamandry plamistej była psychoaktywna. To nieprawda, to &lt;strong&gt;śmiertelna trucizna&lt;/strong&gt;. Opowieści o rzekomych jej właściwościach psychoaktywnych to zmyślenia jednego człowieka, Marjana Ogorevca.&lt;/p&gt;
-
-&lt;p&gt;Salamandra plamista znajduje się w Polsce pod ochroną.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Żródło&lt;/strong&gt;:  Kozorog, M. (2003). “Salamander Brandy: ‘A Psychedelic Drink’ between Media Myth and Practice of Home Alcohol Distillation in Slovenia”. Anthropology of East Europe Review. 21 (1): 63–71.&lt;/p&gt;
-
-&lt;h2 id="konopie"&gt;Konopie&lt;/h2&gt;
-
-&lt;p&gt;W Polsce naturalnie występują liczne gatunki/podgatunki/odmiany konopii. W zasadzie wszystkie jednak charakteryzują się bardzo niską zawartością THC, przez co posiadają niski potencjał jako używka.&lt;/p&gt;
-
-&lt;h1 id="rośliny-zawierające-tryptaminy-w-tym-dmt-i-pochodne"&gt;Rośliny zawierające tryptaminy, w tym DMT i pochodne&lt;/h1&gt;
-
-&lt;h2 id="mozga-trzcinowata"&gt;Mozga trzcinowata&lt;/h2&gt;
-
-&lt;p&gt;Ta bylina z rodziny wierzchlinowatych jest jednym z nielicznych psychoaktywnych gatunków w Polsce i chyba jedynym zawierającym pochodne dimetylotryptaminy w Polsce, możliwe do ekstrakcji. Efekty są silnie psychodeliczne, odpowiada za nie ta sama substancja co za wywar ayahusca.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: legalna ogólnie, uprawiana, ekstrakcja DMT nielegalna.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: psychodelik.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: OK.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: ekstrakcja substancji psychoaktywnych z rośliny wymaga podstawowych zdolności chemicznych. DMT nie jest aktywne przy spożyciu, jeśli nie jest podane wraz z inhibitorem MAO.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: niezarejestrowana. Gatunek łatwy do pomylenia z trującymi mozgami, zawierającymi graminę.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zdjęcia&lt;/strong&gt;: &lt;a href="https://atlas.roslin.pl/plant/8451"&gt;Wirtualny atlas roślin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: mały. Wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Źródło&lt;/strong&gt;: Smith, T.A. 1977. Review: Tryptamine and Related Compounds in Plants. Phytochemistry 16 171-175. Za: &lt;a href="https://web.archive.org/web/19970706115948/http://www.deoxy.org/trypfaq.htm#67"&gt;deoxy.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id="tatarak-zwyczajny"&gt;Tatarak zwyczajny&lt;/h1&gt;
-
-&lt;p&gt;Kłącza tataraku zawierają nietypową substancję psychoaktywną, azaron. Jest odrobinę rakotwórcza, a mechanizm działania psychoaktywnego nie jest znany. Opisywane efekty prawie zawsze uwzględniają silne wymioty, ale spektrum efektów jest bardzo szerokie i zależne od osoby - od “docenienia piękna natury”, “podwyższonej czujności”, przez “ostrą psychozę” lub efekty “podobne do psylocybiny”.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: legalny.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: niejasna - efekty opisywane nie są spójne.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: niewielki - duża wariancja osobnicza, silne mdłości.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: odmiany pochodzące z Azji rzekomo są zbyt gorzkie by je spożywać.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: rakotwórczy, spożycie grozi odwodnieniem i zaburzeniami elektrolitowymi na skutek wymiotowania.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zdjęcia&lt;/strong&gt;: &lt;a href="https://atlas.roslin.pl/plant/6216"&gt;Wirtualny atlas roślin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: nieznany, ale nie opisano w literaturze osób uzależnionych.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id="rośliny-zawierające-tujon"&gt;Rośliny zawierające tujon&lt;/h1&gt;
-
-&lt;p&gt;Tujon to monoterpen będący antagonistą receptorów GABA&lt;sub&gt;A&lt;/sub&gt; (niestety, literatura nie podaje których z wielu jego wariantów) i antagonistą receptorów serotoniny 5-HT3. Opisywane efekty spożycia w alkoholu obejmują poczucie dziwności rzeczywistości, spożycie samego piołunu (najpopularniejszego źródła tujonu) sprawia że “wszystko wydaje się surrealne”, “rzeczy dziwnie pachną”, pojawia się “refleksyjny nastrój”, a aktywność fizyczna sprawia większą przyjemność.&lt;/p&gt;
-
-&lt;p&gt;Rośliny (wybór popularnych):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tuje (kto by się spodziewał)&lt;/li&gt;
-  &lt;li&gt;Szałwia lekarska&lt;/li&gt;
-  &lt;li&gt;Piołun&lt;/li&gt;
-  &lt;li&gt;Jałowce&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Wrotycz&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: legalny na własny użytek, ograniczenia w przypadku produkcji alkoholi na sprzedaż.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: niejasna.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: trudny do określenia - w przeszłości absynt był bardzo popularny (aż do momentu zakazu produkcji; obecnie zawartość tujonu w absyncie podlega kontroli), jednak obecnie jego użycie w celach psychoaktywnych jest znikome.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: ekstrakcja tujonu z roślin zwykle jest trywialna.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: neurotoksyczny, długotrwałe używanie ma opisane trwałe efekty neurologiczne.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: nieznany.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id="alkaloidy-tropanowe"&gt;Alkaloidy tropanowe&lt;/h1&gt;
-
-&lt;p&gt;Część roślin z rodziny psiankowatych zawiera alkaloidy tropanowe. To antagonisty receptorów muskarynowych.  To między innymi:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Bieluń (&lt;a href="https://atlas.roslin.pl/plant/6834"&gt;wirtualny atlas roślin&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mandragora&lt;/li&gt;
-  &lt;li&gt;Pokrzyk wilcza jagoda (&lt;a href="https://atlas.roslin.pl/plant/6440"&gt;wirtualny atlas roślin&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Opisywane efekty spożycia, oprócz szerokiego spektrum nieprzyjemnych objawów fizycznych, w tym sercowych, zawierają pełne halucynacje, przeżywanie wspomnień raz po raz, utratę pamięci, świadomy sen.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: legalny na własny użytek, ograniczenia w przypadku sprzedaży.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: halucynogen (deliriant).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: niski. Generowane wizje są zwykle nieprzyjemne i nie słyszałem o nikim, kto chciałby powtarzać doświadczenie wielokrotnie.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: &lt;strong&gt;śmiertelnie niebezpieczne&lt;/strong&gt;. Przedawkowanie może skończyć się nieprzyjemną śmiercią, a stosunek dawki psychoaktywnej do śmiertelnej jest bardzo niski.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: większość z tych roślin jest bardzo łatwa w spożyciu.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: znikomy.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id="łysiczka-lancetowata"&gt;Łysiczka lancetowata&lt;/h1&gt;
-
-&lt;p&gt;Spośród kilkuset gatunków grzybów zawierających psylocybinę, w Polsce łatwo spotkać jedynie łysiczkę lancetowatą. Mimo że występują takie grzyby jak &lt;em&gt;Pholiotina cyanopus&lt;/em&gt;, &lt;em&gt;Pholiotina cyanopus&lt;/em&gt;, &lt;em&gt;Pholiotina cyanopus&lt;/em&gt;, &lt;em&gt;strzępiak czerwonawy&lt;/em&gt;, &lt;em&gt;drobnołuszczak zielonawoszary&lt;/em&gt;, są one albo niezwykle rzadkie albo bardzo łatwe do pomylenia z gatunkami trującymi, w tym śmiertelnie.&lt;/p&gt;
-
-&lt;p&gt;Opisy przeżyć po spożyciu grzybów są dość podobne do opisów innych serotonergicznych psychodelików (ta grupa zawiera m. in. LSD) - spożywający obserwują zaburzenia percepcji wzrokowej (“ściany falują”, “wzory na panelach wirują”, “na ścianie widać kolorowe wzory”), silne emocje, “refleksyjny nastrój”, poczucie że świat jest piękny (lub obrzydliwy w przypadku obniżonego nastroju), głębokie zanurzenie w muzykę, wrażenie że przedmioty są wyjątkowo małe lub wyjątkowo duże. Niektórzy ludzie raportują słyszenie głosów.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: raczej nielegalne (formalnie posiadanie grzybów jest legalne, ale nielegalne posiadanie zawartej w nich substancji). Kilka osób dostało wyroki za handel.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: psychodelik.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: bardzo wysoki. Doznania są zwykle przyjemne, rzadko występują poważne efekty uboczne.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: znikoma. Przypadki ciężkich powikłań po spożyciu grzybów psylocybinowych są ekstremalnie rzadkie.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: spożycie grzybów jest łatwe, znalezienie ich bywa trudne dla początkujących grzybiarzy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: mały. Występuje fizyczna tolerancja, wiele osób odczuwa niechęć do powtórzenia doświadczenia przez wiele tygodni po spożyciu.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id="muchomor-czerwony"&gt;Muchomor czerwony&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Amanita muscaria&lt;/em&gt; to jeden z najpopularniejszych grzybów w Polsce. Jest opisywany jako trujący, słusznie - ze względu na zawartość zabójczego dla mózgu kwasu ibotenowego zjedzenie kilkunastu kapeluszy może skończyć się odpoczynkiem na łonie Abrahama.&lt;/p&gt;
-
-&lt;p&gt;Przed spożyciem należy dokonać dekarboksylacji kwasu ibotenowego do pożądanego halucynogennego muscymolu (też jest trujący, ale w znacznie mniejszym stopniu). Najpopularniejszą metodą jest suszenie kapeluszy na słońcu i długie pieczenie.&lt;/p&gt;
-
-&lt;p&gt;Zażywający muchomora, jeśli nie wymiotują (efekt niepełnej dekarboksylacji kwasu ibotenowego), zwykle początkowo zasypiają, by obudzić się po godzine, dwóch. Sen jest często opisywany jako dziwny, wyjątkowo żywy i barwny. Po przebudzeniu spożywający doświadczają zawrotów głowy, euforii, miłego rozleniwienia, czasem lekkich zaburzeń widzenia (falujące elementy obrazu). Duże dawki powodują stany dysocjacyjne, sny na jawie, zaburzenia pamięci krótkotrwałej, pełne halucynacje.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Stan prawny&lt;/strong&gt;: legalne&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kategoria&lt;/strong&gt;: halucynogen, dysocjant.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał używkowy&lt;/strong&gt;: trudno powiedzieć.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toksyczność&lt;/strong&gt;: kwas iboteinowy jest silnie neurotoksyczny. Muscymol jest neurotoksyczny w znacznie mniejszym stopniu.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Praktyczność&lt;/strong&gt;: łatwo zebrać i ususzyć kapelusze. Konsumpcja bywa utrudniona, bo są opisywane jako “obślizgłe”.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Potencjał uzależniający&lt;/strong&gt;: nieznany, ale nie opisano w literaturze osób uzależnionych.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <author>
-      <name/>
-    </author>
-    <category term="biologia"/>
-    <category term="narkotyki"/>
-    <summary type="html">Nie jest mi znana żadna lista psychoaktywnych gatunków w Polsce, więc postanowiłem ją dla was przygotować. Lista zawiera tylko gatunki naturalnie występujące w Polsce, lub zdziczałe.</summary>
   </entry>
 </feed>
