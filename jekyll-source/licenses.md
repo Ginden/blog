@@ -12,3 +12,4 @@ Strona wykorzystuje następujące pliki:
 
 * [jQuery](https://jquery.org/license) na licencji MIT (X11)
 * Favicon to zmodyfikowana wersja [tej ikony](https://commons.wikimedia.org/wiki/File:Icon_Notes.svg) (CC-BY_SA 4.0)
+* Tło to pattern [Weave](http://projects.verou.me/css3patterns/#weave) stworzony przez [Jeroena Franse](https://twitter.com/jroenf).

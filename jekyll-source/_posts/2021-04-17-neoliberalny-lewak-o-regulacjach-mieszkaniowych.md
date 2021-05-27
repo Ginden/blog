@@ -5,7 +5,7 @@ date: 2021-04-17 16:18 +0200
 categories: [cudze, ekonomia]
 ---
 
-Cześć, mój znajomy, [Neoliberalny Lewak](https://facebook.com/NeoliberalnyLewak) (zachęcam do polajkowania strony), napisał kiedyś tekst o cenach mieszkań.
+Mój znajomy, [Neoliberalny Lewak](https://facebook.com/NeoliberalnyLewak) (zachęcam do polajkowania strony), napisał kiedyś tekst o cenach mieszkań.
 
 Ostatnio sporo było dyskusji o rynku mieszkaniowym i jego problemach, przyczynach tych problemów i propozycjach ich rozwiązania. Jako, że większość „argumentów” używanych w tych dyskusjach to durne ideologiczne slogany i nudne już jebanie po landlordach, więc w celu podniesienia poziomu postanowiłem dorzucić coś od siebie.
 

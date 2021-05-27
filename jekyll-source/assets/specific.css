@@ -23,7 +23,7 @@ blockquote {
 
 hr.post-separator {
     border: none;
-    height: 5px;
+    height: 0.75em;
     background: linear-gradient(to left, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.175), rgba(0, 0, 0, 0.05)) 100%;
 }
 
@@ -55,7 +55,7 @@ a.doi-link {
 }
 
 .banner-container {
-    height: 8em;
+    height: 5em;
     overflow: visible;
     position: relative;
     width: 100%;
@@ -63,14 +63,55 @@ a.doi-link {
 
 .banner {
     position: absolute;
-    top: -2em;
     width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0), #d4bff9, rgba(0, 0, 0, 0));
-    height: 12em;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5em;
     pointer-events: none;
+    background: linear-gradient(90deg, rgba(0, 0, 255, 0), rgba(0, 0, 255, 0.4), rgba(0, 0, 255, 0));
 }
 
 .referencing {
     vertical-align: super;
     font-size: .75em;
+}
+
+.read-more {
+    display: block;
+    text-align: center;
+    padding: 0.25em;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.post-in-list, .post-content {
+    line-height: 20px;
+    font-size: 12px;
+}
+
+body {
+    background:
+            linear-gradient(135deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+    linear-gradient(225deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px) 0 64px;
+    background-attachment: fixed;
+    background-color: #708090;
+    background-size: 64px 128px;
+}
+
+.wrapper {
+    background-color: rgba(253, 253, 253, 0.95);
+}
+
+.site-header {
+    border: none;
+}
+
+.site-footer {
+    border: none;
+}
+
+.page-content {
+    padding: 0;
 }

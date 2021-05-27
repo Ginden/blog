@@ -4,6 +4,8 @@ title: Ciężar nasypowy wybranych produktów kuchennych
 date: 2020-01-30 18:16 +0100
 comments: true
 ---
+
+Jeśli z okazji pandemii zastanawialiście się jak zgromadzić jak największe zapasy w najmniejszej przestrzeni, to post dla was.
 <!--more-->
 
 |  Składnik         |  Marka  | Ciężar nasypowy |  Energia nasypowa | Żródło |

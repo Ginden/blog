@@ -24,6 +24,13 @@ layout: default
         {% if site.show_excerpts %}
           {{ post.excerpt }}
         {% endif %}
+        {% assign post_total_size = post.content | strip_html | size | times: 1.0 %}
+        {% assign post_excerpt_size = post.excerpt | strip_html | size | times: 1.0 %}
+        {% assign excerpt_percent_of_size = post_excerpt_size | divided_by: post_total_size | times: 100 %}
+        <div class="read-more">
+          <a class="read-more-link" href="{{ post.url | relative_url }}">pozostało {{ 100 | minus: excerpt_percent_of_size | round: 1 }}% treści</a>
+        </div>
+
         <hr class="post-separator">
       </li>
       {% endfor %}
