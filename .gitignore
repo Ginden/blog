@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .temp
+.cache
 
 package-lock.json
 

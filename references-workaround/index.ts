@@ -1,6 +1,7 @@
 'use strict';
 
 import { JSDOM } from 'jsdom';
+import { addOpenGraphData } from './transformators/add-open-graph-data';
 import { addReferences } from './transformators/add-references';
 import { addHeaderLinks } from './transformators/add-headers';
 import {
@@ -42,6 +43,7 @@ const fileList = (<string>fileListRaw)
         await addHeaderLinks(dom);
         await addDomainClasses(dom);
         await sortLdJson(dom);
+        await addOpenGraphData(dom, path);
 
         const output = dom.serialize();
 

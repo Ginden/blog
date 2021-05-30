@@ -1,13 +1,7 @@
 import { JSDOM } from 'jsdom';
-import { createHash } from 'crypto';
+import { shortHash } from '../common';
 
 const slug = require('slug');
-
-const shortHash = (s: string) => {
-    const md5Hash = createHash('md5').update(s).digest();
-    const numbers: number[] = [...new Uint16Array(md5Hash.buffer)];
-    return numbers.map((n) => n.toString(32).padStart(3, '0')).join('');
-};
 
 export async function addHeaderLinks(dom: JSDOM): Promise<void> {
     const document = dom.window.document;
