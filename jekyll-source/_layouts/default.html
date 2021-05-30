@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "pl" }}">
+<html lang="{{ page.lang | default: site.lang | default: "pl" }}" data-url="{{ site.url }}" data-baseurl="{{ site.baseurl }}">
 
   {% include head.html %}
   <meta name="language" content="PL">
@@ -8,7 +8,6 @@
   <meta name="rating" content="General">
    <link rel="stylesheet" href="{{ "/assets/specific.css" | relative_url }}">
    <link rel="icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}">
-
 
 <body>
 
