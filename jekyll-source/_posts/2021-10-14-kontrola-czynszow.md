@@ -16,13 +16,15 @@ Dyskusja o kontroli czynszów powinna być martwa i pogrzebana od kiedy ktoś zr
 
 Jako że miasta na całym świecie borykają się z problemem dostępnych cenowo mieszkań, ludzie szukają najłatwiejszego rozwiązania jakie potrafią i znaleźć, i znajdują [kontrolę czynszów](https://en.wikipedia.org/wiki/Rent_regulation).
 
-### Dlaczego ludzie myślą, że to działa
+## Dlaczego ludzie myślą, że to działa
+
+<!--more-->
 
 > Chciwi landlordowie wspierani przez chciwych bankierów zarabiają na zwiększaniu czynszów, wymuszając wyprowadzki i zagrażając spójności społecznej i niszcząc podstawy naszej społeczności
 
 Ludzie chcą, by czynsze były niższe na obszarach o niskiej podaży i wysokim popycie na mieszkania, i ich wybraną polityką by osiągnąć ten cel jest kontrola czynszów. Jakie lepsze rozwiązanie jest niż zakazanie landlordom podwyższania czynszów?
 
-### Dlaczego to nie działa
+## Dlaczego to nie działa
 
 Ekonomistom wiadomo od dawna, że kontrola czynszów jest złym rozwiązaniem problemu dostępności mieszkań. Już od lat czterdziestych wiadomo, że kontrola czynszów przyczynia się do nadmiernej konsumpcji [1], doprowadzania budynków do ruiny [2], sprzedaży mieszkań i zwiększenia cen dla większości populacji [3].
 
@@ -34,7 +36,7 @@ Nie tylko kontrola czynszów nie radzi sobie z rozwiązaniem problemu dostępno�
 
 Badania pokazały, że kontrola czynszów zmniejszyła mobilność najemców o 20% w San Francisco [3], która jest silnie powiązana z produktywnością [4], która z kolei jest silnie powiązana z pensjami [5], co prawdopodobnie zmniejsza też ich pensje.
 
-### Dlaczego powinno się sprzeciwiać kontroli czynszów w Twoim mieście/stanie/kraju
+## Dlaczego powinno się sprzeciwiać kontroli czynszów w Twoim mieście/stanie/kraju
 
 Dlaczego? Ponieważ [kontrola czynszów jest najskuteczniejszą metodą niszczenia miast oprócz bombardowania](https://www.bloomberg.com/opinion/articles/2018-01-18/yup-rent-control-does-more-harm-than-good). [Możesz sprawdzić w quizie, które zdjęcia są z miejsc objętych kontrolą czynszów, a które ze zbombardowanych](http://upsuckercreek.blogspot.com/2017/06/quiz-bombing-or-rent-control.html).
 
@@ -46,7 +48,7 @@ Jak w przypadku wielu innych regulacji, to głównie egoistyczni ludzie budują 
 
 Kontrola czynszów jest też trudna do usunięcia, bo to ulubiony typ polityki dla polityków. Jakkolwiek krótkowzroczna jest, powoduje że obecni wyborcy zyskują na jakiś czas. Czas na tyle długi, by polityk przestał być politykiem w mieście, i jak wspomniano wcześnie, obecni najemcy osiągają krótkoterminowy zysk. Ale kiedy głosujesz za jakąś polityką, i decydujesz po której stronie się opowiedzieć, powinieneś myśleć o wszystkich, także o ludziach, którzy jeszcze się nie urodzili. Oni też mają prawo do mieszkania. Jakie Ty masz prawo, by im je zabrać?
 
-### Ale kontrola czynszów w moim mieście nie obowiązuje nowych budynków. W jaki sposób wpływa to na podaż mieszkań?
+## Ale kontrola czynszów w moim mieście nie obowiązuje nowych budynków. W jaki sposób wpływa to na podaż mieszkań?
 
 Istnieje kilka sposobów w jaki może się to stać, i zarysuję szybko dwa z nich.
 
@@ -54,13 +56,13 @@ Może to zmniejszyć podaż mieszkań przez stworzenie oczekiwań, że kontrola 
 
 Tworzy to też dla regularotów problem niemożliwy do rozwiązania. Muszą wybierać pomiędzy zapewnianiem nowego budownictwa i osiąganiem jednego z głównych celów kontroli czynszów - zatrzymaniem długoterminowych rezydentów. Jeśli kontrola czynszów dotyczy wszystkich budynków zbudowanych przed jakąś datą, to co zatrzymuje właścicieli przed rozbiórką budynku i zbudowaniem nowego? Mogą być przepisy powstrzymujące takie zachowania, ale ogranicza to podaż nowych mieszkań, która jest jedynym długoterminowym rozwiązaniem problemu dostępności mieszkań. Jeśli rząd stwierdzi, że w takim nowym budynku muszą być zapewnione mieszkania dla dotychczasowych mieszkańców, mniej mieszkań będzie budowanych ze względu na obniżenie spodziewanej stopy zwrotu inwestycji. Zagadka dla zwolenników kontroli czynszów.
 
-### Ale moje miasto nie wprowadza kontroli czynszów, tylko stabilizację czynszów. Czy to nie jest coś innego?
+## Ale moje miasto nie wprowadza kontroli czynszów, tylko stabilizację czynszów. Czy to nie jest coś innego?
 
 Stabilizacja czynszów w dłuszej perspektywie to kontrola czynszów w innej formie. Jak wilk w owczej skórze, ma wszystkie wady kontroli czynszów wspomniane wcześniej, tylko ładniej wyglądające dla przeciętnego wyborcy.
 
 Kiedy wprowadzasz stabilizację czynszów, wprowadasz po prostu odrobinę wyższy sufit cenowy niż byłby bez niej. Jest to mniej nieefektywne niż kontrola czynszów, ale spodziewana stopa zwrotu na inwestycjach w budowę mieszkań jest niższa niż byłaby bez kontroli cen, więc ilośc inwestycji też będzie mniejsza. Z drugiej strony, masz więcej inwestorów niż w mieście z pełnoskalową kontrolą czynszów, ale tylko dlatego, że sufit cenowy jest wyższy, co prowadzi do wyższej spodziewanej stopy zwrotu.
 
-### Alternatywne rozwiązania, które działają i które powinieneś wspierać
+## Alternatywne rozwiązania, które działają i które powinieneś wspierać
 
 Poparcie dla kontroli czynszów bazuje na przesłance, że chcemy więcej tanich mieszkań, by dotychczasowi mieszkańcy nie musieli się wyprowadzać w związku z wzrostami czynszów. Rozwiązaniem jest budować więcej mieszkań - im mniej ograniczamy budowę, tym więcej zostanie ich zbudowanych.
 
@@ -89,7 +91,7 @@ Takie rozwiązanie może pomóc też osiągnąć cel utrzymania dotychczasowych 
 
 Podsumowując: można regulować ile się chce, ale nie ma takiej kontroli czynszów, niezależnie jak mądrzy ludzie by nad nią myśleli, która może zanegować podaż i popyt.
 
-### Źródła
+## Źródła
 
 [1] Joseph Gyourko, Peter Linneman, [Equity and efficiency aspects of rent control: An empirical study of New York City](https://doi.org/10.1016/0094-1190(89)90027-2.)
 
