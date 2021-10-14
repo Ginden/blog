@@ -115,3 +115,12 @@ body {
 .page-content {
     padding: 0;
 }
+
+div.editor-note {
+    margin: 1em 0;
+    padding-left: 1em;
+    color: #666;
+    border-left: 5px solid #fbb;
+    display: flex;
+    flex-direction: row;
+}
