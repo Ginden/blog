@@ -5,7 +5,6 @@ _site
 .temp
 .cache
 
-package-lock.json
-
 # Symlink for http-server to test locally
 blog
+docs
