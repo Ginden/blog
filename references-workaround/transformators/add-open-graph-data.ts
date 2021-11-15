@@ -3,7 +3,7 @@ import { JSDOM } from 'jsdom';
 import { copyFile, stat } from 'fs/promises';
 import { join } from 'path';
 import { createDomElement, shortHash } from '../common';
-import {URL} from 'url';
+import { URL } from 'url';
 import slug from 'slug';
 
 const repositoryRoot = join(process.cwd(), '..');
@@ -25,7 +25,7 @@ export async function addOpenGraphData(
     const head = document.head;
 
     if (!head.querySelector('meta[property="og:image"]')) {
-      const { url, baseurl } = document.documentElement.dataset;
+        const { url, baseurl } = document.documentElement.dataset;
         const title = document.querySelector<HTMLMetaElement>(
             'meta[property="og:title"]',
         )!.content;
