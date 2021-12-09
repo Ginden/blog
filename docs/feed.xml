@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2021-12-09T01:10:03+01:00</updated>
+  <updated>2021-12-09T10:19:42+01:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
@@ -26,7 +26,7 @@
 &lt;ul&gt;
   &lt;li&gt;Najsłabiej wypadła szczepionka Sinopharmu (chińska).&lt;/li&gt;
   &lt;li&gt;Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%.&lt;/li&gt;
-  &lt;li&gt;Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA)&lt;/li&gt;
+  &lt;li&gt;Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA).&lt;/li&gt;
   &lt;li&gt;Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -41,8 +41,8 @@
 &lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Szczepienie Pfizera było w 95% skuteczne w ochronie przed zakażeniem&lt;/li&gt;
-  &lt;li&gt;Szczepienie Pfizera było w 96% skuteczne w ochronie przed śmiercią&lt;/li&gt;
+  &lt;li&gt;Szczepienie Pfizera było w 95% skuteczne w ochronie przed zakażeniem.&lt;/li&gt;
+  &lt;li&gt;Szczepienie Pfizera było w 96% skuteczne w ochronie przed śmiercią.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="-izrael-trzecia-dawka"&gt;🇮🇱 Izrael, trzecia dawka&lt;/h2&gt;
@@ -52,14 +52,14 @@
 &lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Badanie zostało przeprowadzone po upowszechnieniu się wariantu Delta&lt;/li&gt;
+  &lt;li&gt;Badanie zostało przeprowadzone po upowszechnieniu się wariantu Delta.&lt;/li&gt;
   &lt;li&gt;Mediana wieku badanych 52 lata, w porównaniu do mediany
 Izraela &lt;a href="https://www.worldometers.info/world-population/israel-population/"&gt;30 lat&lt;/a&gt;. Skuteczność szczepionki jest
 mniejsza u osób starszych, ze względu na starzenie się układu odpornościowego.&lt;/li&gt;
-  &lt;li&gt;Dość ostre kryteria wykluczenia - wykluczono osoby obłożnie chore i w domach starości&lt;/li&gt;
-  &lt;li&gt;Grupą kontrolną były osoby zaszczepione 2 razy ponad 5 miesięcy temu&lt;/li&gt;
+  &lt;li&gt;Dość ostre kryteria wykluczenia - wykluczono osoby obłożnie chore i w domach starości.&lt;/li&gt;
+  &lt;li&gt;Grupą kontrolną były osoby zaszczepione 2 razy ponad 5 miesięcy temu.&lt;/li&gt;
   &lt;li&gt;Zapobiega 93% infekcji u osób zaszczepionych 3 dawką (dla uzyskania informacji o odporności w porównaniu do osób
-niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiącach)%)&lt;/li&gt;
+niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiącach)%).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="analiza-chińsko-kanadyjska-danych-usa"&gt;Analiza chińsko-kanadyjska danych USA&lt;/h2&gt;
@@ -71,9 +71,9 @@ niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiąc
 &lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Wszystkie szczepionki miały skuteczność ponad 70% w zapobieganiu zakażeniu&lt;/li&gt;
+  &lt;li&gt;Wszystkie szczepionki miały skuteczność ponad 70% w zapobieganiu zakażeniu.&lt;/li&gt;
   &lt;li&gt;Szczepionki mRNA miały skuteczność 94% w zapobieganiu zakażeniu.&lt;/li&gt;
-  &lt;li&gt;Osoby młodsze, czarne i mężczyźni mieli wyższą skuteczność szczepienia&lt;/li&gt;
+  &lt;li&gt;Osoby młodsze, czarne i mężczyźni mieli wyższą skuteczność szczepienia.&lt;/li&gt;
   &lt;li&gt;Poważne skutki uboczne były bardzo rzadkie. Ból, zmęczenie i ból głowy były bardzo częste i ustępowały bardzo szybko.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -86,11 +86,11 @@ niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiąc
 &lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Osoby powyżej lat 70&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Skuteczność Pfizera w ochronie przed zakażeniem na poziomie 89% po drugiej dawce szczepionki Pfizera&lt;/li&gt;
-  &lt;li&gt;Skuteczność AZ w ochronie przed zakażeniem na poziomie 73% po drugiej dawce&lt;/li&gt;
+  &lt;li&gt;Badanie na grupie &lt;strong&gt;osób powyżej lat 70&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Skuteczność Pfizera w ochronie przed zakażeniem na poziomie 89% po drugiej dawce szczepionki Pfizera.&lt;/li&gt;
+  &lt;li&gt;Skuteczność AZ w ochronie przed zakażeniem na poziomie 73% po drugiej dawce.&lt;/li&gt;
   &lt;li&gt;Ochrona przed hospitalizacją 43% dla AZ i 51% dla Pfizera.&lt;/li&gt;
-  &lt;li&gt;Za mało danych by wyciągać wnioski o ochronie przed śmiercią&lt;/li&gt;
+  &lt;li&gt;Za mało danych by wyciągać wnioski o ochronie przed śmiercią.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="-usa"&gt;🇺🇸 USA&lt;/h2&gt;
@@ -100,16 +100,16 @@ niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiąc
 &lt;p&gt;&lt;a href="https://www.bmj.com/content/374/bmj.n2282"&gt;Covid-19: Unvaccinated face 11 times risk of death from delta variant, CDC data show&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Badania przeprowadzone po Delcie&lt;/li&gt;
-  &lt;li&gt;Badania przeprowadzone na grupie weteranów wojennych
+  &lt;li&gt;Badania przeprowadzone po Delcie.&lt;/li&gt;
+  &lt;li&gt;Badania przeprowadzone na grupie weteranów wojennych.
     &lt;ul&gt;
-      &lt;li&gt;Średnia wieku weteranów wojennych w USA to 58 lat, w porównaniu do 38 lat ogólnej populacji&lt;/li&gt;
-      &lt;li&gt;Około 90% weteranów to mężczyźni&lt;/li&gt;
+      &lt;li&gt;Średnia wieku weteranów wojennych w USA to 58 lat, w porównaniu do 38 lat ogólnej populacji.&lt;/li&gt;
+      &lt;li&gt;Około 90% weteranów to mężczyźni.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Szczepienia były w 89% skuteczne w ochronie przed hospitalizacją u osób poniżej 75 roku życia&lt;/li&gt;
-  &lt;li&gt;Szczepienia były w 76% skuteczne w ochronie przed hospitalizacją u osób powyżej 75 roku życia&lt;/li&gt;
-  &lt;li&gt;Moderna była skuteczna w 91%, Pfizer w 83%&lt;/li&gt;
+  &lt;li&gt;Szczepienia były w 89% skuteczne w ochronie przed hospitalizacją u osób poniżej 75 roku życia.&lt;/li&gt;
+  &lt;li&gt;Szczepienia były w 76% skuteczne w ochronie przed hospitalizacją u osób powyżej 75 roku życia.&lt;/li&gt;
+  &lt;li&gt;Moderna była skuteczna w 91%, Pfizer w 83%.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="-niemcy"&gt;🇩🇪 Niemcy&lt;/h2&gt;
@@ -121,10 +121,10 @@ niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiąc
 &lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;75% skuteczność szczepień w ochronie przed zakażeniem Deltą&lt;/li&gt;
-  &lt;li&gt;90% skuteczność w ochronie przed hospitalizacją&lt;/li&gt;
+  &lt;li&gt;75% skuteczności szczepień w ochronie przed zakażeniem Deltą.&lt;/li&gt;
+  &lt;li&gt;90% skuteczności w ochronie przed hospitalizacją.&lt;/li&gt;
   &lt;li&gt;Zmniejszona skuteczność w ochronie przed lekkim przebiegiem COVID-19 względem wariantu Alfa.&lt;/li&gt;
-  &lt;li&gt;Zachowana skutecznosć w ochronie przed ciężkim przebiegiem COVID-19&lt;/li&gt;
+  &lt;li&gt;Zachowana skutecznosć w ochronie przed ciężkim przebiegiem COVID-19.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id="-niderlandy"&gt;🇳🇱 Niderlandy&lt;/h2&gt;
@@ -134,14 +134,14 @@ niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiąc
 &lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34355689/"&gt;Vaccine effectiveness against SARS-CoV-2 transmission and infections among household and other close contacts of confirmed cases, the Netherlands, February to May 2021&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;71% skutecznosć w ochronie przed zakażeniem w przypadku osób mieszkających w tym samym domu&lt;/li&gt;
+  &lt;li&gt;71% skuteczności w ochronie przed zakażeniem w przypadku osób mieszkających w tym samym domu.&lt;/li&gt;
 &lt;/ul&gt;</content>
     <author>
       <name/>
     </author>
     <category term="medycyna"/>
     <category term="covid-19"/>
-    <summary type="html">Zostały wybrane badania, które nie zostały sfinansowane przez producentów szczepionek. 🇭🇺 Węgry Finansowanie: instytucje państwowe Węgier. Nationwide effectiveness of five SARS-CoV-2 vaccines in Hungary - The HUN-VE study Najważniejsze wnioski: Najsłabiej wypadła szczepionka Sinopharmu (chińska). Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%. Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA) Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.</summary>
+    <summary type="html">Zostały wybrane badania, które nie zostały sfinansowane przez producentów szczepionek. 🇭🇺 Węgry Finansowanie: instytucje państwowe Węgier. Nationwide effectiveness of five SARS-CoV-2 vaccines in Hungary - The HUN-VE study Najważniejsze wnioski: Najsłabiej wypadła szczepionka Sinopharmu (chińska). Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%. Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA). Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.</summary>
   </entry>
   <entry>
     <title type="html">Kontrola czynszów, dlaczego ludzie myślą że działa, dlaczego nie działa…</title>

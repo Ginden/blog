@@ -18,7 +18,7 @@ Najważniejsze wnioski:
 
 * Najsłabiej wypadła szczepionka Sinopharmu (chińska).
 * Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%.
-* Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA)
+* Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA).
 * Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.
 
 <!--more-->
@@ -31,8 +31,8 @@ Finansowanie: instytucje państwowe Izraela.
 
 Najważniejsze wnioski:
 
-* Szczepienie Pfizera było w 95% skuteczne w ochronie przed zakażeniem
-* Szczepienie Pfizera było w 96% skuteczne w ochronie przed śmiercią
+* Szczepienie Pfizera było w 95% skuteczne w ochronie przed zakażeniem.
+* Szczepienie Pfizera było w 96% skuteczne w ochronie przed śmiercią.
 
 ## 🇮🇱 Izrael, trzecia dawka
 
@@ -40,14 +40,14 @@ Najważniejsze wnioski:
 
 Najważniejsze wnioski:
 
-* Badanie zostało przeprowadzone po upowszechnieniu się wariantu Delta
+* Badanie zostało przeprowadzone po upowszechnieniu się wariantu Delta.
 * Mediana wieku badanych 52 lata, w porównaniu do mediany
   Izraela [30 lat](https://www.worldometers.info/world-population/israel-population/). Skuteczność szczepionki jest
   mniejsza u osób starszych, ze względu na starzenie się układu odpornościowego.
-* Dość ostre kryteria wykluczenia - wykluczono osoby obłożnie chore i w domach starości
-* Grupą kontrolną były osoby zaszczepione 2 razy ponad 5 miesięcy temu
+* Dość ostre kryteria wykluczenia - wykluczono osoby obłożnie chore i w domach starości.
+* Grupą kontrolną były osoby zaszczepione 2 razy ponad 5 miesięcy temu.
 * Zapobiega 93% infekcji u osób zaszczepionych 3 dawką (dla uzyskania informacji o odporności w porównaniu do osób
-  niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiącach)%)
+  niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiącach)%).
 
 ## Analiza chińsko-kanadyjska danych USA
 
@@ -57,9 +57,9 @@ Finansowanie: The authors declare no competing interests.
 
 Najważniejsze wnioski:
 
-* Wszystkie szczepionki miały skuteczność ponad 70% w zapobieganiu zakażeniu
+* Wszystkie szczepionki miały skuteczność ponad 70% w zapobieganiu zakażeniu.
 * Szczepionki mRNA miały skuteczność 94% w zapobieganiu zakażeniu.
-* Osoby młodsze, czarne i mężczyźni mieli wyższą skuteczność szczepienia
+* Osoby młodsze, czarne i mężczyźni mieli wyższą skuteczność szczepienia.
 * Poważne skutki uboczne były bardzo rzadkie. Ból, zmęczenie i ból głowy były bardzo częste i ustępowały bardzo szybko.
 
 ## 🇬🇧 Wielka Brytania
@@ -70,11 +70,11 @@ Finansowanie: instytucje publiczne Wielkiej Brytanii
 
 Najważniejsze wnioski:
 
-* **Osoby powyżej lat 70**
-* Skuteczność Pfizera w ochronie przed zakażeniem na poziomie 89% po drugiej dawce szczepionki Pfizera
-* Skuteczność AZ w ochronie przed zakażeniem na poziomie 73% po drugiej dawce
+* Badanie na grupie **osób powyżej lat 70**.
+* Skuteczność Pfizera w ochronie przed zakażeniem na poziomie 89% po drugiej dawce szczepionki Pfizera.
+* Skuteczność AZ w ochronie przed zakażeniem na poziomie 73% po drugiej dawce.
 * Ochrona przed hospitalizacją 43% dla AZ i 51% dla Pfizera.
-* Za mało danych by wyciągać wnioski o ochronie przed śmiercią
+* Za mało danych by wyciągać wnioski o ochronie przed śmiercią.
 
 
 ## 🇺🇸 USA
@@ -83,13 +83,13 @@ Finansowanie: The BMJ.
 
 [Covid-19: Unvaccinated face 11 times risk of death from delta variant, CDC data show](https://www.bmj.com/content/374/bmj.n2282)
 
-* Badania przeprowadzone po Delcie
-* Badania przeprowadzone na grupie weteranów wojennych
-  * Średnia wieku weteranów wojennych w USA to 58 lat, w porównaniu do 38 lat ogólnej populacji
-  * Około 90% weteranów to mężczyźni
-* Szczepienia były w 89% skuteczne w ochronie przed hospitalizacją u osób poniżej 75 roku życia
-* Szczepienia były w 76% skuteczne w ochronie przed hospitalizacją u osób powyżej 75 roku życia
-* Moderna była skuteczna w 91%, Pfizer w 83%
+* Badania przeprowadzone po Delcie.
+* Badania przeprowadzone na grupie weteranów wojennych.
+  * Średnia wieku weteranów wojennych w USA to 58 lat, w porównaniu do 38 lat ogólnej populacji.
+  * Około 90% weteranów to mężczyźni.
+* Szczepienia były w 89% skuteczne w ochronie przed hospitalizacją u osób poniżej 75 roku życia.
+* Szczepienia były w 76% skuteczne w ochronie przed hospitalizacją u osób powyżej 75 roku życia.
+* Moderna była skuteczna w 91%, Pfizer w 83%.
 
 ## 🇩🇪 Niemcy
 
@@ -99,10 +99,10 @@ Finansowanie: Ministerstwo Zdrowia Niemiec.
 
 Najważniejsze wnioski:
 
-* 75% skuteczność szczepień w ochronie przed zakażeniem Deltą
-* 90% skuteczność w ochronie przed hospitalizacją
+* 75% skuteczności szczepień w ochronie przed zakażeniem Deltą.
+* 90% skuteczności w ochronie przed hospitalizacją.
 * Zmniejszona skuteczność w ochronie przed lekkim przebiegiem COVID-19 względem wariantu Alfa.
-* Zachowana skutecznosć w ochronie przed ciężkim przebiegiem COVID-19
+* Zachowana skutecznosć w ochronie przed ciężkim przebiegiem COVID-19.
 
 ## 🇳🇱 Niderlandy
 
@@ -110,6 +110,6 @@ Finansowanie: instytucje publiczne Niderlandów.
 
 [Vaccine effectiveness against SARS-CoV-2 transmission and infections among household and other close contacts of confirmed cases, the Netherlands, February to May 2021](https://pubmed.ncbi.nlm.nih.gov/34355689/)
 
-* 71% skutecznosć w ochronie przed zakażeniem w przypadku osób mieszkających w tym samym domu
+* 71% skuteczności w ochronie przed zakażeniem w przypadku osób mieszkających w tym samym domu.
 
 
