@@ -26,6 +26,7 @@ const fileList = (<string>fileListRaw)
     for (const files of chunk<string>(fileList, cpus().length)) {
         await Promise.all(
             files.map((filePath) => {
+                console.log(`Spawning worker for ${filePath}`);
                 return new Promise((resolve, reject) => {
                     const worker = new Worker(join(__dirname, 'worker.js'), {
                         workerData: {
@@ -40,11 +41,12 @@ const fileList = (<string>fileListRaw)
                             reject(new Error(String(exitCode)));
                         }
                     });
-                });
+                }).then(() => console.log(`Processing ended for ${filePath}`));
             }),
         );
     }
 })().catch((err) => {
+    console.error(err);
     setImmediate(() => {
         throw err;
     });

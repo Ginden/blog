@@ -3,10 +3,146 @@
   <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
   <link href="https://ginden.github.io//blog/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ginden.github.io//blog/" rel="alternate" type="text/html"/>
-  <updated>2021-11-15T23:23:14+01:00</updated>
+  <updated>2021-12-09T01:10:03+01:00</updated>
   <id>https://ginden.github.io//blog/feed.xml</id>
   <title type="html">Blog Michała Wadasa</title>
   <subtitle>Mój prywatny blog z moimi prywatnymi opiniami.</subtitle>
+  <entry>
+    <title type="html">Badania potwierdzające skuteczność szczepień przeciwko COVID-19</title>
+    <link href="https://ginden.github.io//blog/covid-19-lista-badan/" rel="alternate" type="text/html" title="Badania potwierdzające skuteczność szczepień przeciwko COVID-19"/>
+    <published>2021-12-09T00:19:00+01:00</published>
+    <updated>2021-12-09T00:19:00+01:00</updated>
+    <id>https://ginden.github.io//blog/covid-19-lista-badan</id>
+    <content type="html" xml:base="https://ginden.github.io//blog/covid-19-lista-badan/">&lt;p&gt;Zostały wybrane badania, które &lt;strong&gt;nie&lt;/strong&gt; zostały sfinansowane przez producentów szczepionek.&lt;/p&gt;
+
+&lt;h2 id="-węgry"&gt;🇭🇺 Węgry&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: instytucje państwowe Węgier.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.sciencedirect.com/science/article/pii/S1198743X2100639X"&gt;Nationwide effectiveness of five SARS-CoV-2 vaccines in Hungary - The HUN-VE study&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Najsłabiej wypadła szczepionka Sinopharmu (chińska).&lt;/li&gt;
+  &lt;li&gt;Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%.&lt;/li&gt;
+  &lt;li&gt;Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA)&lt;/li&gt;
+  &lt;li&gt;Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id="-izrael"&gt;🇮🇱 Izrael&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: instytucje państwowe Izraela.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/33964222/"&gt;Impact and effectiveness of mRNA BNT162b2 vaccine against SARS-CoV-2 infections and COVID-19 cases, hospitalisations, and deaths following a nationwide vaccination campaign in Israel: an observational study using national surveillance data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Szczepienie Pfizera było w 95% skuteczne w ochronie przed zakażeniem&lt;/li&gt;
+  &lt;li&gt;Szczepienie Pfizera było w 96% skuteczne w ochronie przed śmiercią&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-izrael-trzecia-dawka"&gt;🇮🇱 Izrael, trzecia dawka&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02249-2/fulltext"&gt;Effectiveness of a third dose of the BNT162b2 mRNA COVID-19 vaccine for preventing severe outcomes in Israel: an observational study&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Badanie zostało przeprowadzone po upowszechnieniu się wariantu Delta&lt;/li&gt;
+  &lt;li&gt;Mediana wieku badanych 52 lata, w porównaniu do mediany
+Izraela &lt;a href="https://www.worldometers.info/world-population/israel-population/"&gt;30 lat&lt;/a&gt;. Skuteczność szczepionki jest
+mniejsza u osób starszych, ze względu na starzenie się układu odpornościowego.&lt;/li&gt;
+  &lt;li&gt;Dość ostre kryteria wykluczenia - wykluczono osoby obłożnie chore i w domach starości&lt;/li&gt;
+  &lt;li&gt;Grupą kontrolną były osoby zaszczepione 2 razy ponad 5 miesięcy temu&lt;/li&gt;
+  &lt;li&gt;Zapobiega 93% infekcji u osób zaszczepionych 3 dawką (dla uzyskania informacji o odporności w porównaniu do osób
+niezaszczepionych, 7% trzeba pomnożyć przez (100 - skuteczność po 6 miesiącach)%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="analiza-chińsko-kanadyjska-danych-usa"&gt;Analiza chińsko-kanadyjska danych USA&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: The authors declare no competing interests.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34365034/"&gt;A comprehensive analysis of the efficacy and safety of COVID-19 vaccines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wszystkie szczepionki miały skuteczność ponad 70% w zapobieganiu zakażeniu&lt;/li&gt;
+  &lt;li&gt;Szczepionki mRNA miały skuteczność 94% w zapobieganiu zakażeniu.&lt;/li&gt;
+  &lt;li&gt;Osoby młodsze, czarne i mężczyźni mieli wyższą skuteczność szczepienia&lt;/li&gt;
+  &lt;li&gt;Poważne skutki uboczne były bardzo rzadkie. Ból, zmęczenie i ból głowy były bardzo częste i ustępowały bardzo szybko.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-wielka-brytania"&gt;🇬🇧 Wielka Brytania&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: instytucje publiczne Wielkiej Brytanii&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/33985964/"&gt;Effectiveness of the Pfizer-BioNTech and Oxford-AstraZeneca vaccines on covid-19 related symptoms, hospital admissions, and mortality in older adults in England: test negative case-control study&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Osoby powyżej lat 70&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Skuteczność Pfizera w ochronie przed zakażeniem na poziomie 89% po drugiej dawce szczepionki Pfizera&lt;/li&gt;
+  &lt;li&gt;Skuteczność AZ w ochronie przed zakażeniem na poziomie 73% po drugiej dawce&lt;/li&gt;
+  &lt;li&gt;Ochrona przed hospitalizacją 43% dla AZ i 51% dla Pfizera.&lt;/li&gt;
+  &lt;li&gt;Za mało danych by wyciągać wnioski o ochronie przed śmiercią&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-usa"&gt;🇺🇸 USA&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: The BMJ.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.bmj.com/content/374/bmj.n2282"&gt;Covid-19: Unvaccinated face 11 times risk of death from delta variant, CDC data show&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Badania przeprowadzone po Delcie&lt;/li&gt;
+  &lt;li&gt;Badania przeprowadzone na grupie weteranów wojennych
+    &lt;ul&gt;
+      &lt;li&gt;Średnia wieku weteranów wojennych w USA to 58 lat, w porównaniu do 38 lat ogólnej populacji&lt;/li&gt;
+      &lt;li&gt;Około 90% weteranów to mężczyźni&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Szczepienia były w 89% skuteczne w ochronie przed hospitalizacją u osób poniżej 75 roku życia&lt;/li&gt;
+  &lt;li&gt;Szczepienia były w 76% skuteczne w ochronie przed hospitalizacją u osób powyżej 75 roku życia&lt;/li&gt;
+  &lt;li&gt;Moderna była skuteczna w 91%, Pfizer w 83%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-niemcy"&gt;🇩🇪 Niemcy&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: Ministerstwo Zdrowia Niemiec.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34651577/"&gt;Effectiveness of COVID-19 vaccines against SARS-CoV-2 infection with the Delta (B.1.617.2) variant: second interim results of a living systematic review and meta-analysis, 1 January to 25 August 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Najważniejsze wnioski:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;75% skuteczność szczepień w ochronie przed zakażeniem Deltą&lt;/li&gt;
+  &lt;li&gt;90% skuteczność w ochronie przed hospitalizacją&lt;/li&gt;
+  &lt;li&gt;Zmniejszona skuteczność w ochronie przed lekkim przebiegiem COVID-19 względem wariantu Alfa.&lt;/li&gt;
+  &lt;li&gt;Zachowana skutecznosć w ochronie przed ciężkim przebiegiem COVID-19&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-niderlandy"&gt;🇳🇱 Niderlandy&lt;/h2&gt;
+
+&lt;p&gt;Finansowanie: instytucje publiczne Niderlandów.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/34355689/"&gt;Vaccine effectiveness against SARS-CoV-2 transmission and infections among household and other close contacts of confirmed cases, the Netherlands, February to May 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;71% skutecznosć w ochronie przed zakażeniem w przypadku osób mieszkających w tym samym domu&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name/>
+    </author>
+    <category term="medycyna"/>
+    <category term="covid-19"/>
+    <summary type="html">Zostały wybrane badania, które nie zostały sfinansowane przez producentów szczepionek. 🇭🇺 Węgry Finansowanie: instytucje państwowe Węgier. Nationwide effectiveness of five SARS-CoV-2 vaccines in Hungary - The HUN-VE study Najważniejsze wnioski: Najsłabiej wypadła szczepionka Sinopharmu (chińska). Osoby zaszczepione szczepionkami mRNA były chronione przed infekcją w 88.7%. Osoby zaszczepione były chronione przed śmiercią od 87.8% (Sinopharm) do 97.5% (szczepionki mRNA) Skuteczność szczepień w ochronie przed śmiercią w grupie wiekowej 16-44 lat wynosiła 100%.</summary>
+  </entry>
   <entry>
     <title type="html">Kontrola czynszów, dlaczego ludzie myślą że działa, dlaczego nie działa…</title>
     <link href="https://ginden.github.io//blog/kontrola-czynszow/" rel="alternate" type="text/html" title="Kontrola czynszów, dlaczego ludzie myślą że działa, dlaczego nie działa…"/>
@@ -908,166 +1044,5 @@ Nie będę wspominał o takich niszowych pisemkach jak &lt;a href="http://www.ec
       <name/>
     </author>
     <summary type="html">Jeśli z okazji pandemii zastanawialiście się jak zgromadzić jak największe zapasy w najmniejszej przestrzeni, to post dla was.</summary>
-  </entry>
-  <entry>
-    <title type="html">Kolejna pasta o Całunie Turyńskim</title>
-    <link href="https://ginden.github.io//blog/kolejna-pasta-o-calunie-turynskim/" rel="alternate" type="text/html" title="Kolejna pasta o Całunie Turyńskim"/>
-    <published>2020-01-27T18:16:00+01:00</published>
-    <updated>2020-01-27T18:16:00+01:00</updated>
-    <id>https://ginden.github.io//blog/kolejna-pasta-o-calunie-turynskim</id>
-    <content type="html" xml:base="https://ginden.github.io//blog/kolejna-pasta-o-calunie-turynskim/">&lt;p&gt;Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł &lt;a href="https://web.archive.org/save/https://www.salon24.pl/u/dziennikarstwoobywatelskie/861368,sensacyjne-odkrycie-w-calunie-turynskim"&gt;post z Salonu24&lt;/a&gt; który zawiera ich wręcz niezliczone miriady.&lt;/p&gt;
-
-&lt;p&gt;Przeanalizujmy je krok po kroku:
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Naukowcy dzisiaj oceniają, iż prawdopodobieństwo tego, że Całun nie pochodził od ciała Jezusa Chrystusa, wynosi na 1 do 10 miliardów&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="https://ginden.github.io/blog/o-zlej-metodzie-calunu/"&gt;O tym już pisałem&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Całun nie został namalowany! Ilość barwnika odkryta na płótnie nie wystarczyła by nawet do namalowania jednej kropli krwi znajdującej się na Całunie !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;trudno powiedzieć&lt;/strong&gt;/&lt;strong&gt;błąd wnioskowania&lt;/strong&gt;. Błąd wnioskowania - z faktu że nie znaleziono barwnika, nie można by wysnuwać wniosku że nie został namalowany (można przecież malować krwią). Nie znalazłem żadnych badań informujących o ilości barwnika znajdującej się na CT.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Wizerunek Jezusa Chrystusa na Całunie nie posiada periodyczności, czyli „kierunkowości”, „powtarzalności” jakichkolwiek ruchów narzędzia nakładającego barwnik (barwnik, którego oczywiście nie było..). Oznacza to, że nie mógł namalować go żaden artysta, gdyż nie można namalować obrazu bez użycia pędzla ani barwnika !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;prawda&lt;/strong&gt;/&lt;strong&gt;błędna sugestia&lt;/strong&gt;. Rzeczywiście, w &lt;strong&gt;1977&lt;/strong&gt; na Całunie Turyńskim nie znaleziono &lt;q&gt;kierunkowości&lt;/q&gt; [1]. Nie jest jednak jasne, czy niska dokładność ówczesnych obliczeń i dość niska rozdzielczość pozwoliłyby ją wykryć na wyblakłym obrazie. Być może jej nigdy nie było, możliwe że potrzebne są lepsze badania (niestety, KK nie udostępnia skanów HD Całunu Turyńskiego, byśmy mogli to samodzielnie sprawdzić), możliwe że całun wyblakł z czasem.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Z odległości do 90 cm wizerunek Jezusa niknie. To również wyklucza namalowanie obrazu. Malarz nie mógłby malować w momencie, gdyby nie widział, a nie jest w stanie malować z odległości większej niż zasięg ręki !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;błąd wnioskowania&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Istnieją techniki malowania z odległości większej niż zasięg ręki.&lt;/li&gt;
-  &lt;li&gt;Jeśli CT został namalowany, a następnie poddany obróbce - wizerunek mógł być łatwy do zauważenia w momencie malowania, a następnie &lt;em&gt;zniknąć&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Wizerunek Chrystusa odbił się jedynie na powierzchownej warstwie płótna, nie wnikając w ogóle w wewnętrzne struktury materiału. Na całej powierzchni obraz jest niewiarygodnie delikatny, ma zaledwie 40 mikronów grubości ! A mimo to – co wykazały badania przeprowadzone przy użyciu aparatury do badań kosmicznych – jest obrazem trójwymiarowym! Jest zaledwie muśnięciem, odpowiadającym grubości ściany komórkowej pojedynczego włókna materiału!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;prawda&lt;/strong&gt; (z zastrzeżeniem - nie na całej powierzchni, tylko na zbadanych fragmentach).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Kolejny i niemożliwy do wyjaśnienia fakt - brak jest śladów odrywania ciała Chrystusa od płótna - nie ma śladów przesunięcia drobinek krwi, które MUSIAŁYBY wystąpić, gdyby Tego martwego człowieka z Całunu ściągano. Cokolwiek, jeśli odrywa się z zaschniętej rany, nie odpada pod idealnym kątem prostym. To jest niemożliwe. Zawsze pod mikroskopem widać przesunięcia w różnych kierunkach !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;trudno powiedzieć&lt;/strong&gt;. Nie udało mi się znaleźć źródła tej tezy ani badań na jej temat.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Badania genetyczne potwierdzają, że krew na Całunie ma 2000 lat !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;bzdura&lt;/strong&gt;. Badania genetyczne nie mogą ustalić wieku krwi.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Ślady krwi, co również jest niewytłumaczalne, są nadal czerwone !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamrstwo&lt;/strong&gt;. CT zawiera małe fragmenty czerwonego barwnika, ale ślady &lt;em&gt;krwi&lt;/em&gt; makroskopowo są brązowe.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Odnaleziona na nim krew składa się z hemoglobiny i daje pozytywny test na obecność surowicy i albumin, a więc bez wątpienia należy do człowieka !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo&lt;/strong&gt;, &lt;strong&gt;błąd wnioskowania&lt;/strong&gt;. Hemoglobina, surowica i albuminy występują u wszystkich ssaków, więc nie jest możliwe ustalenie gatunku na ich podstawie.&lt;/p&gt;
-
-&lt;p&gt;Przeprowadzono inne badania (Adler, Heller), które sugerują obecność krwi naczelnego, przy czym wyniki nie są rozstrzygające.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Badania genetyczne krwinek z Całunu, które przeprowadzili specjaliści od badań DNA, w sposób jednoznaczny datują wiek krwinek, a tym samym także wiek Całunu na pierwsze stulecie naszej ery, na czasy życia Jezusa Chrystusa !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo i bzdura&lt;/strong&gt;. Z CT nie uzyskano żadnych krwinek, gdyby nawet one były to erytrocyty nie zawierają DNA, a nawet gdyby zawierały, nie jest możliwe datowanie DNA.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Układ plam krwi na Całunie był identyczny jak na Chuście z Oviedo ! Nie ma dziś wątpliwości, że oba te płótna okrywały tę samą osobę, tylko w innych momentach. Wszystkie ślady pozostawione na obu materiałach zgodne są również z biblijnym opisem męki, śmierci i pogrzebu Jezusa Chrystusa !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;trudno powiedzieć&lt;/strong&gt;. Ja nie widzę podobieństwa (&lt;a href="https://www.fronda.pl/site_media/media/uploads/article/.thumbnails/chusta_z_oviedo_youtube-746x280.jpg"&gt;chusta&lt;/a&gt;).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Na całunie występuje grupa krwi AB. Grupę AB ma jedynie u 4-5% populacji ludzkiej, najczęściej natomiast jest spotykana wśród Żydów (18%)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo&lt;/strong&gt;. Grupa krwi AB występuje najczęściej u Koreańczyków (&lt;a href="https://en.wikipedia.org/wiki/Blood_type_distribution_by_country#Maps_of_allele_ABO_among_native_populations"&gt;Blood type distribution by country&lt;/a&gt;), a w Izraelu jest prawie równie popularna co w Polsce.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Ślady na całunie zostały porównane z Tuniką z Argeneuil, gdzie pokrywały się z ranami na Całunie Turyńskim na plecach. Również ślady z Całunu Turyńskiego, Całunu z Manopello i Chusty z Oviedo idealnie się pokrywają !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo&lt;/strong&gt;. Żadne badanie naukowe nie porównywało CT z ubraniem z Argeneuil (którego autentyczność też jest wątpliwa). Chusta z Manipello jest w oczywisty sposób namalowana.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Na powiekach Jezusa Chrystusa odkryto dwie monety z brązu o średnicy 15 milimetrów. Pochodzą one z szesnastego roku panowania Tyberiusza, tzn. z roku 29-30 n.e. Po jej powiększeniu mikroskopem elektronowym okazało się, że to jest lepton Piłata. Leptony były bite w czasie, kiedy Piłat był namiestnikiem Palestyny, w latach 26 do 36 n.e. Jest również na niej napisane (w języku łacińskim): Cesarzowi Tyberiuszowi.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo&lt;/strong&gt;. &lt;a href="http://www.amuseum.org/book/page27.html"&gt;Wyjaśnienie&lt;/a&gt;. Ludzie w niewyraźnych obrazach widzą to co chcą zobaczyć.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Na Całunie zidentyfikowano 58 różnych gatunków roślin, których pyłki zostały na nim. Spośród nich, tylko 17 stanowiły rośliny rosnące w Europie, pozostałe 41 charakterystycznych było natomiast dla flory Azji i Afryki. Istnieje natomiast tylko jeden obszar geograficzny, w którym spotyka się aż 38 z tych 41 rodzajów pyłków – jest to Judea !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Za Wikipedią:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Współczesne badanie przeprowadzone w 2015 r. i opublikowane w Nature[2], objęło analizę ludzkiego i roślinnego DNA pobranego z Całunu podczas jego odkurzania w 1977 r. i 1988 r. Znaleziono ślady 19 różnych taksonów włączając w to rośliny charakterystyczne dla obszaru śródziemnomorskiego ale również dla Europy Środkowej, północnej i wschodniej Afryki, Środkowego Wschodu, wschodniej Azji (Chin) i obu Ameryk. Znaleziono również sekwencje ludzkiego, mitochondrialnego DNA należącego do haplogrup typowych dla różnych regionów geograficznych i etnicznych, w tym Europy, północnej i wschodniej Afryki, Środkowego Wschodu i Indii. Zidentyfikowano również DNA pochodzenia zwierzęcego, w tym należącego do różnych gatunków ptaków, a także jedną sekwencję należącą do pewnego gatunku robaka morskiego, typowego dla obszaru północnego Pacyfiku.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ludzie w niewyraźnych obrazach widzą to co chcą zobaczyć.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Splot tkaniny z której wykonany jest Całun jest identyczny ze splotem stosowanym w całunach pogrzebowych odnajdywanych w żydowskich grobach datowanych mniej więcej od 40 roku p.n.e. do 73 roku n.e.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;kłamstwo&lt;/strong&gt; - znamy tylko jeden taki całun (inny niż turyński) i jest utkany innym splotem.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Na całunie widać sam fakt biczowania oraz koronowania cierniem. Widać przebity bok, potwornie zniszczoną jamę brzuszną. Chrystus był maltretowany przed śmiercią. Miał rozbity łuk brwiowy, zmiażdżony nos, spuchnięte usta od uderzeń i złamaną kość jarzmową. Na Jego twarzy, pomimo ogromnego cierpienia, nie widać złości !!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;błąd wnioskowania&lt;/strong&gt;/&lt;strong&gt;niewiedza medyczna&lt;/strong&gt;. Fałszerz musiał znać ewangelie, więc wiedział co zrobiono Jezusowi, zaś na twarzach zmarłych ludzi nie widać zwykle złości, bo w momencie śmierci mięśnie się rozlużniają.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Wśród licznych dowodów potwierdzających autentyczność, znajdują się szczegółowe badania ran spod “korony cierniowej”. Wypływ krwi zgadza się z rozmieszczeniem żył i tętnic ! Nie mogło to więc być średniowieczne fałszerstwo, gdyż układ krwionośny odkryto dopiero w XVI wieku.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;raczej kłamstwo&lt;/strong&gt;, por. &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.13867"&gt;wyjaśnienie&lt;/a&gt;. Raczej, bo &lt;em&gt;bloodstain pattern analysis&lt;/em&gt; zaliczyło już kilka spektakularnych porażek.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Osoba na Całunie nie ma pępka ! ! !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A podobno Chrystus urodził się z Maryi…&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Stwierdzono brak otarć na szacie Chrystusa od belki na ramionach spowodowanych warstwą płótna. Jest to dziwne, gdyż skazańców krzyżowano zwykle nago. Można to wytłumaczyć prawem rzymskim. Otóż znane były dwie kary chłosty: pierwsza - 40 razów, oraz druga - chłosta do zemdlenia. Ilość razów postaci na Całunie dochodzi do 120. Musiał to więc być ten drugi sposób. Po chłoście drugim sposobem skazańca wypuszczano, o czym świadczą słowa Piłata w Ewangelii św. Łukasza: “Każę więc go wychłostać i uwolnię”. Piłat, przymuszony przez Sanhedryna, musiał więc ukryć chłostę. Zrobił to przez nałożenie mu szaty !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;strong&gt;argument ad hoc&lt;/strong&gt;. Gdyby postać z CT miała otarcia, to byłby argument za niesieniem krzyża. To że nie ma, też jest argumentem za.&lt;/p&gt;
-
-&lt;p&gt;Czemu Piłat miałby cokolwiek ukrywać? Przypomnijmy: Piłat był krwawym i znienawidzonym tyranem, który bez oporów używał wojska do rozpędzania protestujących tłumów Żydów (np. gdy zdefraudował pieniądze Świątyni).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;• Całun powstał przez krótkotrwałe wydzielenie energii. Niewiarygodnie krótkotrwałe! Muśnięcie energii! Człowiek z Całunu po prostu wyemanował! Wyemanował na wszystkie strony! Innego wyjaśnienia nie ma ! Teoria błysku – czyli ogromnej energii, która uwolniła się w niebywale krótkiej chwili, tak, że nie zniszczyła materiału – jest JEDYNĄ teorią, która jest w stanie wyjaśnić powstanie Całunu Turyńskiego !&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prawdziwość: &lt;em&gt;kłamstwo&lt;/em&gt;. Nie ma żadnego dowodu że tak powstał, jeden profesor mechaniki stwierdził, że on nie widzi innego sposobu.&lt;/p&gt;
-
-&lt;h3 id="przypisy"&gt;Przypisy&lt;/h3&gt;
-
-&lt;p&gt;[1] J. J. Lorre, D. J. Lynn, “Digital enhancement of images of the Shroud of Turin”, in: Proceedings of the 1977 United States Conference of research on the Shroud of Turin, Albuquerque 1977, Holy Shroud Guild, New York 1977
-[2] &lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/26434580"&gt;Uncovering the sources of DNA found on the Turin Shroud&lt;/a&gt;.&lt;/p&gt;</content>
-    <author>
-      <name/>
-    </author>
-    <category term="katolicyzm"/>
-    <category term="całun turyński"/>
-    <summary type="html">Mało jest rzeczy o których opowiada się tyle kłamstw co o Całunie Turyńskim. W moje ręce wpadł post z Salonu24 który zawiera ich wręcz niezliczone miriady. Przeanalizujmy je krok po kroku:</summary>
   </entry>
 </feed>

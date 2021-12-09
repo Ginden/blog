@@ -7,6 +7,7 @@ const domainFragmentClassMap: Record<string, string> = {
     'ncbi.nlm.nih.gov': 'pubmed',
     'facebook.com': 'facebook',
     'doi.org': 'doi',
+    'gov.pl': 'polish-gov'
 };
 
 export const popularDomains: Record<string, number> = {};

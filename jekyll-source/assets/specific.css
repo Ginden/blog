@@ -54,6 +54,10 @@ a.doi-link {
     background-image: url("./external-icons/doi.svg");
 }
 
+a.polish-gov-link {
+    background-image: url("./external-icons/Flag_of_Poland.svg")
+}
+
 .banner-container {
     height: 5em;
     overflow: visible;
@@ -123,4 +127,8 @@ div.editor-note {
     border-left: 5px solid #fbb;
     display: flex;
     flex-direction: row;
+}
+
+h1 {
+    line-height: 1.2em;
 }
